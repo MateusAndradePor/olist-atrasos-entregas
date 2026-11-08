@@ -20,9 +20,12 @@ No teste de abril a agosto de 2018, houve 1.421 atrasos em 32.150 pedidos. A reg
 | Política no teste | Pedidos sinalizados | Atrasos capturados | Precisão dos alertas | Revocação dos atrasos |
 | --- | ---: | ---: | ---: | ---: |
 | Limiar fixado na validação | 7.689 (23,92%) | 588 | 7,65% | 41,38% |
-| Cota de até 15% por dia | 4.744 (14,76%) | 431 | 9,09% | 30,33% |
+| Regressão logística com cota de até 15% por dia | 4.744 (14,76%) | 431 | 9,09% | 30,33% |
+| Regra pela taxa histórica da UF com a mesma cota | 4.744 (14,76%) | 368 | 7,76% | 25,90% |
 
 A cota diária sinaliza os maiores scores do dia, arredondando a capacidade para baixo. No teste, a fila ficou aproximadamente **2,06 vezes** mais concentrada em atrasos do que a coorte de teste como um todo. O limiar fixo, calibrado para 15% na validação, sobrecarregaria a revisão no teste.
+
+A regra por UF usa apenas as taxas observadas no treino, com a taxa geral do treino para UFs sem histórico. As duas filas usam a mesma cota por dia e a mesma ordem cronológica para desempates. Com os mesmos 4.744 alertas, a regressão logística capturou **63 atrasos a mais**. Sua precisão de 9,09% significa que 431 dos 4.744 pedidos sinalizados chegaram depois da data prometida.
 
 ## Ações sugeridas
 
