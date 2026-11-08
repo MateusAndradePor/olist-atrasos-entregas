@@ -32,6 +32,7 @@ O treino usa compras de 2017 com entrega conhecida antes de janeiro de 2018. A v
 - **6,79%** dos 96.203 pedidos entregues chegaram depois da data prometida. Março de 2018 teve a maior taxa mensal, de **18,96%**.
 - Entre os pedidos avaliados, **62,42%** dos atrasados receberam nota 1 ou 2, ante **9,25%** dos pedidos no prazo.
 - No teste, uma fila com cota diária sinalizaria **14,76%** dos pedidos e capturaria **30,33%** dos atrasos. O limiar fixo sinalizaria **23,92%** dos pedidos. Para um piloto, a cota protege a capacidade de revisão.
+- Com os mesmos **4.744 alertas**, a regressão logística capturou **431 atrasos** (precisão de **9,09%**), ante **368** ao priorizar pela taxa histórica da UF de destino.
 
 ## Reproduzir
 
