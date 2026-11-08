@@ -159,16 +159,21 @@ def avaliar_modelo(pedidos):
 
     # Os scores são calculados na compra. A equipe revisa uma fila ao fim do dia.
     teste = teste.sort_values(["compra", "order_id"])
-    por_dia = teste.groupby(teste.compra.dt.normalize())["score"]
-    cota_diaria = np.floor(ORCAMENTO_ALERTAS * por_dia.transform("size"))
-    teste["alerta"] = por_dia.rank(method="first", ascending=False).le(cota_diaria)
+    taxa_uf_treino = treino.groupby("uf_destino").atrasou.mean()
+    teste["score_uf"] = teste.uf_destino.map(taxa_uf_treino).fillna(treino.atrasou.mean())
+    por_dia = teste.groupby(teste.compra.dt.normalize())
+    cota_diaria = np.floor(ORCAMENTO_ALERTAS * por_dia["score"].transform("size"))
+    posicoes = por_dia[["score", "score_uf"]].rank(method="first", ascending=False)
+    teste["alerta"] = posicoes.score.le(cota_diaria)
+    alerta_referencia_uf = posicoes.score_uf.le(cota_diaria)
     teste["detectado"] = teste.alerta & teste.atrasou
 
     metricas = pd.DataFrame([
         medir(validacao.atrasou, score_validacao, score_validacao > limiar),
         medir(teste.atrasou, teste.score, alerta_limiar.reindex(teste.index)),
         medir(teste.atrasou, teste.score, teste.alerta),
-    ], index=["Validação · limiar", "Teste · limiar", "Teste · cota diária"])
+        medir(teste.atrasou, teste.score_uf, alerta_referencia_uf),
+    ], index=["Validação · limiar", "Teste · limiar", "Teste · cota diária", "Teste · regra por UF"])
     particoes = pd.DataFrame([
         {"particao": nome, "pedidos": len(parte), "atrasados": int(parte.atrasou.sum())}
         for nome, parte in [("Treino", treino), ("Validação", validacao), ("Teste", teste)]
@@ -185,7 +190,7 @@ def medir(atrasou, score, alerta):
     return {
         "pedidos": len(atrasou), "atrasos": atrasos, "taxa_atraso": prevalencia,
         "ap_referencia_aleatoria": prevalencia,
-        "ap_regressao": average_precision_score(atrasou, score),
+        "ap_score": average_precision_score(atrasou, score),
         "roc_auc": roc_auc_score(atrasou, score),
         "alertas": alertas, "atrasos_detectados": detectados,
         "percentual_alertado": alertas / len(atrasou),
