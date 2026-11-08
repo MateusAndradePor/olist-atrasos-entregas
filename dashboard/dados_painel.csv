@@ -1,0 +1,2638 @@
+mes_compra,uf_destino,rota,faixa_prazo,situacao,pedidos,atrasados,soma_dias_atraso,avaliacoes,notas_baixas,soma_notas,pedidos_teste,atrasos_teste,alertas,atrasos_detectados
+2017-01-01,AC,Entre UFs,31+ dias,No prazo,2,0,0,2,2,4.0,0,0,0,0
+2017-01-01,AL,Entre UFs,31+ dias,No prazo,2,0,0,2,1,6.0,0,0,0,0
+2017-01-01,BA,Entre UFs,31+ dias,Atrasado,1,1,15,1,1,2.0,0,0,0,0
+2017-01-01,BA,Entre UFs,31+ dias,No prazo,23,0,0,23,4,94.0,0,0,0,0
+2017-01-01,CE,Entre UFs,31+ dias,Atrasado,1,1,51,1,1,1.0,0,0,0,0
+2017-01-01,CE,Entre UFs,31+ dias,No prazo,7,0,0,7,0,31.0,0,0,0,0
+2017-01-01,DF,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,1,1.0,0,0,0,0
+2017-01-01,DF,Entre UFs,31+ dias,Atrasado,2,2,40,2,1,4.0,0,0,0,0
+2017-01-01,DF,Entre UFs,31+ dias,No prazo,10,0,0,10,2,40.0,0,0,0,0
+2017-01-01,ES,Entre UFs,22 a 30 dias,Atrasado,1,1,14,1,1,1.0,0,0,0,0
+2017-01-01,ES,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-01-01,ES,Entre UFs,31+ dias,No prazo,7,0,0,7,0,30.0,0,0,0,0
+2017-01-01,GO,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2017-01-01,GO,Entre UFs,31+ dias,No prazo,17,0,0,17,2,75.0,0,0,0,0
+2017-01-01,MA,Entre UFs,31+ dias,Atrasado,1,1,27,1,1,1.0,0,0,0,0
+2017-01-01,MA,Entre UFs,31+ dias,No prazo,5,0,0,5,0,24.0,0,0,0,0
+2017-01-01,MG,Dentro da UF,22 a 30 dias,No prazo,3,0,0,3,0,15.0,0,0,0,0
+2017-01-01,MG,Dentro da UF,31+ dias,No prazo,9,0,0,9,0,40.0,0,0,0,0
+2017-01-01,MG,Entre UFs,22 a 30 dias,No prazo,9,0,0,9,2,35.0,0,0,0,0
+2017-01-01,MG,Entre UFs,31+ dias,No prazo,81,0,0,80,8,348.0,0,0,0,0
+2017-01-01,MS,Entre UFs,31+ dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-01-01,MT,Entre UFs,31+ dias,No prazo,9,0,0,9,3,29.0,0,0,0,0
+2017-01-01,PA,Entre UFs,31+ dias,No prazo,10,0,0,10,1,44.0,0,0,0,0
+2017-01-01,PB,Entre UFs,31+ dias,No prazo,2,0,0,2,0,9.0,0,0,0,0
+2017-01-01,PE,Entre UFs,31+ dias,Atrasado,1,1,6,1,1,1.0,0,0,0,0
+2017-01-01,PE,Entre UFs,31+ dias,No prazo,8,0,0,7,0,33.0,0,0,0,0
+2017-01-01,PI,Entre UFs,31+ dias,No prazo,7,0,0,7,0,33.0,0,0,0,0
+2017-01-01,PR,Dentro da UF,22 a 30 dias,No prazo,9,0,0,9,0,45.0,0,0,0,0
+2017-01-01,PR,Dentro da UF,31+ dias,No prazo,27,0,0,27,1,131.0,0,0,0,0
+2017-01-01,PR,Entre UFs,22 a 30 dias,No prazo,2,0,0,2,1,7.0,0,0,0,0
+2017-01-01,PR,Entre UFs,31+ dias,Atrasado,2,2,26,2,2,2.0,0,0,0,0
+2017-01-01,PR,Entre UFs,31+ dias,No prazo,22,0,0,22,3,91.0,0,0,0,0
+2017-01-01,RJ,Dentro da UF,31+ dias,No prazo,7,0,0,6,0,29.0,0,0,0,0
+2017-01-01,RJ,Entre UFs,22 a 30 dias,Atrasado,2,2,39,2,0,9.0,0,0,0,0
+2017-01-01,RJ,Entre UFs,22 a 30 dias,No prazo,9,0,0,9,0,42.0,0,0,0,0
+2017-01-01,RJ,Entre UFs,31+ dias,Atrasado,1,1,21,1,1,1.0,0,0,0,0
+2017-01-01,RJ,Entre UFs,31+ dias,No prazo,72,0,0,70,10,272.0,0,0,0,0
+2017-01-01,RN,Entre UFs,31+ dias,No prazo,5,0,0,5,0,24.0,0,0,0,0
+2017-01-01,RO,Entre UFs,31+ dias,No prazo,3,0,0,3,1,9.0,0,0,0,0
+2017-01-01,RS,Entre UFs,22 a 30 dias,No prazo,5,0,0,5,0,25.0,0,0,0,0
+2017-01-01,RS,Entre UFs,31+ dias,Atrasado,1,1,5,1,1,2.0,0,0,0,0
+2017-01-01,RS,Entre UFs,31+ dias,No prazo,46,0,0,45,5,192.0,0,0,0,0
+2017-01-01,SC,Dentro da UF,22 a 30 dias,No prazo,3,0,0,3,0,15.0,0,0,0,0
+2017-01-01,SC,Entre UFs,22 a 30 dias,No prazo,4,0,0,4,0,18.0,0,0,0,0
+2017-01-01,SC,Entre UFs,31+ dias,Atrasado,1,1,55,1,0,4.0,0,0,0,0
+2017-01-01,SC,Entre UFs,31+ dias,No prazo,18,0,0,18,1,73.0,0,0,0,0
+2017-01-01,SE,Entre UFs,31+ dias,No prazo,4,0,0,4,0,19.0,0,0,0,0
+2017-01-01,SP,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-01-01,SP,Dentro da UF,22 a 30 dias,Atrasado,2,2,40,1,1,2.0,0,0,0,0
+2017-01-01,SP,Dentro da UF,22 a 30 dias,No prazo,46,0,0,46,3,198.0,0,0,0,0
+2017-01-01,SP,Dentro da UF,31+ dias,Atrasado,2,2,84,2,2,2.0,0,0,0,0
+2017-01-01,SP,Dentro da UF,31+ dias,No prazo,126,0,0,125,15,524.0,0,0,0,0
+2017-01-01,SP,Entre UFs,22 a 30 dias,Atrasado,2,2,15,2,1,5.0,0,0,0,0
+2017-01-01,SP,Entre UFs,22 a 30 dias,No prazo,22,0,0,21,1,94.0,0,0,0,0
+2017-01-01,SP,Entre UFs,31+ dias,Atrasado,2,2,7,2,1,4.0,0,0,0,0
+2017-01-01,SP,Entre UFs,31+ dias,No prazo,80,0,0,80,7,343.0,0,0,0,0
+2017-01-01,TO,Entre UFs,31+ dias,No prazo,2,0,0,2,0,9.0,0,0,0,0
+2017-02-01,AC,Entre UFs,31+ dias,No prazo,3,0,0,3,0,15.0,0,0,0,0
+2017-02-01,AL,Entre UFs,31+ dias,Atrasado,1,1,38,1,1,1.0,0,0,0,0
+2017-02-01,AL,Entre UFs,31+ dias,No prazo,11,0,0,11,0,51.0,0,0,0,0
+2017-02-01,AM,Entre UFs,31+ dias,No prazo,8,0,0,8,0,39.0,0,0,0,0
+2017-02-01,AP,Entre UFs,31+ dias,No prazo,2,0,0,2,0,9.0,0,0,0,0
+2017-02-01,BA,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-02-01,BA,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-02-01,BA,Dentro da UF,31+ dias,No prazo,1,0,0,1,1,2.0,0,0,0,0
+2017-02-01,BA,Entre UFs,22 a 30 dias,No prazo,2,0,0,2,0,8.0,0,0,0,0
+2017-02-01,BA,Entre UFs,31+ dias,Atrasado,5,5,149,5,2,17.0,0,0,0,0
+2017-02-01,BA,Entre UFs,31+ dias,No prazo,48,0,0,48,8,191.0,0,0,0,0
+2017-02-01,CE,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-02-01,CE,Entre UFs,31+ dias,Atrasado,1,1,8,1,0,3.0,0,0,0,0
+2017-02-01,CE,Entre UFs,31+ dias,No prazo,11,0,0,11,1,49.0,0,0,0,0
+2017-02-01,DF,Entre UFs,22 a 30 dias,No prazo,4,0,0,4,0,17.0,0,0,0,0
+2017-02-01,DF,Entre UFs,31+ dias,No prazo,17,0,0,16,0,75.0,0,0,0,0
+2017-02-01,ES,Entre UFs,22 a 30 dias,Atrasado,2,2,211,1,1,1.0,0,0,0,0
+2017-02-01,ES,Entre UFs,22 a 30 dias,No prazo,8,0,0,8,1,32.0,0,0,0,0
+2017-02-01,ES,Entre UFs,31+ dias,No prazo,21,0,0,20,4,83.0,0,0,0,0
+2017-02-01,GO,Entre UFs,22 a 30 dias,Atrasado,1,1,152,1,1,1.0,0,0,0,0
+2017-02-01,GO,Entre UFs,31+ dias,No prazo,23,0,0,23,2,100.0,0,0,0,0
+2017-02-01,MA,Entre UFs,31+ dias,No prazo,11,0,0,11,0,51.0,0,0,0,0
+2017-02-01,MG,Dentro da UF,15 a 21 dias,No prazo,3,0,0,3,0,12.0,0,0,0,0
+2017-02-01,MG,Dentro da UF,22 a 30 dias,No prazo,26,0,0,26,2,113.0,0,0,0,0
+2017-02-01,MG,Dentro da UF,31+ dias,No prazo,13,0,0,13,2,53.0,0,0,0,0
+2017-02-01,MG,Entre UFs,22 a 30 dias,Atrasado,1,1,16,1,1,1.0,0,0,0,0
+2017-02-01,MG,Entre UFs,22 a 30 dias,No prazo,92,0,0,92,14,371.0,0,0,0,0
+2017-02-01,MG,Entre UFs,31+ dias,Atrasado,1,1,4,1,0,5.0,0,0,0,0
+2017-02-01,MG,Entre UFs,31+ dias,No prazo,105,0,0,105,14,446.0,0,0,0,0
+2017-02-01,MS,Entre UFs,22 a 30 dias,No prazo,3,0,0,3,0,15.0,0,0,0,0
+2017-02-01,MS,Entre UFs,31+ dias,No prazo,8,0,0,8,0,35.0,0,0,0,0
+2017-02-01,MT,Entre UFs,31+ dias,No prazo,17,0,0,17,6,65.0,0,0,0,0
+2017-02-01,PA,Entre UFs,31+ dias,No prazo,24,0,0,24,1,107.0,0,0,0,0
+2017-02-01,PB,Entre UFs,31+ dias,Atrasado,1,1,5,0,0,0.0,0,0,0,0
+2017-02-01,PB,Entre UFs,31+ dias,No prazo,10,0,0,10,1,44.0,0,0,0,0
+2017-02-01,PE,Entre UFs,22 a 30 dias,Atrasado,1,1,6,1,1,1.0,0,0,0,0
+2017-02-01,PE,Entre UFs,31+ dias,No prazo,19,0,0,19,1,84.0,0,0,0,0
+2017-02-01,PI,Entre UFs,31+ dias,No prazo,10,0,0,10,1,40.0,0,0,0,0
+2017-02-01,PR,Dentro da UF,22 a 30 dias,Atrasado,1,1,9,1,1,1.0,0,0,0,0
+2017-02-01,PR,Dentro da UF,22 a 30 dias,No prazo,7,0,0,7,1,29.0,0,0,0,0
+2017-02-01,PR,Dentro da UF,31+ dias,No prazo,3,0,0,3,0,13.0,0,0,0,0
+2017-02-01,PR,Entre UFs,22 a 30 dias,Atrasado,1,1,9,1,1,1.0,0,0,0,0
+2017-02-01,PR,Entre UFs,22 a 30 dias,No prazo,44,0,0,44,8,179.0,0,0,0,0
+2017-02-01,PR,Entre UFs,31+ dias,Atrasado,1,1,13,0,0,0.0,0,0,0,0
+2017-02-01,PR,Entre UFs,31+ dias,No prazo,53,0,0,53,5,222.0,0,0,0,0
+2017-02-01,RJ,Dentro da UF,15 a 21 dias,Atrasado,1,1,2,1,0,3.0,0,0,0,0
+2017-02-01,RJ,Dentro da UF,22 a 30 dias,Atrasado,1,1,27,1,1,1.0,0,0,0,0
+2017-02-01,RJ,Dentro da UF,22 a 30 dias,No prazo,13,0,0,13,2,55.0,0,0,0,0
+2017-02-01,RJ,Dentro da UF,31+ dias,No prazo,4,0,0,4,1,15.0,0,0,0,0
+2017-02-01,RJ,Entre UFs,22 a 30 dias,Atrasado,3,3,35,2,1,5.0,0,0,0,0
+2017-02-01,RJ,Entre UFs,22 a 30 dias,No prazo,91,0,0,91,6,391.0,0,0,0,0
+2017-02-01,RJ,Entre UFs,31+ dias,Atrasado,3,3,104,2,1,6.0,0,0,0,0
+2017-02-01,RJ,Entre UFs,31+ dias,No prazo,114,0,0,114,15,476.0,0,0,0,0
+2017-02-01,RN,Entre UFs,31+ dias,No prazo,8,0,0,8,0,35.0,0,0,0,0
+2017-02-01,RO,Entre UFs,31+ dias,No prazo,9,0,0,9,1,39.0,0,0,0,0
+2017-02-01,RR,Entre UFs,31+ dias,No prazo,2,0,0,2,0,8.0,0,0,0,0
+2017-02-01,RS,Dentro da UF,15 a 21 dias,Atrasado,1,1,25,1,1,1.0,0,0,0,0
+2017-02-01,RS,Dentro da UF,22 a 30 dias,No prazo,5,0,0,5,0,23.0,0,0,0,0
+2017-02-01,RS,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2017-02-01,RS,Entre UFs,22 a 30 dias,Atrasado,2,2,30,2,2,3.0,0,0,0,0
+2017-02-01,RS,Entre UFs,22 a 30 dias,No prazo,27,0,0,27,0,117.0,0,0,0,0
+2017-02-01,RS,Entre UFs,31+ dias,No prazo,64,0,0,64,4,283.0,0,0,0,0
+2017-02-01,SC,Dentro da UF,22 a 30 dias,No prazo,4,0,0,4,0,17.0,0,0,0,0
+2017-02-01,SC,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-02-01,SC,Entre UFs,22 a 30 dias,Atrasado,3,3,23,1,1,2.0,0,0,0,0
+2017-02-01,SC,Entre UFs,22 a 30 dias,No prazo,26,0,0,26,2,103.0,0,0,0,0
+2017-02-01,SC,Entre UFs,31+ dias,No prazo,23,0,0,23,4,91.0,0,0,0,0
+2017-02-01,SE,Entre UFs,31+ dias,No prazo,12,0,0,12,2,49.0,0,0,0,0
+2017-02-01,SP,Dentro da UF,15 a 21 dias,Atrasado,4,4,32,4,2,11.0,0,0,0,0
+2017-02-01,SP,Dentro da UF,15 a 21 dias,No prazo,37,0,0,37,1,169.0,0,0,0,0
+2017-02-01,SP,Dentro da UF,22 a 30 dias,Atrasado,8,8,45,8,5,18.0,0,0,0,0
+2017-02-01,SP,Dentro da UF,22 a 30 dias,No prazo,272,0,0,271,24,1164.0,0,0,0,0
+2017-02-01,SP,Dentro da UF,31+ dias,Atrasado,2,2,27,2,2,3.0,0,0,0,0
+2017-02-01,SP,Dentro da UF,31+ dias,No prazo,106,0,0,106,11,435.0,0,0,0,0
+2017-02-01,SP,Entre UFs,22 a 30 dias,Atrasado,2,2,22,2,2,2.0,0,0,0,0
+2017-02-01,SP,Entre UFs,22 a 30 dias,No prazo,93,0,0,93,4,415.0,0,0,0,0
+2017-02-01,SP,Entre UFs,31+ dias,Atrasado,2,2,27,2,2,3.0,0,0,0,0
+2017-02-01,SP,Entre UFs,31+ dias,No prazo,74,0,0,74,3,324.0,0,0,0,0
+2017-02-01,SP,Mista,22 a 30 dias,No prazo,1,0,0,1,0,3.0,0,0,0,0
+2017-02-01,TO,Entre UFs,22 a 30 dias,No prazo,2,0,0,2,0,7.0,0,0,0,0
+2017-02-01,TO,Entre UFs,31+ dias,No prazo,5,0,0,5,0,23.0,0,0,0,0
+2017-03-01,AC,Entre UFs,31+ dias,No prazo,2,0,0,2,0,9.0,0,0,0,0
+2017-03-01,AL,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-03-01,AL,Entre UFs,31+ dias,Atrasado,2,2,32,2,2,2.0,0,0,0,0
+2017-03-01,AL,Entre UFs,31+ dias,No prazo,7,0,0,7,0,34.0,0,0,0,0
+2017-03-01,AM,Entre UFs,31+ dias,No prazo,5,0,0,5,0,25.0,0,0,0,0
+2017-03-01,AP,Entre UFs,31+ dias,Atrasado,2,2,145,2,0,9.0,0,0,0,0
+2017-03-01,AP,Entre UFs,31+ dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-03-01,BA,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,1,2.0,0,0,0,0
+2017-03-01,BA,Entre UFs,22 a 30 dias,Atrasado,4,4,161,4,2,11.0,0,0,0,0
+2017-03-01,BA,Entre UFs,22 a 30 dias,No prazo,32,0,0,32,5,131.0,0,0,0,0
+2017-03-01,BA,Entre UFs,31+ dias,Atrasado,3,3,30,2,1,6.0,0,0,0,0
+2017-03-01,BA,Entre UFs,31+ dias,No prazo,47,0,0,46,10,177.0,0,0,0,0
+2017-03-01,CE,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-03-01,CE,Entre UFs,31+ dias,Atrasado,8,8,121,8,7,11.0,0,0,0,0
+2017-03-01,CE,Entre UFs,31+ dias,No prazo,17,0,0,17,2,63.0,0,0,0,0
+2017-03-01,DF,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-03-01,DF,Entre UFs,15 a 21 dias,No prazo,3,0,0,3,0,13.0,0,0,0,0
+2017-03-01,DF,Entre UFs,22 a 30 dias,No prazo,37,0,0,37,3,162.0,0,0,0,0
+2017-03-01,DF,Entre UFs,31+ dias,No prazo,13,0,0,13,3,53.0,0,0,0,0
+2017-03-01,ES,Entre UFs,15 a 21 dias,No prazo,6,0,0,6,1,23.0,0,0,0,0
+2017-03-01,ES,Entre UFs,22 a 30 dias,No prazo,34,0,0,34,1,153.0,0,0,0,0
+2017-03-01,ES,Entre UFs,31+ dias,No prazo,7,0,0,7,0,31.0,0,0,0,0
+2017-03-01,GO,Entre UFs,22 a 30 dias,No prazo,28,0,0,28,3,114.0,0,0,0,0
+2017-03-01,GO,Entre UFs,31+ dias,No prazo,19,0,0,19,4,72.0,0,0,0,0
+2017-03-01,MA,Entre UFs,22 a 30 dias,No prazo,2,0,0,2,0,8.0,0,0,0,0
+2017-03-01,MA,Entre UFs,31+ dias,Atrasado,4,4,39,4,3,8.0,0,0,0,0
+2017-03-01,MA,Entre UFs,31+ dias,No prazo,16,0,0,16,3,62.0,0,0,0,0
+2017-03-01,MG,Dentro da UF,15 a 21 dias,Atrasado,2,2,47,2,2,2.0,0,0,0,0
+2017-03-01,MG,Dentro da UF,15 a 21 dias,No prazo,39,0,0,38,4,162.0,0,0,0,0
+2017-03-01,MG,Dentro da UF,22 a 30 dias,No prazo,3,0,0,3,0,14.0,0,0,0,0
+2017-03-01,MG,Dentro da UF,31+ dias,No prazo,2,0,0,2,0,7.0,0,0,0,0
+2017-03-01,MG,Entre UFs,15 a 21 dias,No prazo,79,0,0,78,5,347.0,0,0,0,0
+2017-03-01,MG,Entre UFs,22 a 30 dias,Atrasado,4,4,200,4,3,6.0,0,0,0,0
+2017-03-01,MG,Entre UFs,22 a 30 dias,No prazo,174,0,0,173,7,779.0,0,0,0,0
+2017-03-01,MG,Entre UFs,31+ dias,Atrasado,2,2,9,2,1,6.0,0,0,0,0
+2017-03-01,MG,Entre UFs,31+ dias,No prazo,37,0,0,37,6,147.0,0,0,0,0
+2017-03-01,MG,Mista,15 a 21 dias,No prazo,1,0,0,1,1,1.0,0,0,0,0
+2017-03-01,MS,Entre UFs,22 a 30 dias,No prazo,17,0,0,17,1,75.0,0,0,0,0
+2017-03-01,MS,Entre UFs,31+ dias,No prazo,2,0,0,2,0,9.0,0,0,0,0
+2017-03-01,MT,Entre UFs,22 a 30 dias,No prazo,6,0,0,6,2,20.0,0,0,0,0
+2017-03-01,MT,Entre UFs,31+ dias,Atrasado,4,4,61,4,3,7.0,0,0,0,0
+2017-03-01,MT,Entre UFs,31+ dias,No prazo,6,0,0,6,0,27.0,0,0,0,0
+2017-03-01,PA,Entre UFs,31+ dias,Atrasado,3,3,182,3,3,3.0,0,0,0,0
+2017-03-01,PA,Entre UFs,31+ dias,No prazo,32,0,0,32,4,121.0,0,0,0,0
+2017-03-01,PB,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-03-01,PB,Entre UFs,22 a 30 dias,No prazo,4,0,0,4,0,20.0,0,0,0,0
+2017-03-01,PB,Entre UFs,31+ dias,Atrasado,1,1,13,1,0,5.0,0,0,0,0
+2017-03-01,PB,Entre UFs,31+ dias,No prazo,10,0,0,10,2,40.0,0,0,0,0
+2017-03-01,PE,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-03-01,PE,Entre UFs,22 a 30 dias,No prazo,3,0,0,3,1,10.0,0,0,0,0
+2017-03-01,PE,Entre UFs,31+ dias,Atrasado,1,1,3,1,0,5.0,0,0,0,0
+2017-03-01,PE,Entre UFs,31+ dias,No prazo,31,0,0,31,1,140.0,0,0,0,0
+2017-03-01,PI,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2017-03-01,PI,Entre UFs,31+ dias,Atrasado,3,3,321,3,1,9.0,0,0,0,0
+2017-03-01,PI,Entre UFs,31+ dias,No prazo,9,0,0,9,0,41.0,0,0,0,0
+2017-03-01,PR,Dentro da UF,15 a 21 dias,No prazo,10,0,0,10,0,48.0,0,0,0,0
+2017-03-01,PR,Dentro da UF,22 a 30 dias,No prazo,3,0,0,3,1,10.0,0,0,0,0
+2017-03-01,PR,Entre UFs,15 a 21 dias,Atrasado,3,3,24,3,0,14.0,0,0,0,0
+2017-03-01,PR,Entre UFs,15 a 21 dias,No prazo,25,0,0,25,3,105.0,0,0,0,0
+2017-03-01,PR,Entre UFs,22 a 30 dias,Atrasado,1,1,3,1,0,5.0,0,0,0,0
+2017-03-01,PR,Entre UFs,22 a 30 dias,No prazo,63,0,0,63,4,276.0,0,0,0,0
+2017-03-01,PR,Entre UFs,31+ dias,Atrasado,1,1,2,1,0,3.0,0,0,0,0
+2017-03-01,PR,Entre UFs,31+ dias,No prazo,15,0,0,15,2,61.0,0,0,0,0
+2017-03-01,RJ,Dentro da UF,15 a 21 dias,No prazo,19,0,0,18,4,69.0,0,0,0,0
+2017-03-01,RJ,Dentro da UF,22 a 30 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-03-01,RJ,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-03-01,RJ,Entre UFs,15 a 21 dias,Atrasado,3,3,11,3,1,11.0,0,0,0,0
+2017-03-01,RJ,Entre UFs,15 a 21 dias,No prazo,79,0,0,78,12,326.0,0,0,0,0
+2017-03-01,RJ,Entre UFs,22 a 30 dias,Atrasado,11,11,151,11,8,20.0,0,0,0,0
+2017-03-01,RJ,Entre UFs,22 a 30 dias,No prazo,214,0,0,212,20,915.0,0,0,0,0
+2017-03-01,RJ,Entre UFs,31+ dias,Atrasado,2,2,29,2,2,2.0,0,0,0,0
+2017-03-01,RJ,Entre UFs,31+ dias,No prazo,39,0,0,39,6,157.0,0,0,0,0
+2017-03-01,RN,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-03-01,RN,Entre UFs,31+ dias,Atrasado,3,3,146,3,2,5.0,0,0,0,0
+2017-03-01,RN,Entre UFs,31+ dias,No prazo,9,0,0,9,0,44.0,0,0,0,0
+2017-03-01,RO,Entre UFs,31+ dias,Atrasado,2,2,9,2,1,6.0,0,0,0,0
+2017-03-01,RO,Entre UFs,31+ dias,No prazo,14,0,0,14,2,55.0,0,0,0,0
+2017-03-01,RR,Entre UFs,31+ dias,Atrasado,1,1,132,1,0,5.0,0,0,0,0
+2017-03-01,RR,Entre UFs,31+ dias,No prazo,1,0,0,1,0,3.0,0,0,0,0
+2017-03-01,RS,Dentro da UF,15 a 21 dias,No prazo,10,0,0,10,0,47.0,0,0,0,0
+2017-03-01,RS,Dentro da UF,22 a 30 dias,No prazo,2,0,0,2,0,9.0,0,0,0,0
+2017-03-01,RS,Entre UFs,15 a 21 dias,No prazo,14,0,0,14,1,61.0,0,0,0,0
+2017-03-01,RS,Entre UFs,22 a 30 dias,Atrasado,1,1,1,1,0,5.0,0,0,0,0
+2017-03-01,RS,Entre UFs,22 a 30 dias,No prazo,83,0,0,83,8,342.0,0,0,0,0
+2017-03-01,RS,Entre UFs,31+ dias,Atrasado,1,1,153,1,0,4.0,0,0,0,0
+2017-03-01,RS,Entre UFs,31+ dias,No prazo,33,0,0,33,2,140.0,0,0,0,0
+2017-03-01,SC,Dentro da UF,15 a 21 dias,Atrasado,2,2,11,2,1,6.0,0,0,0,0
+2017-03-01,SC,Dentro da UF,15 a 21 dias,No prazo,4,0,0,4,0,19.0,0,0,0,0
+2017-03-01,SC,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-03-01,SC,Entre UFs,15 a 21 dias,Atrasado,9,9,54,9,6,18.0,0,0,0,0
+2017-03-01,SC,Entre UFs,15 a 21 dias,No prazo,25,0,0,25,2,106.0,0,0,0,0
+2017-03-01,SC,Entre UFs,22 a 30 dias,Atrasado,7,7,53,7,1,24.0,0,0,0,0
+2017-03-01,SC,Entre UFs,22 a 30 dias,No prazo,47,0,0,46,1,200.0,0,0,0,0
+2017-03-01,SC,Entre UFs,31+ dias,Atrasado,1,1,4,1,1,2.0,0,0,0,0
+2017-03-01,SC,Entre UFs,31+ dias,No prazo,8,0,0,8,0,36.0,0,0,0,0
+2017-03-01,SE,Entre UFs,22 a 30 dias,Atrasado,2,2,325,2,1,4.0,0,0,0,0
+2017-03-01,SE,Entre UFs,22 a 30 dias,No prazo,8,0,0,8,1,32.0,0,0,0,0
+2017-03-01,SE,Entre UFs,31+ dias,Atrasado,1,1,6,1,1,1.0,0,0,0,0
+2017-03-01,SE,Entre UFs,31+ dias,No prazo,11,0,0,11,1,42.0,0,0,0,0
+2017-03-01,SP,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-03-01,SP,Dentro da UF,15 a 21 dias,Atrasado,12,12,120,11,8,21.0,0,0,0,0
+2017-03-01,SP,Dentro da UF,15 a 21 dias,No prazo,472,0,0,468,29,2046.0,0,0,0,0
+2017-03-01,SP,Dentro da UF,22 a 30 dias,Atrasado,1,1,4,1,0,5.0,0,0,0,0
+2017-03-01,SP,Dentro da UF,22 a 30 dias,No prazo,148,0,0,147,17,601.0,0,0,0,0
+2017-03-01,SP,Dentro da UF,31+ dias,Atrasado,1,1,41,1,1,1.0,0,0,0,0
+2017-03-01,SP,Dentro da UF,31+ dias,No prazo,32,0,0,32,6,126.0,0,0,0,0
+2017-03-01,SP,Entre UFs,15 a 21 dias,Atrasado,1,1,7,1,1,2.0,0,0,0,0
+2017-03-01,SP,Entre UFs,15 a 21 dias,No prazo,99,0,0,99,12,418.0,0,0,0,0
+2017-03-01,SP,Entre UFs,22 a 30 dias,Atrasado,7,7,300,6,3,16.0,0,0,0,0
+2017-03-01,SP,Entre UFs,22 a 30 dias,No prazo,165,0,0,163,10,720.0,0,0,0,0
+2017-03-01,SP,Entre UFs,31+ dias,No prazo,26,0,0,26,3,105.0,0,0,0,0
+2017-03-01,TO,Entre UFs,22 a 30 dias,No prazo,3,0,0,3,0,15.0,0,0,0,0
+2017-03-01,TO,Entre UFs,31+ dias,No prazo,4,0,0,4,1,15.0,0,0,0,0
+2017-04-01,AC,Entre UFs,31+ dias,No prazo,5,0,0,5,2,16.0,0,0,0,0
+2017-04-01,AL,Entre UFs,22 a 30 dias,Atrasado,2,2,24,2,1,7.0,0,0,0,0
+2017-04-01,AL,Entre UFs,31+ dias,Atrasado,6,6,29,6,5,13.0,0,0,0,0
+2017-04-01,AL,Entre UFs,31+ dias,No prazo,13,0,0,13,4,45.0,0,0,0,0
+2017-04-01,AM,Entre UFs,31+ dias,No prazo,13,0,0,13,1,59.0,0,0,0,0
+2017-04-01,BA,Dentro da UF,15 a 21 dias,Atrasado,1,1,3,1,1,1.0,0,0,0,0
+2017-04-01,BA,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-04-01,BA,Entre UFs,22 a 30 dias,Atrasado,4,4,268,3,0,12.0,0,0,0,0
+2017-04-01,BA,Entre UFs,22 a 30 dias,No prazo,6,0,0,6,2,19.0,0,0,0,0
+2017-04-01,BA,Entre UFs,31+ dias,Atrasado,7,7,267,7,3,22.0,0,0,0,0
+2017-04-01,BA,Entre UFs,31+ dias,No prazo,65,0,0,65,9,272.0,0,0,0,0
+2017-04-01,CE,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2017-04-01,CE,Entre UFs,31+ dias,Atrasado,5,5,158,5,3,11.0,0,0,0,0
+2017-04-01,CE,Entre UFs,31+ dias,No prazo,36,0,0,36,1,151.0,0,0,0,0
+2017-04-01,DF,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-04-01,DF,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-04-01,DF,Entre UFs,22 a 30 dias,No prazo,21,0,0,21,5,77.0,0,0,0,0
+2017-04-01,DF,Entre UFs,31+ dias,No prazo,11,0,0,11,3,40.0,0,0,0,0
+2017-04-01,ES,Entre UFs,15 a 21 dias,No prazo,2,0,0,2,1,6.0,0,0,0,0
+2017-04-01,ES,Entre UFs,22 a 30 dias,Atrasado,2,2,13,2,2,3.0,0,0,0,0
+2017-04-01,ES,Entre UFs,22 a 30 dias,No prazo,26,0,0,26,3,110.0,0,0,0,0
+2017-04-01,ES,Entre UFs,31+ dias,No prazo,15,0,0,15,2,57.0,0,0,0,0
+2017-04-01,GO,Entre UFs,22 a 30 dias,Atrasado,1,1,24,1,1,1.0,0,0,0,0
+2017-04-01,GO,Entre UFs,22 a 30 dias,No prazo,10,0,0,10,1,45.0,0,0,0,0
+2017-04-01,GO,Entre UFs,31+ dias,Atrasado,2,2,114,2,1,7.0,0,0,0,0
+2017-04-01,GO,Entre UFs,31+ dias,No prazo,25,0,0,25,4,92.0,0,0,0,0
+2017-04-01,MA,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-04-01,MA,Entre UFs,31+ dias,Atrasado,1,1,2,0,0,0.0,0,0,0,0
+2017-04-01,MA,Entre UFs,31+ dias,No prazo,23,0,0,23,2,103.0,0,0,0,0
+2017-04-01,MG,Dentro da UF,15 a 21 dias,No prazo,17,0,0,17,0,77.0,0,0,0,0
+2017-04-01,MG,Dentro da UF,22 a 30 dias,No prazo,21,0,0,21,1,92.0,0,0,0,0
+2017-04-01,MG,Dentro da UF,31+ dias,No prazo,5,0,0,5,0,24.0,0,0,0,0
+2017-04-01,MG,Entre UFs,15 a 21 dias,No prazo,17,0,0,17,1,73.0,0,0,0,0
+2017-04-01,MG,Entre UFs,22 a 30 dias,Atrasado,7,7,28,6,2,19.0,0,0,0,0
+2017-04-01,MG,Entre UFs,22 a 30 dias,No prazo,142,0,0,142,19,601.0,0,0,0,0
+2017-04-01,MG,Entre UFs,31+ dias,No prazo,57,0,0,57,4,247.0,0,0,0,0
+2017-04-01,MS,Entre UFs,22 a 30 dias,Atrasado,1,1,7,1,0,3.0,0,0,0,0
+2017-04-01,MS,Entre UFs,22 a 30 dias,No prazo,10,0,0,10,0,48.0,0,0,0,0
+2017-04-01,MS,Entre UFs,31+ dias,No prazo,4,0,0,4,1,16.0,0,0,0,0
+2017-04-01,MT,Entre UFs,22 a 30 dias,No prazo,2,0,0,2,0,8.0,0,0,0,0
+2017-04-01,MT,Entre UFs,31+ dias,Atrasado,2,2,12,2,1,6.0,0,0,0,0
+2017-04-01,MT,Entre UFs,31+ dias,No prazo,21,0,0,21,1,87.0,0,0,0,0
+2017-04-01,PA,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-04-01,PA,Entre UFs,31+ dias,No prazo,35,0,0,35,4,146.0,0,0,0,0
+2017-04-01,PB,Entre UFs,31+ dias,Atrasado,3,3,18,3,2,8.0,0,0,0,0
+2017-04-01,PB,Entre UFs,31+ dias,No prazo,17,0,0,16,3,57.0,0,0,0,0
+2017-04-01,PE,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-04-01,PE,Entre UFs,31+ dias,Atrasado,3,3,125,3,2,6.0,0,0,0,0
+2017-04-01,PE,Entre UFs,31+ dias,No prazo,32,0,0,32,1,146.0,0,0,0,0
+2017-04-01,PI,Entre UFs,31+ dias,No prazo,11,0,0,10,0,47.0,0,0,0,0
+2017-04-01,PR,Dentro da UF,15 a 21 dias,No prazo,2,0,0,2,0,9.0,0,0,0,0
+2017-04-01,PR,Dentro da UF,22 a 30 dias,No prazo,8,0,0,8,0,36.0,0,0,0,0
+2017-04-01,PR,Dentro da UF,31+ dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-04-01,PR,Entre UFs,15 a 21 dias,Atrasado,1,1,1,1,0,5.0,0,0,0,0
+2017-04-01,PR,Entre UFs,15 a 21 dias,No prazo,9,0,0,9,0,38.0,0,0,0,0
+2017-04-01,PR,Entre UFs,22 a 30 dias,Atrasado,2,2,5,2,0,8.0,0,0,0,0
+2017-04-01,PR,Entre UFs,22 a 30 dias,No prazo,68,0,0,68,6,281.0,0,0,0,0
+2017-04-01,PR,Entre UFs,31+ dias,No prazo,20,0,0,20,1,86.0,0,0,0,0
+2017-04-01,RJ,Dentro da UF,15 a 21 dias,Atrasado,1,1,16,1,0,5.0,0,0,0,0
+2017-04-01,RJ,Dentro da UF,15 a 21 dias,No prazo,4,0,0,4,0,17.0,0,0,0,0
+2017-04-01,RJ,Dentro da UF,22 a 30 dias,No prazo,10,0,0,10,0,48.0,0,0,0,0
+2017-04-01,RJ,Entre UFs,15 a 21 dias,Atrasado,3,3,22,3,3,3.0,0,0,0,0
+2017-04-01,RJ,Entre UFs,15 a 21 dias,No prazo,20,0,0,20,3,82.0,0,0,0,0
+2017-04-01,RJ,Entre UFs,22 a 30 dias,Atrasado,13,13,84,13,8,29.0,0,0,0,0
+2017-04-01,RJ,Entre UFs,22 a 30 dias,No prazo,202,0,0,199,21,844.0,0,0,0,0
+2017-04-01,RJ,Entre UFs,31+ dias,Atrasado,4,4,24,4,3,7.0,0,0,0,0
+2017-04-01,RJ,Entre UFs,31+ dias,No prazo,68,0,0,68,3,307.0,0,0,0,0
+2017-04-01,RN,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2017-04-01,RN,Entre UFs,31+ dias,No prazo,9,0,0,9,0,43.0,0,0,0,0
+2017-04-01,RO,Entre UFs,31+ dias,Atrasado,1,1,3,1,0,3.0,0,0,0,0
+2017-04-01,RO,Entre UFs,31+ dias,No prazo,6,0,0,6,0,27.0,0,0,0,0
+2017-04-01,RR,Entre UFs,31+ dias,No prazo,2,0,0,2,0,7.0,0,0,0,0
+2017-04-01,RS,Dentro da UF,15 a 21 dias,No prazo,3,0,0,3,0,14.0,0,0,0,0
+2017-04-01,RS,Dentro da UF,22 a 30 dias,No prazo,6,0,0,6,1,25.0,0,0,0,0
+2017-04-01,RS,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2017-04-01,RS,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-04-01,RS,Entre UFs,22 a 30 dias,Atrasado,2,2,19,2,2,2.0,0,0,0,0
+2017-04-01,RS,Entre UFs,22 a 30 dias,No prazo,64,0,0,64,9,275.0,0,0,0,0
+2017-04-01,RS,Entre UFs,31+ dias,Atrasado,1,1,18,1,1,2.0,0,0,0,0
+2017-04-01,RS,Entre UFs,31+ dias,No prazo,54,0,0,54,6,222.0,0,0,0,0
+2017-04-01,SC,Dentro da UF,15 a 21 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-04-01,SC,Dentro da UF,22 a 30 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-04-01,SC,Dentro da UF,31+ dias,No prazo,3,0,0,3,1,12.0,0,0,0,0
+2017-04-01,SC,Entre UFs,15 a 21 dias,Atrasado,2,2,2,2,1,4.0,0,0,0,0
+2017-04-01,SC,Entre UFs,15 a 21 dias,No prazo,5,0,0,5,0,24.0,0,0,0,0
+2017-04-01,SC,Entre UFs,22 a 30 dias,Atrasado,6,6,92,6,5,10.0,0,0,0,0
+2017-04-01,SC,Entre UFs,22 a 30 dias,No prazo,58,0,0,58,4,256.0,0,0,0,0
+2017-04-01,SC,Entre UFs,31+ dias,Atrasado,1,1,4,1,1,1.0,0,0,0,0
+2017-04-01,SC,Entre UFs,31+ dias,No prazo,21,0,0,21,3,87.0,0,0,0,0
+2017-04-01,SE,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,1,1.0,0,0,0,0
+2017-04-01,SE,Entre UFs,31+ dias,Atrasado,4,4,50,3,1,10.0,0,0,0,0
+2017-04-01,SE,Entre UFs,31+ dias,No prazo,8,0,0,8,0,35.0,0,0,0,0
+2017-04-01,SP,Dentro da UF,15 a 21 dias,Atrasado,26,26,142,26,15,63.0,0,0,0,0
+2017-04-01,SP,Dentro da UF,15 a 21 dias,No prazo,191,0,0,191,16,818.0,0,0,0,0
+2017-04-01,SP,Dentro da UF,22 a 30 dias,Atrasado,13,13,121,13,8,34.0,0,0,0,0
+2017-04-01,SP,Dentro da UF,22 a 30 dias,No prazo,325,0,0,322,31,1378.0,0,0,0,0
+2017-04-01,SP,Dentro da UF,31+ dias,Atrasado,1,1,2,1,1,1.0,0,0,0,0
+2017-04-01,SP,Dentro da UF,31+ dias,No prazo,56,0,0,56,7,234.0,0,0,0,0
+2017-04-01,SP,Entre UFs,15 a 21 dias,Atrasado,5,5,14,5,2,15.0,0,0,0,0
+2017-04-01,SP,Entre UFs,15 a 21 dias,No prazo,17,0,0,17,2,69.0,0,0,0,0
+2017-04-01,SP,Entre UFs,22 a 30 dias,Atrasado,15,15,138,15,10,33.0,0,0,0,0
+2017-04-01,SP,Entre UFs,22 a 30 dias,No prazo,175,0,0,174,13,746.0,0,0,0,0
+2017-04-01,SP,Entre UFs,31+ dias,Atrasado,1,1,7,1,1,1.0,0,0,0,0
+2017-04-01,SP,Entre UFs,31+ dias,No prazo,44,0,0,44,4,186.0,0,0,0,0
+2017-04-01,SP,Mista,22 a 30 dias,No prazo,4,0,0,4,2,12.0,0,0,0,0
+2017-04-01,TO,Entre UFs,22 a 30 dias,Atrasado,1,1,1,1,0,5.0,0,0,0,0
+2017-04-01,TO,Entre UFs,22 a 30 dias,No prazo,3,0,0,3,0,13.0,0,0,0,0
+2017-04-01,TO,Entre UFs,31+ dias,Atrasado,1,1,6,1,1,1.0,0,0,0,0
+2017-04-01,TO,Entre UFs,31+ dias,No prazo,8,0,0,8,0,39.0,0,0,0,0
+2017-05-01,AC,Entre UFs,31+ dias,No prazo,8,0,0,8,1,33.0,0,0,0,0
+2017-05-01,AL,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2017-05-01,AL,Entre UFs,31+ dias,Atrasado,2,2,16,1,1,1.0,0,0,0,0
+2017-05-01,AL,Entre UFs,31+ dias,No prazo,23,0,0,23,4,94.0,0,0,0,0
+2017-05-01,AM,Entre UFs,31+ dias,Atrasado,1,1,104,1,1,1.0,0,0,0,0
+2017-05-01,AM,Entre UFs,31+ dias,No prazo,7,0,0,7,1,30.0,0,0,0,0
+2017-05-01,AP,Entre UFs,31+ dias,No prazo,4,0,0,4,0,18.0,0,0,0,0
+2017-05-01,BA,Dentro da UF,8 a 14 dias,Atrasado,1,1,16,1,0,5.0,0,0,0,0
+2017-05-01,BA,Entre UFs,22 a 30 dias,Atrasado,1,1,8,1,0,5.0,0,0,0,0
+2017-05-01,BA,Entre UFs,22 a 30 dias,No prazo,30,0,0,30,4,120.0,0,0,0,0
+2017-05-01,BA,Entre UFs,31+ dias,Atrasado,2,2,20,2,2,2.0,0,0,0,0
+2017-05-01,BA,Entre UFs,31+ dias,No prazo,85,0,0,85,10,339.0,0,0,0,0
+2017-05-01,CE,Entre UFs,22 a 30 dias,Atrasado,1,1,5,1,1,1.0,0,0,0,0
+2017-05-01,CE,Entre UFs,22 a 30 dias,No prazo,6,0,0,6,0,28.0,0,0,0,0
+2017-05-01,CE,Entre UFs,31+ dias,No prazo,55,0,0,55,5,245.0,0,0,0,0
+2017-05-01,DF,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-05-01,DF,Entre UFs,22 a 30 dias,No prazo,47,0,0,47,2,212.0,0,0,0,0
+2017-05-01,DF,Entre UFs,31+ dias,No prazo,12,0,0,12,2,48.0,0,0,0,0
+2017-05-01,ES,Dentro da UF,15 a 21 dias,No prazo,1,0,0,0,0,0.0,0,0,0,0
+2017-05-01,ES,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-05-01,ES,Entre UFs,15 a 21 dias,No prazo,2,0,0,1,0,4.0,0,0,0,0
+2017-05-01,ES,Entre UFs,22 a 30 dias,Atrasado,2,2,14,2,1,7.0,0,0,0,0
+2017-05-01,ES,Entre UFs,22 a 30 dias,No prazo,63,0,0,62,6,271.0,0,0,0,0
+2017-05-01,ES,Entre UFs,31+ dias,Atrasado,1,1,24,1,1,1.0,0,0,0,0
+2017-05-01,ES,Entre UFs,31+ dias,No prazo,20,0,0,20,0,94.0,0,0,0,0
+2017-05-01,GO,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-05-01,GO,Entre UFs,22 a 30 dias,Atrasado,2,2,12,2,2,2.0,0,0,0,0
+2017-05-01,GO,Entre UFs,22 a 30 dias,No prazo,47,0,0,47,3,206.0,0,0,0,0
+2017-05-01,GO,Entre UFs,31+ dias,Atrasado,1,1,63,1,1,1.0,0,0,0,0
+2017-05-01,GO,Entre UFs,31+ dias,No prazo,32,0,0,32,3,134.0,0,0,0,0
+2017-05-01,MA,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2017-05-01,MA,Entre UFs,31+ dias,No prazo,30,0,0,30,1,130.0,0,0,0,0
+2017-05-01,MG,Dentro da UF,8 a 14 dias,Atrasado,1,1,104,1,1,1.0,0,0,0,0
+2017-05-01,MG,Dentro da UF,8 a 14 dias,No prazo,6,0,0,6,1,23.0,0,0,0,0
+2017-05-01,MG,Dentro da UF,15 a 21 dias,Atrasado,1,1,7,1,1,1.0,0,0,0,0
+2017-05-01,MG,Dentro da UF,15 a 21 dias,No prazo,28,0,0,28,2,120.0,0,0,0,0
+2017-05-01,MG,Dentro da UF,22 a 30 dias,No prazo,15,0,0,15,2,64.0,0,0,0,0
+2017-05-01,MG,Dentro da UF,31+ dias,Atrasado,1,1,2,1,1,1.0,0,0,0,0
+2017-05-01,MG,Dentro da UF,31+ dias,No prazo,3,0,0,3,0,14.0,0,0,0,0
+2017-05-01,MG,Entre UFs,15 a 21 dias,Atrasado,1,1,2,1,0,5.0,0,0,0,0
+2017-05-01,MG,Entre UFs,15 a 21 dias,No prazo,41,0,0,41,2,178.0,0,0,0,0
+2017-05-01,MG,Entre UFs,22 a 30 dias,Atrasado,2,2,4,2,1,4.0,0,0,0,0
+2017-05-01,MG,Entre UFs,22 a 30 dias,No prazo,257,0,0,257,26,1068.0,0,0,0,0
+2017-05-01,MG,Entre UFs,31+ dias,Atrasado,1,1,5,1,0,3.0,0,0,0,0
+2017-05-01,MG,Entre UFs,31+ dias,No prazo,54,0,0,53,7,214.0,0,0,0,0
+2017-05-01,MG,Mista,31+ dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-05-01,MS,Entre UFs,22 a 30 dias,No prazo,22,0,0,22,1,101.0,0,0,0,0
+2017-05-01,MS,Entre UFs,31+ dias,No prazo,4,0,0,4,0,20.0,0,0,0,0
+2017-05-01,MT,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-05-01,MT,Entre UFs,22 a 30 dias,Atrasado,1,1,23,1,0,5.0,0,0,0,0
+2017-05-01,MT,Entre UFs,22 a 30 dias,No prazo,8,0,0,8,2,30.0,0,0,0,0
+2017-05-01,MT,Entre UFs,31+ dias,No prazo,27,0,0,27,1,121.0,0,0,0,0
+2017-05-01,PA,Entre UFs,22 a 30 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-05-01,PA,Entre UFs,31+ dias,Atrasado,1,1,6,1,1,1.0,0,0,0,0
+2017-05-01,PA,Entre UFs,31+ dias,No prazo,32,0,0,32,3,140.0,0,0,0,0
+2017-05-01,PB,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-05-01,PB,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-05-01,PB,Entre UFs,31+ dias,Atrasado,1,1,7,1,1,1.0,0,0,0,0
+2017-05-01,PB,Entre UFs,31+ dias,No prazo,14,0,0,14,2,58.0,0,0,0,0
+2017-05-01,PE,Entre UFs,22 a 30 dias,No prazo,5,0,0,5,0,25.0,0,0,0,0
+2017-05-01,PE,Entre UFs,31+ dias,Atrasado,1,1,20,1,1,1.0,0,0,0,0
+2017-05-01,PE,Entre UFs,31+ dias,No prazo,57,0,0,57,6,242.0,0,0,0,0
+2017-05-01,PI,Entre UFs,22 a 30 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-05-01,PI,Entre UFs,31+ dias,No prazo,21,0,0,21,1,91.0,0,0,0,0
+2017-05-01,PR,Dentro da UF,8 a 14 dias,No prazo,4,0,0,4,0,20.0,0,0,0,0
+2017-05-01,PR,Dentro da UF,15 a 21 dias,No prazo,12,0,0,12,1,53.0,0,0,0,0
+2017-05-01,PR,Dentro da UF,22 a 30 dias,No prazo,5,0,0,5,0,23.0,0,0,0,0
+2017-05-01,PR,Entre UFs,15 a 21 dias,No prazo,21,0,0,21,1,91.0,0,0,0,0
+2017-05-01,PR,Entre UFs,22 a 30 dias,Atrasado,2,2,11,2,0,10.0,0,0,0,0
+2017-05-01,PR,Entre UFs,22 a 30 dias,No prazo,149,0,0,149,11,657.0,0,0,0,0
+2017-05-01,PR,Entre UFs,31+ dias,No prazo,13,0,0,12,3,48.0,0,0,0,0
+2017-05-01,RJ,Dentro da UF,8 a 14 dias,No prazo,14,0,0,14,3,54.0,0,0,0,0
+2017-05-01,RJ,Dentro da UF,15 a 21 dias,No prazo,8,0,0,8,0,37.0,0,0,0,0
+2017-05-01,RJ,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,3.0,0,0,0,0
+2017-05-01,RJ,Entre UFs,15 a 21 dias,Atrasado,2,2,19,2,1,4.0,0,0,0,0
+2017-05-01,RJ,Entre UFs,15 a 21 dias,No prazo,47,0,0,47,5,201.0,0,0,0,0
+2017-05-01,RJ,Entre UFs,22 a 30 dias,Atrasado,8,8,79,7,4,16.0,0,0,0,0
+2017-05-01,RJ,Entre UFs,22 a 30 dias,No prazo,329,0,0,327,38,1396.0,0,0,0,0
+2017-05-01,RJ,Entre UFs,31+ dias,Atrasado,3,3,17,2,1,6.0,0,0,0,0
+2017-05-01,RJ,Entre UFs,31+ dias,No prazo,54,0,0,54,8,223.0,0,0,0,0
+2017-05-01,RN,Entre UFs,22 a 30 dias,No prazo,2,0,0,2,0,8.0,0,0,0,0
+2017-05-01,RN,Entre UFs,31+ dias,No prazo,15,0,0,15,2,63.0,0,0,0,0
+2017-05-01,RO,Entre UFs,31+ dias,No prazo,8,0,0,7,1,29.0,0,0,0,0
+2017-05-01,RR,Entre UFs,31+ dias,No prazo,2,0,0,2,0,8.0,0,0,0,0
+2017-05-01,RS,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-05-01,RS,Dentro da UF,15 a 21 dias,No prazo,6,0,0,6,0,30.0,0,0,0,0
+2017-05-01,RS,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2017-05-01,RS,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-05-01,RS,Entre UFs,15 a 21 dias,No prazo,3,0,0,3,0,15.0,0,0,0,0
+2017-05-01,RS,Entre UFs,22 a 30 dias,Atrasado,1,1,155,1,0,5.0,0,0,0,0
+2017-05-01,RS,Entre UFs,22 a 30 dias,No prazo,155,0,0,155,15,661.0,0,0,0,0
+2017-05-01,RS,Entre UFs,31+ dias,No prazo,36,0,0,36,1,153.0,0,0,0,0
+2017-05-01,SC,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-05-01,SC,Dentro da UF,15 a 21 dias,No prazo,5,0,0,5,0,19.0,0,0,0,0
+2017-05-01,SC,Dentro da UF,22 a 30 dias,No prazo,2,0,0,2,0,8.0,0,0,0,0
+2017-05-01,SC,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-05-01,SC,Entre UFs,15 a 21 dias,Atrasado,2,2,7,2,1,5.0,0,0,0,0
+2017-05-01,SC,Entre UFs,15 a 21 dias,No prazo,10,0,0,10,1,43.0,0,0,0,0
+2017-05-01,SC,Entre UFs,22 a 30 dias,Atrasado,4,4,97,2,1,6.0,0,0,0,0
+2017-05-01,SC,Entre UFs,22 a 30 dias,No prazo,90,0,0,88,11,361.0,0,0,0,0
+2017-05-01,SC,Entre UFs,31+ dias,Atrasado,1,1,1,1,0,3.0,0,0,0,0
+2017-05-01,SC,Entre UFs,31+ dias,No prazo,29,0,0,29,1,123.0,0,0,0,0
+2017-05-01,SE,Entre UFs,22 a 30 dias,No prazo,3,0,0,3,0,15.0,0,0,0,0
+2017-05-01,SE,Entre UFs,31+ dias,No prazo,8,0,0,8,0,36.0,0,0,0,0
+2017-05-01,SP,Dentro da UF,8 a 14 dias,Atrasado,31,31,266,30,15,85.0,0,0,0,0
+2017-05-01,SP,Dentro da UF,8 a 14 dias,No prazo,296,0,0,296,22,1280.0,0,0,0,0
+2017-05-01,SP,Dentro da UF,15 a 21 dias,Atrasado,13,13,75,12,5,31.0,0,0,0,0
+2017-05-01,SP,Dentro da UF,15 a 21 dias,No prazo,392,0,0,385,38,1609.0,0,0,0,0
+2017-05-01,SP,Dentro da UF,22 a 30 dias,Atrasado,5,5,46,5,1,20.0,0,0,0,0
+2017-05-01,SP,Dentro da UF,22 a 30 dias,No prazo,225,0,0,224,18,971.0,0,0,0,0
+2017-05-01,SP,Dentro da UF,31+ dias,Atrasado,1,1,2,1,0,5.0,0,0,0,0
+2017-05-01,SP,Dentro da UF,31+ dias,No prazo,38,0,0,38,4,160.0,0,0,0,0
+2017-05-01,SP,Entre UFs,15 a 21 dias,Atrasado,1,1,21,1,1,1.0,0,0,0,0
+2017-05-01,SP,Entre UFs,15 a 21 dias,No prazo,44,0,0,44,3,190.0,0,0,0,0
+2017-05-01,SP,Entre UFs,22 a 30 dias,Atrasado,6,6,40,6,1,24.0,0,0,0,0
+2017-05-01,SP,Entre UFs,22 a 30 dias,No prazo,267,0,0,266,12,1191.0,0,0,0,0
+2017-05-01,SP,Entre UFs,31+ dias,Atrasado,1,1,31,1,1,1.0,0,0,0,0
+2017-05-01,SP,Entre UFs,31+ dias,No prazo,37,0,0,36,5,148.0,0,0,0,0
+2017-05-01,SP,Mista,22 a 30 dias,No prazo,6,0,0,6,1,23.0,0,0,0,0
+2017-05-01,TO,Entre UFs,22 a 30 dias,No prazo,12,0,0,12,1,51.0,0,0,0,0
+2017-05-01,TO,Entre UFs,31+ dias,No prazo,5,0,0,4,1,15.0,0,0,0,0
+2017-06-01,AC,Entre UFs,31+ dias,No prazo,4,0,0,4,0,19.0,0,0,0,0
+2017-06-01,AL,Entre UFs,22 a 30 dias,Atrasado,1,1,4,1,1,1.0,0,0,0,0
+2017-06-01,AL,Entre UFs,22 a 30 dias,No prazo,2,0,0,2,0,8.0,0,0,0,0
+2017-06-01,AL,Entre UFs,31+ dias,Atrasado,2,2,15,2,2,3.0,0,0,0,0
+2017-06-01,AL,Entre UFs,31+ dias,No prazo,5,0,0,5,0,22.0,0,0,0,0
+2017-06-01,AM,Entre UFs,31+ dias,No prazo,1,0,0,1,1,2.0,0,0,0,0
+2017-06-01,AP,Entre UFs,31+ dias,No prazo,2,0,0,2,0,9.0,0,0,0,0
+2017-06-01,BA,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2017-06-01,BA,Dentro da UF,15 a 21 dias,Atrasado,1,1,1,1,0,5.0,0,0,0,0
+2017-06-01,BA,Entre UFs,22 a 30 dias,Atrasado,3,3,17,3,2,5.0,0,0,0,0
+2017-06-01,BA,Entre UFs,22 a 30 dias,No prazo,31,0,0,31,6,122.0,0,0,0,0
+2017-06-01,BA,Entre UFs,31+ dias,Atrasado,4,4,108,3,1,8.0,0,0,0,0
+2017-06-01,BA,Entre UFs,31+ dias,No prazo,63,0,0,63,16,236.0,0,0,0,0
+2017-06-01,CE,Entre UFs,22 a 30 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-06-01,CE,Entre UFs,31+ dias,No prazo,42,0,0,41,4,170.0,0,0,0,0
+2017-06-01,DF,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,3.0,0,0,0,0
+2017-06-01,DF,Entre UFs,22 a 30 dias,Atrasado,1,1,22,1,1,2.0,0,0,0,0
+2017-06-01,DF,Entre UFs,22 a 30 dias,No prazo,52,0,0,52,5,215.0,0,0,0,0
+2017-06-01,DF,Entre UFs,31+ dias,No prazo,15,0,0,15,3,54.0,0,0,0,0
+2017-06-01,ES,Entre UFs,22 a 30 dias,Atrasado,4,4,32,4,1,13.0,0,0,0,0
+2017-06-01,ES,Entre UFs,22 a 30 dias,No prazo,62,0,0,61,4,261.0,0,0,0,0
+2017-06-01,ES,Entre UFs,31+ dias,Atrasado,1,1,68,1,0,3.0,0,0,0,0
+2017-06-01,ES,Entre UFs,31+ dias,No prazo,12,0,0,12,0,58.0,0,0,0,0
+2017-06-01,GO,Dentro da UF,15 a 21 dias,No prazo,2,0,0,2,1,6.0,0,0,0,0
+2017-06-01,GO,Entre UFs,22 a 30 dias,Atrasado,3,3,14,3,1,11.0,0,0,0,0
+2017-06-01,GO,Entre UFs,22 a 30 dias,No prazo,45,0,0,45,3,193.0,0,0,0,0
+2017-06-01,GO,Entre UFs,31+ dias,No prazo,23,0,0,23,3,88.0,0,0,0,0
+2017-06-01,MA,Entre UFs,31+ dias,No prazo,15,0,0,15,2,60.0,0,0,0,0
+2017-06-01,MG,Dentro da UF,8 a 14 dias,No prazo,5,0,0,5,3,13.0,0,0,0,0
+2017-06-01,MG,Dentro da UF,15 a 21 dias,Atrasado,1,1,2,1,1,1.0,0,0,0,0
+2017-06-01,MG,Dentro da UF,15 a 21 dias,No prazo,25,0,0,25,2,113.0,0,0,0,0
+2017-06-01,MG,Dentro da UF,22 a 30 dias,Atrasado,1,1,1,1,0,4.0,0,0,0,0
+2017-06-01,MG,Dentro da UF,22 a 30 dias,No prazo,8,0,0,8,0,36.0,0,0,0,0
+2017-06-01,MG,Dentro da UF,31+ dias,No prazo,3,0,0,3,1,10.0,0,0,0,0
+2017-06-01,MG,Entre UFs,22 a 30 dias,Atrasado,3,3,14,3,2,7.0,0,0,0,0
+2017-06-01,MG,Entre UFs,22 a 30 dias,No prazo,267,0,0,267,22,1163.0,0,0,0,0
+2017-06-01,MG,Entre UFs,31+ dias,No prazo,40,0,0,40,5,164.0,0,0,0,0
+2017-06-01,MG,Mista,22 a 30 dias,No prazo,3,0,0,2,1,6.0,0,0,0,0
+2017-06-01,MS,Entre UFs,22 a 30 dias,No prazo,21,0,0,21,4,84.0,0,0,0,0
+2017-06-01,MS,Entre UFs,31+ dias,No prazo,6,0,0,6,0,30.0,0,0,0,0
+2017-06-01,MT,Entre UFs,22 a 30 dias,No prazo,4,0,0,4,0,16.0,0,0,0,0
+2017-06-01,MT,Entre UFs,31+ dias,Atrasado,1,1,11,1,0,4.0,0,0,0,0
+2017-06-01,MT,Entre UFs,31+ dias,No prazo,19,0,0,19,2,80.0,0,0,0,0
+2017-06-01,PA,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-06-01,PA,Entre UFs,31+ dias,Atrasado,2,2,16,2,1,6.0,0,0,0,0
+2017-06-01,PA,Entre UFs,31+ dias,No prazo,33,0,0,33,1,146.0,0,0,0,0
+2017-06-01,PB,Entre UFs,22 a 30 dias,Atrasado,1,1,7,1,1,1.0,0,0,0,0
+2017-06-01,PB,Entre UFs,31+ dias,Atrasado,1,1,7,1,0,4.0,0,0,0,0
+2017-06-01,PB,Entre UFs,31+ dias,No prazo,20,0,0,20,2,83.0,0,0,0,0
+2017-06-01,PE,Entre UFs,22 a 30 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-06-01,PE,Entre UFs,31+ dias,Atrasado,2,2,28,2,2,2.0,0,0,0,0
+2017-06-01,PE,Entre UFs,31+ dias,No prazo,37,0,0,37,2,159.0,0,0,0,0
+2017-06-01,PI,Entre UFs,31+ dias,No prazo,14,0,0,14,1,63.0,0,0,0,0
+2017-06-01,PR,Dentro da UF,8 a 14 dias,No prazo,3,0,0,3,0,13.0,0,0,0,0
+2017-06-01,PR,Dentro da UF,15 a 21 dias,Atrasado,1,1,6,1,0,4.0,0,0,0,0
+2017-06-01,PR,Dentro da UF,15 a 21 dias,No prazo,11,0,0,11,0,50.0,0,0,0,0
+2017-06-01,PR,Dentro da UF,22 a 30 dias,No prazo,6,0,0,6,0,26.0,0,0,0,0
+2017-06-01,PR,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-06-01,PR,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-06-01,PR,Entre UFs,22 a 30 dias,Atrasado,1,1,5,1,0,4.0,0,0,0,0
+2017-06-01,PR,Entre UFs,22 a 30 dias,No prazo,127,0,0,127,10,544.0,0,0,0,0
+2017-06-01,PR,Entre UFs,31+ dias,No prazo,16,0,0,16,0,74.0,0,0,0,0
+2017-06-01,RJ,Dentro da UF,8 a 14 dias,No prazo,8,0,0,8,2,30.0,0,0,0,0
+2017-06-01,RJ,Dentro da UF,15 a 21 dias,No prazo,5,0,0,5,1,22.0,0,0,0,0
+2017-06-01,RJ,Dentro da UF,22 a 30 dias,No prazo,3,0,0,3,0,14.0,0,0,0,0
+2017-06-01,RJ,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-06-01,RJ,Entre UFs,15 a 21 dias,No prazo,3,0,0,3,1,9.0,0,0,0,0
+2017-06-01,RJ,Entre UFs,22 a 30 dias,Atrasado,13,13,138,12,6,35.0,0,0,0,0
+2017-06-01,RJ,Entre UFs,22 a 30 dias,No prazo,320,0,0,315,25,1360.0,0,0,0,0
+2017-06-01,RJ,Entre UFs,31+ dias,No prazo,45,0,0,44,6,170.0,0,0,0,0
+2017-06-01,RJ,Mista,22 a 30 dias,No prazo,1,0,0,1,1,1.0,0,0,0,0
+2017-06-01,RN,Entre UFs,31+ dias,Atrasado,1,1,36,1,1,1.0,0,0,0,0
+2017-06-01,RN,Entre UFs,31+ dias,No prazo,11,0,0,11,1,46.0,0,0,0,0
+2017-06-01,RO,Entre UFs,31+ dias,No prazo,10,0,0,10,0,48.0,0,0,0,0
+2017-06-01,RR,Entre UFs,31+ dias,No prazo,3,0,0,3,0,14.0,0,0,0,0
+2017-06-01,RS,Dentro da UF,8 a 14 dias,No prazo,5,0,0,5,0,24.0,0,0,0,0
+2017-06-01,RS,Dentro da UF,15 a 21 dias,No prazo,4,0,0,4,0,20.0,0,0,0,0
+2017-06-01,RS,Dentro da UF,22 a 30 dias,No prazo,2,0,0,2,0,9.0,0,0,0,0
+2017-06-01,RS,Entre UFs,22 a 30 dias,No prazo,162,0,0,162,7,736.0,0,0,0,0
+2017-06-01,RS,Entre UFs,31+ dias,Atrasado,1,1,6,1,1,1.0,0,0,0,0
+2017-06-01,RS,Entre UFs,31+ dias,No prazo,41,0,0,41,1,187.0,0,0,0,0
+2017-06-01,SC,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2017-06-01,SC,Dentro da UF,15 a 21 dias,No prazo,6,0,0,6,0,29.0,0,0,0,0
+2017-06-01,SC,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-06-01,SC,Entre UFs,22 a 30 dias,Atrasado,4,4,97,4,2,12.0,0,0,0,0
+2017-06-01,SC,Entre UFs,22 a 30 dias,No prazo,83,0,0,82,9,347.0,0,0,0,0
+2017-06-01,SC,Entre UFs,31+ dias,No prazo,14,0,0,14,2,55.0,0,0,0,0
+2017-06-01,SE,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,1,2.0,0,0,0,0
+2017-06-01,SE,Entre UFs,31+ dias,No prazo,7,0,0,7,2,27.0,0,0,0,0
+2017-06-01,SP,Dentro da UF,8 a 14 dias,Atrasado,18,18,366,18,13,36.0,0,0,0,0
+2017-06-01,SP,Dentro da UF,8 a 14 dias,No prazo,320,0,0,316,23,1361.0,0,0,0,0
+2017-06-01,SP,Dentro da UF,15 a 21 dias,Atrasado,12,12,152,12,8,22.0,0,0,0,0
+2017-06-01,SP,Dentro da UF,15 a 21 dias,No prazo,426,0,0,424,47,1818.0,0,0,0,0
+2017-06-01,SP,Dentro da UF,22 a 30 dias,Atrasado,5,5,155,4,3,7.0,0,0,0,0
+2017-06-01,SP,Dentro da UF,22 a 30 dias,No prazo,157,0,0,153,22,634.0,0,0,0,0
+2017-06-01,SP,Dentro da UF,31+ dias,No prazo,29,0,0,29,2,118.0,0,0,0,0
+2017-06-01,SP,Entre UFs,22 a 30 dias,Atrasado,4,4,8,4,0,15.0,0,0,0,0
+2017-06-01,SP,Entre UFs,22 a 30 dias,No prazo,276,0,0,275,18,1204.0,0,0,0,0
+2017-06-01,SP,Entre UFs,31+ dias,Atrasado,3,3,19,3,2,7.0,0,0,0,0
+2017-06-01,SP,Entre UFs,31+ dias,No prazo,32,0,0,32,6,134.0,0,0,0,0
+2017-06-01,SP,Mista,22 a 30 dias,No prazo,2,0,0,2,1,4.0,0,0,0,0
+2017-06-01,TO,Entre UFs,22 a 30 dias,No prazo,6,0,0,6,0,29.0,0,0,0,0
+2017-06-01,TO,Entre UFs,31+ dias,No prazo,2,0,0,2,0,9.0,0,0,0,0
+2017-07-01,AC,Entre UFs,31+ dias,No prazo,5,0,0,5,1,22.0,0,0,0,0
+2017-07-01,AL,Entre UFs,22 a 30 dias,Atrasado,1,1,16,1,1,1.0,0,0,0,0
+2017-07-01,AL,Entre UFs,22 a 30 dias,No prazo,3,0,0,3,0,15.0,0,0,0,0
+2017-07-01,AL,Entre UFs,31+ dias,Atrasado,6,6,49,5,3,9.0,0,0,0,0
+2017-07-01,AL,Entre UFs,31+ dias,No prazo,5,0,0,5,0,23.0,0,0,0,0
+2017-07-01,AM,Entre UFs,31+ dias,No prazo,5,0,0,5,1,19.0,0,0,0,0
+2017-07-01,AP,Entre UFs,31+ dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2017-07-01,BA,Entre UFs,22 a 30 dias,Atrasado,3,3,20,3,2,7.0,0,0,0,0
+2017-07-01,BA,Entre UFs,22 a 30 dias,No prazo,49,0,0,49,6,202.0,0,0,0,0
+2017-07-01,BA,Entre UFs,31+ dias,Atrasado,4,4,50,4,1,12.0,0,0,0,0
+2017-07-01,BA,Entre UFs,31+ dias,No prazo,88,0,0,87,5,369.0,0,0,0,0
+2017-07-01,CE,Entre UFs,22 a 30 dias,No prazo,2,0,0,2,0,9.0,0,0,0,0
+2017-07-01,CE,Entre UFs,31+ dias,No prazo,51,0,0,51,5,220.0,0,0,0,0
+2017-07-01,DF,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-07-01,DF,Entre UFs,22 a 30 dias,No prazo,64,0,0,64,2,287.0,0,0,0,0
+2017-07-01,DF,Entre UFs,31+ dias,No prazo,10,0,0,10,2,38.0,0,0,0,0
+2017-07-01,ES,Entre UFs,22 a 30 dias,Atrasado,3,3,93,1,1,1.0,0,0,0,0
+2017-07-01,ES,Entre UFs,22 a 30 dias,No prazo,66,0,0,66,14,257.0,0,0,0,0
+2017-07-01,ES,Entre UFs,31+ dias,No prazo,12,0,0,12,0,59.0,0,0,0,0
+2017-07-01,GO,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-07-01,GO,Entre UFs,22 a 30 dias,Atrasado,3,3,68,3,1,9.0,0,0,0,0
+2017-07-01,GO,Entre UFs,22 a 30 dias,No prazo,50,0,0,50,4,223.0,0,0,0,0
+2017-07-01,GO,Entre UFs,31+ dias,No prazo,23,0,0,23,0,105.0,0,0,0,0
+2017-07-01,MA,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-07-01,MA,Entre UFs,31+ dias,No prazo,36,0,0,36,4,144.0,0,0,0,0
+2017-07-01,MG,Dentro da UF,8 a 14 dias,No prazo,7,0,0,7,0,33.0,0,0,0,0
+2017-07-01,MG,Dentro da UF,15 a 21 dias,No prazo,43,0,0,43,4,179.0,0,0,0,0
+2017-07-01,MG,Dentro da UF,22 a 30 dias,No prazo,9,0,0,9,1,38.0,0,0,0,0
+2017-07-01,MG,Dentro da UF,31+ dias,No prazo,4,0,0,4,0,17.0,0,0,0,0
+2017-07-01,MG,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-07-01,MG,Entre UFs,22 a 30 dias,Atrasado,4,4,75,4,4,5.0,0,0,0,0
+2017-07-01,MG,Entre UFs,22 a 30 dias,No prazo,333,0,0,327,34,1385.0,0,0,0,0
+2017-07-01,MG,Entre UFs,31+ dias,No prazo,33,0,0,33,4,139.0,0,0,0,0
+2017-07-01,MG,Mista,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-07-01,MS,Entre UFs,22 a 30 dias,No prazo,22,0,0,22,3,96.0,0,0,0,0
+2017-07-01,MS,Entre UFs,31+ dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-07-01,MT,Entre UFs,22 a 30 dias,No prazo,17,0,0,16,1,71.0,0,0,0,0
+2017-07-01,MT,Entre UFs,31+ dias,No prazo,20,0,0,20,1,90.0,0,0,0,0
+2017-07-01,PA,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2017-07-01,PA,Entre UFs,31+ dias,Atrasado,3,3,14,3,1,10.0,0,0,0,0
+2017-07-01,PA,Entre UFs,31+ dias,No prazo,32,0,0,32,4,130.0,0,0,0,0
+2017-07-01,PB,Entre UFs,22 a 30 dias,Atrasado,1,1,7,1,0,4.0,0,0,0,0
+2017-07-01,PB,Entre UFs,31+ dias,Atrasado,4,4,86,4,2,10.0,0,0,0,0
+2017-07-01,PB,Entre UFs,31+ dias,No prazo,21,0,0,21,1,92.0,0,0,0,0
+2017-07-01,PE,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-07-01,PE,Entre UFs,22 a 30 dias,No prazo,3,0,0,3,0,14.0,0,0,0,0
+2017-07-01,PE,Entre UFs,31+ dias,Atrasado,13,13,160,13,12,18.0,0,0,0,0
+2017-07-01,PE,Entre UFs,31+ dias,No prazo,53,0,0,53,5,222.0,0,0,0,0
+2017-07-01,PI,Entre UFs,22 a 30 dias,No prazo,3,0,0,3,0,13.0,0,0,0,0
+2017-07-01,PI,Entre UFs,31+ dias,Atrasado,1,1,5,1,1,1.0,0,0,0,0
+2017-07-01,PI,Entre UFs,31+ dias,No prazo,16,0,0,15,2,63.0,0,0,0,0
+2017-07-01,PR,Dentro da UF,8 a 14 dias,Atrasado,1,1,3,1,1,2.0,0,0,0,0
+2017-07-01,PR,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-07-01,PR,Dentro da UF,15 a 21 dias,No prazo,10,0,0,10,0,46.0,0,0,0,0
+2017-07-01,PR,Dentro da UF,22 a 30 dias,No prazo,6,0,0,6,0,30.0,0,0,0,0
+2017-07-01,PR,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2017-07-01,PR,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2017-07-01,PR,Entre UFs,22 a 30 dias,No prazo,161,0,0,160,9,725.0,0,0,0,0
+2017-07-01,PR,Entre UFs,31+ dias,No prazo,13,0,0,13,3,51.0,0,0,0,0
+2017-07-01,RJ,Dentro da UF,8 a 14 dias,Atrasado,2,2,29,2,2,2.0,0,0,0,0
+2017-07-01,RJ,Dentro da UF,8 a 14 dias,No prazo,14,0,0,14,1,61.0,0,0,0,0
+2017-07-01,RJ,Dentro da UF,15 a 21 dias,No prazo,4,0,0,4,0,17.0,0,0,0,0
+2017-07-01,RJ,Entre UFs,15 a 21 dias,No prazo,4,0,0,4,0,20.0,0,0,0,0
+2017-07-01,RJ,Entre UFs,22 a 30 dias,Atrasado,15,15,247,15,9,35.0,0,0,0,0
+2017-07-01,RJ,Entre UFs,22 a 30 dias,No prazo,472,0,0,463,44,1985.0,0,0,0,0
+2017-07-01,RJ,Entre UFs,31+ dias,No prazo,35,0,0,35,4,149.0,0,0,0,0
+2017-07-01,RJ,Mista,22 a 30 dias,No prazo,1,0,0,1,1,1.0,0,0,0,0
+2017-07-01,RN,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-07-01,RN,Entre UFs,31+ dias,Atrasado,3,3,40,3,3,3.0,0,0,0,0
+2017-07-01,RN,Entre UFs,31+ dias,No prazo,23,0,0,23,1,99.0,0,0,0,0
+2017-07-01,RO,Entre UFs,31+ dias,No prazo,10,0,0,10,1,44.0,0,0,0,0
+2017-07-01,RR,Entre UFs,31+ dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-07-01,RS,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-07-01,RS,Dentro da UF,15 a 21 dias,No prazo,11,0,0,11,0,53.0,0,0,0,0
+2017-07-01,RS,Entre UFs,22 a 30 dias,Atrasado,4,4,60,4,2,10.0,0,0,0,0
+2017-07-01,RS,Entre UFs,22 a 30 dias,No prazo,195,0,0,194,11,850.0,0,0,0,0
+2017-07-01,RS,Entre UFs,31+ dias,Atrasado,2,2,32,2,0,6.0,0,0,0,0
+2017-07-01,RS,Entre UFs,31+ dias,No prazo,29,0,0,29,6,112.0,0,0,0,0
+2017-07-01,SC,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-07-01,SC,Dentro da UF,15 a 21 dias,No prazo,8,0,0,8,0,37.0,0,0,0,0
+2017-07-01,SC,Dentro da UF,22 a 30 dias,No prazo,2,0,0,2,0,9.0,0,0,0,0
+2017-07-01,SC,Dentro da UF,31+ dias,No prazo,2,0,0,2,1,6.0,0,0,0,0
+2017-07-01,SC,Entre UFs,22 a 30 dias,Atrasado,7,7,24,7,2,25.0,0,0,0,0
+2017-07-01,SC,Entre UFs,22 a 30 dias,No prazo,117,0,0,117,6,514.0,0,0,0,0
+2017-07-01,SC,Entre UFs,31+ dias,No prazo,13,0,0,13,1,57.0,0,0,0,0
+2017-07-01,SC,Mista,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-07-01,SE,Entre UFs,22 a 30 dias,No prazo,3,0,0,3,1,9.0,0,0,0,0
+2017-07-01,SE,Entre UFs,31+ dias,No prazo,10,0,0,10,1,42.0,0,0,0,0
+2017-07-01,SP,Dentro da UF,8 a 14 dias,Atrasado,14,14,86,14,8,34.0,0,0,0,0
+2017-07-01,SP,Dentro da UF,8 a 14 dias,No prazo,363,0,0,360,25,1591.0,0,0,0,0
+2017-07-01,SP,Dentro da UF,15 a 21 dias,Atrasado,8,8,74,8,6,18.0,0,0,0,0
+2017-07-01,SP,Dentro da UF,15 a 21 dias,No prazo,639,0,0,637,54,2747.0,0,0,0,0
+2017-07-01,SP,Dentro da UF,22 a 30 dias,Atrasado,1,1,2,1,1,1.0,0,0,0,0
+2017-07-01,SP,Dentro da UF,22 a 30 dias,No prazo,155,0,0,154,12,655.0,0,0,0,0
+2017-07-01,SP,Dentro da UF,31+ dias,No prazo,12,0,0,11,2,46.0,0,0,0,0
+2017-07-01,SP,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-07-01,SP,Entre UFs,15 a 21 dias,No prazo,3,0,0,3,0,13.0,0,0,0,0
+2017-07-01,SP,Entre UFs,22 a 30 dias,Atrasado,3,3,13,3,2,7.0,0,0,0,0
+2017-07-01,SP,Entre UFs,22 a 30 dias,No prazo,303,0,0,303,22,1321.0,0,0,0,0
+2017-07-01,SP,Entre UFs,31+ dias,Atrasado,2,2,9,2,1,6.0,0,0,0,0
+2017-07-01,SP,Entre UFs,31+ dias,No prazo,35,0,0,35,5,146.0,0,0,0,0
+2017-07-01,SP,Mista,22 a 30 dias,No prazo,4,0,0,4,1,14.0,0,0,0,0
+2017-07-01,TO,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2017-08-01,AC,Entre UFs,31+ dias,No prazo,4,0,0,4,1,15.0,0,0,0,0
+2017-08-01,AL,Entre UFs,22 a 30 dias,No prazo,3,0,0,3,0,15.0,0,0,0,0
+2017-08-01,AL,Entre UFs,31+ dias,Atrasado,3,3,27,3,3,3.0,0,0,0,0
+2017-08-01,AL,Entre UFs,31+ dias,No prazo,11,0,0,11,1,49.0,0,0,0,0
+2017-08-01,AM,Entre UFs,31+ dias,No prazo,5,0,0,5,0,23.0,0,0,0,0
+2017-08-01,AP,Entre UFs,31+ dias,No prazo,3,0,0,3,0,13.0,0,0,0,0
+2017-08-01,BA,Dentro da UF,15 a 21 dias,No prazo,4,0,0,4,0,19.0,0,0,0,0
+2017-08-01,BA,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-08-01,BA,Entre UFs,22 a 30 dias,Atrasado,3,3,24,3,2,8.0,0,0,0,0
+2017-08-01,BA,Entre UFs,22 a 30 dias,No prazo,53,0,0,52,4,223.0,0,0,0,0
+2017-08-01,BA,Entre UFs,31+ dias,Atrasado,2,2,23,2,1,6.0,0,0,0,0
+2017-08-01,BA,Entre UFs,31+ dias,No prazo,89,0,0,88,8,370.0,0,0,0,0
+2017-08-01,CE,Entre UFs,15 a 21 dias,No prazo,4,0,0,4,0,20.0,0,0,0,0
+2017-08-01,CE,Entre UFs,22 a 30 dias,Atrasado,1,1,2,1,0,4.0,0,0,0,0
+2017-08-01,CE,Entre UFs,22 a 30 dias,No prazo,10,0,0,10,0,49.0,0,0,0,0
+2017-08-01,CE,Entre UFs,31+ dias,No prazo,58,0,0,58,2,259.0,0,0,0,0
+2017-08-01,DF,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-08-01,DF,Entre UFs,15 a 21 dias,No prazo,10,0,0,10,2,41.0,0,0,0,0
+2017-08-01,DF,Entre UFs,22 a 30 dias,Atrasado,1,1,4,1,1,1.0,0,0,0,0
+2017-08-01,DF,Entre UFs,22 a 30 dias,No prazo,60,0,0,60,5,262.0,0,0,0,0
+2017-08-01,DF,Entre UFs,31+ dias,No prazo,11,0,0,11,0,49.0,0,0,0,0
+2017-08-01,ES,Entre UFs,15 a 21 dias,Atrasado,1,1,1,1,0,5.0,0,0,0,0
+2017-08-01,ES,Entre UFs,15 a 21 dias,No prazo,3,0,0,3,0,14.0,0,0,0,0
+2017-08-01,ES,Entre UFs,22 a 30 dias,Atrasado,3,3,7,3,2,6.0,0,0,0,0
+2017-08-01,ES,Entre UFs,22 a 30 dias,No prazo,65,0,0,65,4,278.0,0,0,0,0
+2017-08-01,ES,Entre UFs,31+ dias,No prazo,22,0,0,22,4,89.0,0,0,0,0
+2017-08-01,GO,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-08-01,GO,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-08-01,GO,Entre UFs,22 a 30 dias,Atrasado,1,1,15,1,0,3.0,0,0,0,0
+2017-08-01,GO,Entre UFs,22 a 30 dias,No prazo,49,0,0,48,7,193.0,0,0,0,0
+2017-08-01,GO,Entre UFs,31+ dias,Atrasado,1,1,8,1,0,5.0,0,0,0,0
+2017-08-01,GO,Entre UFs,31+ dias,No prazo,36,0,0,36,5,154.0,0,0,0,0
+2017-08-01,MA,Entre UFs,22 a 30 dias,Atrasado,1,1,23,1,1,1.0,0,0,0,0
+2017-08-01,MA,Entre UFs,22 a 30 dias,No prazo,4,0,0,4,2,12.0,0,0,0,0
+2017-08-01,MA,Entre UFs,31+ dias,Atrasado,1,1,1,1,1,1.0,0,0,0,0
+2017-08-01,MA,Entre UFs,31+ dias,No prazo,32,0,0,32,5,130.0,0,0,0,0
+2017-08-01,MG,Dentro da UF,8 a 14 dias,No prazo,7,0,0,7,0,34.0,0,0,0,0
+2017-08-01,MG,Dentro da UF,15 a 21 dias,Atrasado,6,6,34,6,5,10.0,0,0,0,0
+2017-08-01,MG,Dentro da UF,15 a 21 dias,No prazo,36,0,0,35,0,166.0,0,0,0,0
+2017-08-01,MG,Dentro da UF,22 a 30 dias,No prazo,11,0,0,11,0,52.0,0,0,0,0
+2017-08-01,MG,Dentro da UF,31+ dias,No prazo,2,0,0,2,1,6.0,0,0,0,0
+2017-08-01,MG,Entre UFs,15 a 21 dias,No prazo,17,0,0,17,1,75.0,0,0,0,0
+2017-08-01,MG,Entre UFs,22 a 30 dias,Atrasado,5,5,44,4,1,15.0,0,0,0,0
+2017-08-01,MG,Entre UFs,22 a 30 dias,No prazo,332,0,0,330,30,1422.0,0,0,0,0
+2017-08-01,MG,Entre UFs,31+ dias,No prazo,39,0,0,39,2,168.0,0,0,0,0
+2017-08-01,MG,Mista,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-08-01,MG,Mista,22 a 30 dias,No prazo,3,0,0,3,0,13.0,0,0,0,0
+2017-08-01,MS,Entre UFs,15 a 21 dias,No prazo,3,0,0,3,0,11.0,0,0,0,0
+2017-08-01,MS,Entre UFs,22 a 30 dias,No prazo,17,0,0,16,2,69.0,0,0,0,0
+2017-08-01,MS,Entre UFs,31+ dias,No prazo,4,0,0,4,1,15.0,0,0,0,0
+2017-08-01,MT,Entre UFs,22 a 30 dias,No prazo,11,0,0,11,3,41.0,0,0,0,0
+2017-08-01,MT,Entre UFs,31+ dias,No prazo,27,0,0,25,2,103.0,0,0,0,0
+2017-08-01,PA,Entre UFs,22 a 30 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-08-01,PA,Entre UFs,31+ dias,No prazo,55,0,0,55,9,222.0,0,0,0,0
+2017-08-01,PB,Entre UFs,22 a 30 dias,Atrasado,1,1,23,1,1,2.0,0,0,0,0
+2017-08-01,PB,Entre UFs,22 a 30 dias,No prazo,4,0,0,4,0,19.0,0,0,0,0
+2017-08-01,PB,Entre UFs,31+ dias,No prazo,11,0,0,11,0,51.0,0,0,0,0
+2017-08-01,PE,Entre UFs,15 a 21 dias,Atrasado,2,2,34,2,1,6.0,0,0,0,0
+2017-08-01,PE,Entre UFs,22 a 30 dias,Atrasado,3,3,28,3,3,4.0,0,0,0,0
+2017-08-01,PE,Entre UFs,22 a 30 dias,No prazo,12,0,0,12,2,44.0,0,0,0,0
+2017-08-01,PE,Entre UFs,31+ dias,Atrasado,7,7,46,7,6,9.0,0,0,0,0
+2017-08-01,PE,Entre UFs,31+ dias,No prazo,59,0,0,59,5,260.0,0,0,0,0
+2017-08-01,PI,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-08-01,PI,Entre UFs,22 a 30 dias,No prazo,2,0,0,2,0,9.0,0,0,0,0
+2017-08-01,PI,Entre UFs,31+ dias,No prazo,17,0,0,17,1,67.0,0,0,0,0
+2017-08-01,PR,Dentro da UF,8 a 14 dias,No prazo,3,0,0,3,0,14.0,0,0,0,0
+2017-08-01,PR,Dentro da UF,15 a 21 dias,No prazo,23,0,0,23,1,105.0,0,0,0,0
+2017-08-01,PR,Dentro da UF,22 a 30 dias,No prazo,5,0,0,5,0,23.0,0,0,0,0
+2017-08-01,PR,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-08-01,PR,Entre UFs,15 a 21 dias,No prazo,12,0,0,12,0,60.0,0,0,0,0
+2017-08-01,PR,Entre UFs,22 a 30 dias,No prazo,166,0,0,166,16,729.0,0,0,0,0
+2017-08-01,PR,Entre UFs,31+ dias,No prazo,10,0,0,9,1,35.0,0,0,0,0
+2017-08-01,RJ,Dentro da UF,8 a 14 dias,Atrasado,1,1,3,1,0,5.0,0,0,0,0
+2017-08-01,RJ,Dentro da UF,8 a 14 dias,No prazo,15,0,0,15,0,72.0,0,0,0,0
+2017-08-01,RJ,Dentro da UF,15 a 21 dias,Atrasado,3,3,104,3,0,13.0,0,0,0,0
+2017-08-01,RJ,Dentro da UF,15 a 21 dias,No prazo,12,0,0,11,1,47.0,0,0,0,0
+2017-08-01,RJ,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-08-01,RJ,Entre UFs,15 a 21 dias,Atrasado,2,2,47,2,2,2.0,0,0,0,0
+2017-08-01,RJ,Entre UFs,15 a 21 dias,No prazo,44,0,0,43,5,189.0,0,0,0,0
+2017-08-01,RJ,Entre UFs,22 a 30 dias,Atrasado,10,10,137,10,5,29.0,0,0,0,0
+2017-08-01,RJ,Entre UFs,22 a 30 dias,No prazo,389,0,0,386,29,1676.0,0,0,0,0
+2017-08-01,RJ,Entre UFs,31+ dias,No prazo,59,0,0,59,9,242.0,0,0,0,0
+2017-08-01,RJ,Mista,22 a 30 dias,No prazo,1,0,0,1,1,1.0,0,0,0,0
+2017-08-01,RN,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-08-01,RN,Entre UFs,22 a 30 dias,Atrasado,1,1,5,1,0,5.0,0,0,0,0
+2017-08-01,RN,Entre UFs,22 a 30 dias,No prazo,3,0,0,3,1,12.0,0,0,0,0
+2017-08-01,RN,Entre UFs,31+ dias,Atrasado,1,1,2,1,0,4.0,0,0,0,0
+2017-08-01,RN,Entre UFs,31+ dias,No prazo,14,0,0,14,0,65.0,0,0,0,0
+2017-08-01,RO,Entre UFs,31+ dias,No prazo,14,0,0,14,1,61.0,0,0,0,0
+2017-08-01,RS,Dentro da UF,8 a 14 dias,No prazo,6,0,0,6,0,28.0,0,0,0,0
+2017-08-01,RS,Dentro da UF,15 a 21 dias,No prazo,7,0,0,7,0,35.0,0,0,0,0
+2017-08-01,RS,Entre UFs,15 a 21 dias,No prazo,3,0,0,3,0,14.0,0,0,0,0
+2017-08-01,RS,Entre UFs,22 a 30 dias,Atrasado,17,17,126,17,7,49.0,0,0,0,0
+2017-08-01,RS,Entre UFs,22 a 30 dias,No prazo,208,0,0,208,18,893.0,0,0,0,0
+2017-08-01,RS,Entre UFs,31+ dias,Atrasado,5,5,17,5,2,16.0,0,0,0,0
+2017-08-01,RS,Entre UFs,31+ dias,No prazo,50,0,0,49,4,218.0,0,0,0,0
+2017-08-01,SC,Dentro da UF,8 a 14 dias,Atrasado,1,1,18,1,0,4.0,0,0,0,0
+2017-08-01,SC,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-08-01,SC,Dentro da UF,15 a 21 dias,No prazo,12,0,0,12,0,56.0,0,0,0,0
+2017-08-01,SC,Dentro da UF,22 a 30 dias,No prazo,4,0,0,4,0,19.0,0,0,0,0
+2017-08-01,SC,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-08-01,SC,Entre UFs,15 a 21 dias,No prazo,5,0,0,5,0,24.0,0,0,0,0
+2017-08-01,SC,Entre UFs,22 a 30 dias,Atrasado,3,3,13,3,2,7.0,0,0,0,0
+2017-08-01,SC,Entre UFs,22 a 30 dias,No prazo,116,0,0,116,12,493.0,0,0,0,0
+2017-08-01,SC,Entre UFs,31+ dias,No prazo,8,0,0,8,2,29.0,0,0,0,0
+2017-08-01,SE,Entre UFs,22 a 30 dias,Atrasado,1,1,2,1,0,4.0,0,0,0,0
+2017-08-01,SE,Entre UFs,22 a 30 dias,No prazo,7,0,0,7,0,32.0,0,0,0,0
+2017-08-01,SE,Entre UFs,31+ dias,Atrasado,1,1,4,1,1,1.0,0,0,0,0
+2017-08-01,SE,Entre UFs,31+ dias,No prazo,10,0,0,10,1,44.0,0,0,0,0
+2017-08-01,SP,Dentro da UF,8 a 14 dias,Atrasado,13,13,45,13,7,37.0,0,0,0,0
+2017-08-01,SP,Dentro da UF,8 a 14 dias,No prazo,433,0,0,432,30,1909.0,0,0,0,0
+2017-08-01,SP,Dentro da UF,15 a 21 dias,Atrasado,12,12,80,12,7,32.0,0,0,0,0
+2017-08-01,SP,Dentro da UF,15 a 21 dias,No prazo,615,0,0,610,43,2696.0,0,0,0,0
+2017-08-01,SP,Dentro da UF,22 a 30 dias,Atrasado,2,2,82,2,0,8.0,0,0,0,0
+2017-08-01,SP,Dentro da UF,22 a 30 dias,No prazo,187,0,0,186,14,818.0,0,0,0,0
+2017-08-01,SP,Dentro da UF,31+ dias,No prazo,16,0,0,16,2,68.0,0,0,0,0
+2017-08-01,SP,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,1,2.0,0,0,0,0
+2017-08-01,SP,Entre UFs,15 a 21 dias,No prazo,29,0,0,29,3,124.0,0,0,0,0
+2017-08-01,SP,Entre UFs,22 a 30 dias,Atrasado,7,7,43,7,3,16.0,0,0,0,0
+2017-08-01,SP,Entre UFs,22 a 30 dias,No prazo,309,0,0,306,13,1389.0,0,0,0,0
+2017-08-01,SP,Entre UFs,31+ dias,No prazo,33,0,0,32,8,125.0,0,0,0,0
+2017-08-01,SP,Mista,15 a 21 dias,No prazo,2,0,0,2,1,5.0,0,0,0,0
+2017-08-01,SP,Mista,22 a 30 dias,No prazo,6,0,0,6,1,23.0,0,0,0,0
+2017-08-01,TO,Entre UFs,22 a 30 dias,No prazo,10,0,0,10,0,48.0,0,0,0,0
+2017-08-01,TO,Entre UFs,31+ dias,No prazo,5,0,0,5,0,25.0,0,0,0,0
+2017-09-01,AC,Entre UFs,31+ dias,Atrasado,1,1,24,1,1,1.0,0,0,0,0
+2017-09-01,AC,Entre UFs,31+ dias,No prazo,4,0,0,4,0,19.0,0,0,0,0
+2017-09-01,AL,Entre UFs,22 a 30 dias,Atrasado,7,7,106,7,5,15.0,0,0,0,0
+2017-09-01,AL,Entre UFs,22 a 30 dias,No prazo,8,0,0,8,0,38.0,0,0,0,0
+2017-09-01,AL,Entre UFs,31+ dias,Atrasado,1,1,9,1,0,4.0,0,0,0,0
+2017-09-01,AL,Entre UFs,31+ dias,No prazo,3,0,0,3,0,11.0,0,0,0,0
+2017-09-01,AM,Entre UFs,31+ dias,No prazo,9,0,0,8,1,33.0,0,0,0,0
+2017-09-01,AP,Entre UFs,31+ dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-09-01,BA,Dentro da UF,15 a 21 dias,Atrasado,1,1,25,1,1,1.0,0,0,0,0
+2017-09-01,BA,Dentro da UF,15 a 21 dias,No prazo,4,0,0,4,0,20.0,0,0,0,0
+2017-09-01,BA,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,3.0,0,0,0,0
+2017-09-01,BA,Entre UFs,15 a 21 dias,Atrasado,2,2,12,2,2,2.0,0,0,0,0
+2017-09-01,BA,Entre UFs,15 a 21 dias,No prazo,6,0,0,6,0,28.0,0,0,0,0
+2017-09-01,BA,Entre UFs,22 a 30 dias,Atrasado,23,23,184,23,13,60.0,0,0,0,0
+2017-09-01,BA,Entre UFs,22 a 30 dias,No prazo,98,0,0,96,6,418.0,0,0,0,0
+2017-09-01,BA,Entre UFs,31+ dias,Atrasado,2,2,6,2,0,9.0,0,0,0,0
+2017-09-01,BA,Entre UFs,31+ dias,No prazo,30,0,0,30,4,126.0,0,0,0,0
+2017-09-01,CE,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-09-01,CE,Entre UFs,15 a 21 dias,Atrasado,1,1,28,1,0,3.0,0,0,0,0
+2017-09-01,CE,Entre UFs,15 a 21 dias,No prazo,15,0,0,15,0,71.0,0,0,0,0
+2017-09-01,CE,Entre UFs,22 a 30 dias,No prazo,40,0,0,40,4,165.0,0,0,0,0
+2017-09-01,CE,Entre UFs,31+ dias,Atrasado,1,1,9,1,1,2.0,0,0,0,0
+2017-09-01,CE,Entre UFs,31+ dias,No prazo,16,0,0,16,3,64.0,0,0,0,0
+2017-09-01,DF,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-09-01,DF,Dentro da UF,15 a 21 dias,Atrasado,1,1,2,1,0,5.0,0,0,0,0
+2017-09-01,DF,Entre UFs,15 a 21 dias,Atrasado,5,5,24,5,3,11.0,0,0,0,0
+2017-09-01,DF,Entre UFs,15 a 21 dias,No prazo,33,0,0,33,6,138.0,0,0,0,0
+2017-09-01,DF,Entre UFs,22 a 30 dias,Atrasado,1,1,3,1,1,1.0,0,0,0,0
+2017-09-01,DF,Entre UFs,22 a 30 dias,No prazo,50,0,0,50,2,215.0,0,0,0,0
+2017-09-01,DF,Entre UFs,31+ dias,No prazo,3,0,0,3,0,13.0,0,0,0,0
+2017-09-01,ES,Entre UFs,15 a 21 dias,Atrasado,4,4,25,3,1,9.0,0,0,0,0
+2017-09-01,ES,Entre UFs,15 a 21 dias,No prazo,17,0,0,17,2,66.0,0,0,0,0
+2017-09-01,ES,Entre UFs,22 a 30 dias,No prazo,63,0,0,63,2,278.0,0,0,0,0
+2017-09-01,ES,Entre UFs,31+ dias,No prazo,9,0,0,9,2,33.0,0,0,0,0
+2017-09-01,GO,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-09-01,GO,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-09-01,GO,Entre UFs,15 a 21 dias,Atrasado,1,1,7,1,1,2.0,0,0,0,0
+2017-09-01,GO,Entre UFs,15 a 21 dias,No prazo,16,0,0,16,1,75.0,0,0,0,0
+2017-09-01,GO,Entre UFs,22 a 30 dias,No prazo,57,0,0,57,8,238.0,0,0,0,0
+2017-09-01,GO,Entre UFs,31+ dias,Atrasado,1,1,16,1,1,1.0,0,0,0,0
+2017-09-01,GO,Entre UFs,31+ dias,No prazo,7,0,0,7,1,29.0,0,0,0,0
+2017-09-01,MA,Entre UFs,15 a 21 dias,Atrasado,1,1,4,1,0,4.0,0,0,0,0
+2017-09-01,MA,Entre UFs,15 a 21 dias,No prazo,5,0,0,5,0,22.0,0,0,0,0
+2017-09-01,MA,Entre UFs,22 a 30 dias,Atrasado,2,2,23,2,1,4.0,0,0,0,0
+2017-09-01,MA,Entre UFs,22 a 30 dias,No prazo,29,0,0,29,2,129.0,0,0,0,0
+2017-09-01,MA,Entre UFs,31+ dias,No prazo,4,0,0,4,1,16.0,0,0,0,0
+2017-09-01,MG,Dentro da UF,8 a 14 dias,No prazo,9,0,0,9,1,37.0,0,0,0,0
+2017-09-01,MG,Dentro da UF,15 a 21 dias,No prazo,36,0,0,36,1,168.0,0,0,0,0
+2017-09-01,MG,Dentro da UF,22 a 30 dias,No prazo,18,0,0,18,0,87.0,0,0,0,0
+2017-09-01,MG,Dentro da UF,31+ dias,No prazo,7,0,0,7,2,25.0,0,0,0,0
+2017-09-01,MG,Entre UFs,15 a 21 dias,Atrasado,1,1,19,1,0,4.0,0,0,0,0
+2017-09-01,MG,Entre UFs,15 a 21 dias,No prazo,109,0,0,109,8,478.0,0,0,0,0
+2017-09-01,MG,Entre UFs,22 a 30 dias,Atrasado,4,4,20,4,2,10.0,0,0,0,0
+2017-09-01,MG,Entre UFs,22 a 30 dias,No prazo,272,0,0,270,17,1187.0,0,0,0,0
+2017-09-01,MG,Entre UFs,31+ dias,No prazo,36,0,0,36,6,151.0,0,0,0,0
+2017-09-01,MG,Mista,15 a 21 dias,No prazo,1,0,0,1,0,3.0,0,0,0,0
+2017-09-01,MS,Entre UFs,15 a 21 dias,No prazo,4,0,0,4,1,13.0,0,0,0,0
+2017-09-01,MS,Entre UFs,22 a 30 dias,No prazo,26,0,0,26,2,111.0,0,0,0,0
+2017-09-01,MS,Entre UFs,31+ dias,No prazo,2,0,0,2,1,5.0,0,0,0,0
+2017-09-01,MT,Entre UFs,22 a 30 dias,Atrasado,2,2,4,2,0,9.0,0,0,0,0
+2017-09-01,MT,Entre UFs,22 a 30 dias,No prazo,16,0,0,16,4,58.0,0,0,0,0
+2017-09-01,MT,Entre UFs,31+ dias,No prazo,16,0,0,16,2,69.0,0,0,0,0
+2017-09-01,PA,Entre UFs,22 a 30 dias,No prazo,5,0,0,5,0,24.0,0,0,0,0
+2017-09-01,PA,Entre UFs,31+ dias,Atrasado,5,5,70,5,4,10.0,0,0,0,0
+2017-09-01,PA,Entre UFs,31+ dias,No prazo,31,0,0,31,2,137.0,0,0,0,0
+2017-09-01,PB,Entre UFs,22 a 30 dias,Atrasado,4,4,15,4,1,14.0,0,0,0,0
+2017-09-01,PB,Entre UFs,22 a 30 dias,No prazo,6,0,0,6,1,26.0,0,0,0,0
+2017-09-01,PB,Entre UFs,31+ dias,Atrasado,3,3,76,2,0,9.0,0,0,0,0
+2017-09-01,PB,Entre UFs,31+ dias,No prazo,12,0,0,12,0,55.0,0,0,0,0
+2017-09-01,PE,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,1,1.0,0,0,0,0
+2017-09-01,PE,Entre UFs,15 a 21 dias,Atrasado,1,1,7,1,0,4.0,0,0,0,0
+2017-09-01,PE,Entre UFs,15 a 21 dias,No prazo,3,0,0,3,1,11.0,0,0,0,0
+2017-09-01,PE,Entre UFs,22 a 30 dias,Atrasado,4,4,33,4,4,4.0,0,0,0,0
+2017-09-01,PE,Entre UFs,22 a 30 dias,No prazo,37,0,0,36,2,161.0,0,0,0,0
+2017-09-01,PE,Entre UFs,31+ dias,Atrasado,1,1,4,1,0,4.0,0,0,0,0
+2017-09-01,PE,Entre UFs,31+ dias,No prazo,27,0,0,27,3,111.0,0,0,0,0
+2017-09-01,PI,Entre UFs,15 a 21 dias,No prazo,3,0,0,3,0,10.0,0,0,0,0
+2017-09-01,PI,Entre UFs,22 a 30 dias,Atrasado,1,1,1,1,0,5.0,0,0,0,0
+2017-09-01,PI,Entre UFs,22 a 30 dias,No prazo,15,0,0,14,2,56.0,0,0,0,0
+2017-09-01,PI,Entre UFs,31+ dias,No prazo,3,0,0,3,0,14.0,0,0,0,0
+2017-09-01,PR,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-09-01,PR,Dentro da UF,15 a 21 dias,No prazo,8,0,0,8,0,34.0,0,0,0,0
+2017-09-01,PR,Dentro da UF,22 a 30 dias,No prazo,8,0,0,8,1,36.0,0,0,0,0
+2017-09-01,PR,Entre UFs,15 a 21 dias,No prazo,39,0,0,38,3,165.0,0,0,0,0
+2017-09-01,PR,Entre UFs,22 a 30 dias,Atrasado,1,1,3,1,0,4.0,0,0,0,0
+2017-09-01,PR,Entre UFs,22 a 30 dias,No prazo,107,0,0,107,15,440.0,0,0,0,0
+2017-09-01,PR,Entre UFs,31+ dias,No prazo,11,0,0,10,0,48.0,0,0,0,0
+2017-09-01,RJ,Dentro da UF,8 a 14 dias,Atrasado,2,2,67,2,1,7.0,0,0,0,0
+2017-09-01,RJ,Dentro da UF,8 a 14 dias,No prazo,17,0,0,17,0,79.0,0,0,0,0
+2017-09-01,RJ,Dentro da UF,15 a 21 dias,No prazo,21,0,0,21,1,94.0,0,0,0,0
+2017-09-01,RJ,Dentro da UF,22 a 30 dias,No prazo,3,0,0,3,0,15.0,0,0,0,0
+2017-09-01,RJ,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-09-01,RJ,Entre UFs,15 a 21 dias,Atrasado,19,19,151,18,12,39.0,0,0,0,0
+2017-09-01,RJ,Entre UFs,15 a 21 dias,No prazo,203,0,0,201,20,876.0,0,0,0,0
+2017-09-01,RJ,Entre UFs,22 a 30 dias,Atrasado,9,9,168,8,2,30.0,0,0,0,0
+2017-09-01,RJ,Entre UFs,22 a 30 dias,No prazo,277,0,0,276,23,1187.0,0,0,0,0
+2017-09-01,RJ,Entre UFs,31+ dias,No prazo,38,0,0,36,3,156.0,0,0,0,0
+2017-09-01,RJ,Mista,22 a 30 dias,No prazo,1,0,0,1,1,2.0,0,0,0,0
+2017-09-01,RN,Entre UFs,22 a 30 dias,Atrasado,2,2,27,2,2,3.0,0,0,0,0
+2017-09-01,RN,Entre UFs,22 a 30 dias,No prazo,11,0,0,11,3,43.0,0,0,0,0
+2017-09-01,RN,Entre UFs,31+ dias,Atrasado,1,1,2,1,1,2.0,0,0,0,0
+2017-09-01,RN,Entre UFs,31+ dias,No prazo,9,0,0,9,1,38.0,0,0,0,0
+2017-09-01,RO,Entre UFs,31+ dias,No prazo,16,0,0,16,3,67.0,0,0,0,0
+2017-09-01,RR,Entre UFs,31+ dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2017-09-01,RS,Dentro da UF,8 a 14 dias,No prazo,5,0,0,5,0,23.0,0,0,0,0
+2017-09-01,RS,Dentro da UF,15 a 21 dias,No prazo,9,0,0,9,0,42.0,0,0,0,0
+2017-09-01,RS,Dentro da UF,22 a 30 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-09-01,RS,Entre UFs,15 a 21 dias,Atrasado,2,2,23,2,2,3.0,0,0,0,0
+2017-09-01,RS,Entre UFs,15 a 21 dias,No prazo,13,0,0,13,0,59.0,0,0,0,0
+2017-09-01,RS,Entre UFs,22 a 30 dias,Atrasado,2,2,9,2,2,2.0,0,0,0,0
+2017-09-01,RS,Entre UFs,22 a 30 dias,No prazo,149,0,0,149,17,638.0,0,0,0,0
+2017-09-01,RS,Entre UFs,31+ dias,Atrasado,1,1,11,1,0,4.0,0,0,0,0
+2017-09-01,RS,Entre UFs,31+ dias,No prazo,90,0,0,90,3,405.0,0,0,0,0
+2017-09-01,SC,Dentro da UF,15 a 21 dias,No prazo,6,0,0,6,1,23.0,0,0,0,0
+2017-09-01,SC,Dentro da UF,22 a 30 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-09-01,SC,Dentro da UF,31+ dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-09-01,SC,Entre UFs,15 a 21 dias,Atrasado,2,2,5,2,0,10.0,0,0,0,0
+2017-09-01,SC,Entre UFs,15 a 21 dias,No prazo,23,0,0,23,2,103.0,0,0,0,0
+2017-09-01,SC,Entre UFs,22 a 30 dias,Atrasado,9,9,46,9,4,23.0,0,0,0,0
+2017-09-01,SC,Entre UFs,22 a 30 dias,No prazo,101,0,0,101,8,432.0,0,0,0,0
+2017-09-01,SC,Entre UFs,31+ dias,No prazo,8,0,0,8,1,35.0,0,0,0,0
+2017-09-01,SE,Entre UFs,22 a 30 dias,Atrasado,2,2,26,2,0,7.0,0,0,0,0
+2017-09-01,SE,Entre UFs,22 a 30 dias,No prazo,9,0,0,9,1,36.0,0,0,0,0
+2017-09-01,SE,Entre UFs,31+ dias,No prazo,5,0,0,5,1,20.0,0,0,0,0
+2017-09-01,SP,Dentro da UF,8 a 14 dias,Atrasado,12,12,51,12,6,31.0,0,0,0,0
+2017-09-01,SP,Dentro da UF,8 a 14 dias,No prazo,298,0,0,294,30,1279.0,0,0,0,0
+2017-09-01,SP,Dentro da UF,15 a 21 dias,Atrasado,21,21,159,20,12,44.0,0,0,0,0
+2017-09-01,SP,Dentro da UF,15 a 21 dias,No prazo,564,0,0,558,47,2416.0,0,0,0,0
+2017-09-01,SP,Dentro da UF,22 a 30 dias,Atrasado,5,5,80,5,2,14.0,0,0,0,0
+2017-09-01,SP,Dentro da UF,22 a 30 dias,No prazo,241,0,0,241,12,1087.0,0,0,0,0
+2017-09-01,SP,Dentro da UF,31+ dias,No prazo,11,0,0,11,1,49.0,0,0,0,0
+2017-09-01,SP,Entre UFs,8 a 14 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-09-01,SP,Entre UFs,15 a 21 dias,Atrasado,4,4,42,4,2,10.0,0,0,0,0
+2017-09-01,SP,Entre UFs,15 a 21 dias,No prazo,150,0,0,149,12,641.0,0,0,0,0
+2017-09-01,SP,Entre UFs,22 a 30 dias,Atrasado,5,5,67,5,3,13.0,0,0,0,0
+2017-09-01,SP,Entre UFs,22 a 30 dias,No prazo,226,0,0,224,12,1002.0,0,0,0,0
+2017-09-01,SP,Entre UFs,31+ dias,Atrasado,2,2,14,2,1,6.0,0,0,0,0
+2017-09-01,SP,Entre UFs,31+ dias,No prazo,33,0,0,33,3,138.0,0,0,0,0
+2017-09-01,SP,Mista,22 a 30 dias,No prazo,2,0,0,2,1,4.0,0,0,0,0
+2017-09-01,TO,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,3.0,0,0,0,0
+2017-09-01,TO,Entre UFs,22 a 30 dias,No prazo,8,0,0,8,1,33.0,0,0,0,0
+2017-09-01,TO,Entre UFs,31+ dias,No prazo,7,0,0,7,0,33.0,0,0,0,0
+2017-10-01,AC,Entre UFs,31+ dias,No prazo,5,0,0,5,1,19.0,0,0,0,0
+2017-10-01,AL,Entre UFs,22 a 30 dias,Atrasado,1,1,3,1,0,4.0,0,0,0,0
+2017-10-01,AL,Entre UFs,22 a 30 dias,No prazo,9,0,0,9,0,45.0,0,0,0,0
+2017-10-01,AL,Entre UFs,31+ dias,Atrasado,1,1,4,1,1,1.0,0,0,0,0
+2017-10-01,AL,Entre UFs,31+ dias,No prazo,17,0,0,17,2,66.0,0,0,0,0
+2017-10-01,AM,Entre UFs,31+ dias,No prazo,3,0,0,3,0,15.0,0,0,0,0
+2017-10-01,AP,Entre UFs,31+ dias,No prazo,3,0,0,3,0,13.0,0,0,0,0
+2017-10-01,BA,Dentro da UF,15 a 21 dias,No prazo,5,0,0,5,0,24.0,0,0,0,0
+2017-10-01,BA,Dentro da UF,22 a 30 dias,No prazo,4,0,0,4,0,18.0,0,0,0,0
+2017-10-01,BA,Entre UFs,15 a 21 dias,Atrasado,1,1,5,1,1,1.0,0,0,0,0
+2017-10-01,BA,Entre UFs,22 a 30 dias,Atrasado,13,13,74,12,8,21.0,0,0,0,0
+2017-10-01,BA,Entre UFs,22 a 30 dias,No prazo,87,0,0,87,12,355.0,0,0,0,0
+2017-10-01,BA,Entre UFs,31+ dias,Atrasado,2,2,57,2,2,2.0,0,0,0,0
+2017-10-01,BA,Entre UFs,31+ dias,No prazo,46,0,0,46,4,192.0,0,0,0,0
+2017-10-01,CE,Entre UFs,22 a 30 dias,Atrasado,2,2,31,2,1,6.0,0,0,0,0
+2017-10-01,CE,Entre UFs,22 a 30 dias,No prazo,31,0,0,31,4,129.0,0,0,0,0
+2017-10-01,CE,Entre UFs,31+ dias,Atrasado,1,1,12,1,1,1.0,0,0,0,0
+2017-10-01,CE,Entre UFs,31+ dias,No prazo,29,0,0,28,5,108.0,0,0,0,0
+2017-10-01,DF,Dentro da UF,8 a 14 dias,No prazo,3,0,0,3,0,11.0,0,0,0,0
+2017-10-01,DF,Dentro da UF,15 a 21 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-10-01,DF,Entre UFs,15 a 21 dias,No prazo,26,0,0,26,5,98.0,0,0,0,0
+2017-10-01,DF,Entre UFs,22 a 30 dias,Atrasado,3,3,36,3,3,3.0,0,0,0,0
+2017-10-01,DF,Entre UFs,22 a 30 dias,No prazo,49,0,0,49,4,209.0,0,0,0,0
+2017-10-01,DF,Entre UFs,31+ dias,No prazo,9,0,0,9,1,38.0,0,0,0,0
+2017-10-01,ES,Dentro da UF,8 a 14 dias,Atrasado,1,1,1,1,0,5.0,0,0,0,0
+2017-10-01,ES,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,1,1.0,0,0,0,0
+2017-10-01,ES,Entre UFs,15 a 21 dias,Atrasado,1,1,7,1,0,3.0,0,0,0,0
+2017-10-01,ES,Entre UFs,15 a 21 dias,No prazo,25,0,0,25,3,106.0,0,0,0,0
+2017-10-01,ES,Entre UFs,22 a 30 dias,Atrasado,2,2,12,2,0,9.0,0,0,0,0
+2017-10-01,ES,Entre UFs,22 a 30 dias,No prazo,61,0,0,61,2,269.0,0,0,0,0
+2017-10-01,ES,Entre UFs,31+ dias,Atrasado,1,1,7,1,1,2.0,0,0,0,0
+2017-10-01,ES,Entre UFs,31+ dias,No prazo,8,0,0,8,0,32.0,0,0,0,0
+2017-10-01,GO,Entre UFs,15 a 21 dias,Atrasado,1,1,1,1,0,5.0,0,0,0,0
+2017-10-01,GO,Entre UFs,15 a 21 dias,No prazo,11,0,0,10,0,48.0,0,0,0,0
+2017-10-01,GO,Entre UFs,22 a 30 dias,Atrasado,1,1,5,1,1,1.0,0,0,0,0
+2017-10-01,GO,Entre UFs,22 a 30 dias,No prazo,74,0,0,74,4,324.0,0,0,0,0
+2017-10-01,GO,Entre UFs,31+ dias,No prazo,19,0,0,19,1,82.0,0,0,0,0
+2017-10-01,MA,Entre UFs,15 a 21 dias,Atrasado,1,1,5,1,1,1.0,0,0,0,0
+2017-10-01,MA,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,3.0,0,0,0,0
+2017-10-01,MA,Entre UFs,22 a 30 dias,Atrasado,8,8,90,8,5,19.0,0,0,0,0
+2017-10-01,MA,Entre UFs,22 a 30 dias,No prazo,22,0,0,22,1,100.0,0,0,0,0
+2017-10-01,MA,Entre UFs,31+ dias,Atrasado,3,3,22,3,2,6.0,0,0,0,0
+2017-10-01,MA,Entre UFs,31+ dias,No prazo,13,0,0,13,2,49.0,0,0,0,0
+2017-10-01,MG,Dentro da UF,8 a 14 dias,No prazo,7,0,0,7,1,30.0,0,0,0,0
+2017-10-01,MG,Dentro da UF,15 a 21 dias,Atrasado,1,1,8,1,1,1.0,0,0,0,0
+2017-10-01,MG,Dentro da UF,15 a 21 dias,No prazo,37,0,0,37,0,168.0,0,0,0,0
+2017-10-01,MG,Dentro da UF,22 a 30 dias,Atrasado,1,1,20,1,1,1.0,0,0,0,0
+2017-10-01,MG,Dentro da UF,22 a 30 dias,No prazo,22,0,0,21,1,91.0,0,0,0,0
+2017-10-01,MG,Dentro da UF,31+ dias,No prazo,4,0,0,4,0,19.0,0,0,0,0
+2017-10-01,MG,Entre UFs,15 a 21 dias,Atrasado,1,1,21,0,0,0.0,0,0,0,0
+2017-10-01,MG,Entre UFs,15 a 21 dias,No prazo,99,0,0,98,2,446.0,0,0,0,0
+2017-10-01,MG,Entre UFs,22 a 30 dias,Atrasado,2,2,12,2,1,4.0,0,0,0,0
+2017-10-01,MG,Entre UFs,22 a 30 dias,No prazo,317,0,0,317,35,1345.0,0,0,0,0
+2017-10-01,MG,Entre UFs,31+ dias,No prazo,51,0,0,51,7,212.0,0,0,0,0
+2017-10-01,MS,Entre UFs,15 a 21 dias,No prazo,5,0,0,5,0,23.0,0,0,0,0
+2017-10-01,MS,Entre UFs,22 a 30 dias,Atrasado,2,2,6,2,0,10.0,0,0,0,0
+2017-10-01,MS,Entre UFs,22 a 30 dias,No prazo,15,0,0,15,1,67.0,0,0,0,0
+2017-10-01,MS,Entre UFs,31+ dias,No prazo,11,0,0,11,1,49.0,0,0,0,0
+2017-10-01,MT,Entre UFs,22 a 30 dias,Atrasado,1,1,2,1,0,5.0,0,0,0,0
+2017-10-01,MT,Entre UFs,22 a 30 dias,No prazo,20,0,0,20,3,83.0,0,0,0,0
+2017-10-01,MT,Entre UFs,31+ dias,No prazo,29,0,0,29,1,129.0,0,0,0,0
+2017-10-01,PA,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-10-01,PA,Entre UFs,31+ dias,Atrasado,3,3,23,3,1,11.0,0,0,0,0
+2017-10-01,PA,Entre UFs,31+ dias,No prazo,48,0,0,48,5,198.0,0,0,0,0
+2017-10-01,PB,Entre UFs,22 a 30 dias,No prazo,8,0,0,7,0,33.0,0,0,0,0
+2017-10-01,PB,Entre UFs,31+ dias,No prazo,20,0,0,20,2,84.0,0,0,0,0
+2017-10-01,PE,Entre UFs,15 a 21 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-10-01,PE,Entre UFs,22 a 30 dias,Atrasado,5,5,65,4,1,15.0,0,0,0,0
+2017-10-01,PE,Entre UFs,22 a 30 dias,No prazo,28,0,0,28,0,128.0,0,0,0,0
+2017-10-01,PE,Entre UFs,31+ dias,No prazo,42,0,0,42,5,178.0,0,0,0,0
+2017-10-01,PI,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,1,2.0,0,0,0,0
+2017-10-01,PI,Entre UFs,22 a 30 dias,No prazo,15,0,0,15,1,66.0,0,0,0,0
+2017-10-01,PI,Entre UFs,31+ dias,No prazo,7,0,0,7,1,32.0,0,0,0,0
+2017-10-01,PR,Dentro da UF,8 a 14 dias,No prazo,4,0,0,4,0,16.0,0,0,0,0
+2017-10-01,PR,Dentro da UF,15 a 21 dias,No prazo,8,0,0,8,0,38.0,0,0,0,0
+2017-10-01,PR,Dentro da UF,22 a 30 dias,No prazo,6,0,0,6,1,26.0,0,0,0,0
+2017-10-01,PR,Entre UFs,15 a 21 dias,Atrasado,5,5,44,5,2,14.0,0,0,0,0
+2017-10-01,PR,Entre UFs,15 a 21 dias,No prazo,23,0,0,22,0,94.0,0,0,0,0
+2017-10-01,PR,Entre UFs,22 a 30 dias,Atrasado,1,1,13,1,1,1.0,0,0,0,0
+2017-10-01,PR,Entre UFs,22 a 30 dias,No prazo,127,0,0,127,16,525.0,0,0,0,0
+2017-10-01,PR,Entre UFs,31+ dias,No prazo,24,0,0,24,2,103.0,0,0,0,0
+2017-10-01,RJ,Dentro da UF,8 a 14 dias,Atrasado,1,1,7,1,1,1.0,0,0,0,0
+2017-10-01,RJ,Dentro da UF,8 a 14 dias,No prazo,16,0,0,16,0,79.0,0,0,0,0
+2017-10-01,RJ,Dentro da UF,15 a 21 dias,No prazo,23,0,0,23,0,109.0,0,0,0,0
+2017-10-01,RJ,Dentro da UF,22 a 30 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-10-01,RJ,Entre UFs,8 a 14 dias,No prazo,8,0,0,8,1,32.0,0,0,0,0
+2017-10-01,RJ,Entre UFs,15 a 21 dias,Atrasado,17,17,141,17,8,48.0,0,0,0,0
+2017-10-01,RJ,Entre UFs,15 a 21 dias,No prazo,186,0,0,184,11,807.0,0,0,0,0
+2017-10-01,RJ,Entre UFs,22 a 30 dias,Atrasado,26,26,393,22,14,48.0,0,0,0,0
+2017-10-01,RJ,Entre UFs,22 a 30 dias,No prazo,319,0,0,318,39,1350.0,0,0,0,0
+2017-10-01,RJ,Entre UFs,31+ dias,Atrasado,1,1,6,0,0,0.0,0,0,0,0
+2017-10-01,RJ,Entre UFs,31+ dias,No prazo,53,0,0,52,7,213.0,0,0,0,0
+2017-10-01,RJ,Mista,15 a 21 dias,No prazo,1,0,0,1,1,1.0,0,0,0,0
+2017-10-01,RJ,Mista,22 a 30 dias,No prazo,1,0,0,1,0,3.0,0,0,0,0
+2017-10-01,RN,Entre UFs,22 a 30 dias,Atrasado,1,1,3,1,0,3.0,0,0,0,0
+2017-10-01,RN,Entre UFs,22 a 30 dias,No prazo,11,0,0,11,1,46.0,0,0,0,0
+2017-10-01,RN,Entre UFs,31+ dias,No prazo,11,0,0,11,1,46.0,0,0,0,0
+2017-10-01,RO,Entre UFs,31+ dias,No prazo,13,0,0,13,0,58.0,0,0,0,0
+2017-10-01,RR,Entre UFs,31+ dias,Atrasado,1,1,6,1,1,1.0,0,0,0,0
+2017-10-01,RR,Entre UFs,31+ dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-10-01,RS,Dentro da UF,8 a 14 dias,No prazo,4,0,0,4,0,20.0,0,0,0,0
+2017-10-01,RS,Dentro da UF,15 a 21 dias,No prazo,4,0,0,4,0,17.0,0,0,0,0
+2017-10-01,RS,Dentro da UF,22 a 30 dias,No prazo,3,0,0,3,0,13.0,0,0,0,0
+2017-10-01,RS,Entre UFs,15 a 21 dias,No prazo,7,0,0,7,0,29.0,0,0,0,0
+2017-10-01,RS,Entre UFs,22 a 30 dias,Atrasado,2,2,13,2,1,5.0,0,0,0,0
+2017-10-01,RS,Entre UFs,22 a 30 dias,No prazo,120,0,0,119,12,518.0,0,0,0,0
+2017-10-01,RS,Entre UFs,31+ dias,Atrasado,3,3,56,3,3,4.0,0,0,0,0
+2017-10-01,RS,Entre UFs,31+ dias,No prazo,101,0,0,100,12,412.0,0,0,0,0
+2017-10-01,SC,Dentro da UF,15 a 21 dias,No prazo,8,0,0,8,0,40.0,0,0,0,0
+2017-10-01,SC,Dentro da UF,22 a 30 dias,No prazo,4,0,0,4,1,15.0,0,0,0,0
+2017-10-01,SC,Entre UFs,15 a 21 dias,No prazo,12,0,0,12,0,51.0,0,0,0,0
+2017-10-01,SC,Entre UFs,22 a 30 dias,Atrasado,7,7,37,7,4,15.0,0,0,0,0
+2017-10-01,SC,Entre UFs,22 a 30 dias,No prazo,123,0,0,123,9,527.0,0,0,0,0
+2017-10-01,SC,Entre UFs,31+ dias,Atrasado,1,1,1,1,0,5.0,0,0,0,0
+2017-10-01,SC,Entre UFs,31+ dias,No prazo,19,0,0,18,2,78.0,0,0,0,0
+2017-10-01,SE,Entre UFs,15 a 21 dias,Atrasado,1,1,6,1,1,1.0,0,0,0,0
+2017-10-01,SE,Entre UFs,22 a 30 dias,Atrasado,4,4,37,4,3,6.0,0,0,0,0
+2017-10-01,SE,Entre UFs,22 a 30 dias,No prazo,8,0,0,8,2,29.0,0,0,0,0
+2017-10-01,SE,Entre UFs,31+ dias,Atrasado,1,1,22,1,1,1.0,0,0,0,0
+2017-10-01,SE,Entre UFs,31+ dias,No prazo,8,0,0,8,1,36.0,0,0,0,0
+2017-10-01,SP,Dentro da UF,8 a 14 dias,Atrasado,25,25,142,25,10,79.0,0,0,0,0
+2017-10-01,SP,Dentro da UF,8 a 14 dias,No prazo,414,0,0,409,30,1788.0,0,0,0,0
+2017-10-01,SP,Dentro da UF,15 a 21 dias,Atrasado,24,24,234,24,13,62.0,0,0,0,0
+2017-10-01,SP,Dentro da UF,15 a 21 dias,No prazo,582,0,0,581,61,2469.0,0,0,0,0
+2017-10-01,SP,Dentro da UF,22 a 30 dias,Atrasado,2,2,5,2,1,7.0,0,0,0,0
+2017-10-01,SP,Dentro da UF,22 a 30 dias,No prazo,233,0,0,231,25,967.0,0,0,0,0
+2017-10-01,SP,Dentro da UF,31+ dias,No prazo,17,0,0,17,3,70.0,0,0,0,0
+2017-10-01,SP,Entre UFs,8 a 14 dias,No prazo,3,0,0,3,0,15.0,0,0,0,0
+2017-10-01,SP,Entre UFs,15 a 21 dias,Atrasado,2,2,8,2,0,7.0,0,0,0,0
+2017-10-01,SP,Entre UFs,15 a 21 dias,No prazo,97,0,0,96,6,419.0,0,0,0,0
+2017-10-01,SP,Entre UFs,22 a 30 dias,Atrasado,3,3,24,3,1,11.0,0,0,0,0
+2017-10-01,SP,Entre UFs,22 a 30 dias,No prazo,246,0,0,244,17,1048.0,0,0,0,0
+2017-10-01,SP,Entre UFs,31+ dias,No prazo,60,0,0,60,5,258.0,0,0,0,0
+2017-10-01,SP,Mista,15 a 21 dias,No prazo,4,0,0,4,2,11.0,0,0,0,0
+2017-10-01,SP,Mista,22 a 30 dias,No prazo,10,0,0,10,4,29.0,0,0,0,0
+2017-10-01,SP,Mista,31+ dias,No prazo,1,0,0,1,1,1.0,0,0,0,0
+2017-10-01,TO,Entre UFs,22 a 30 dias,No prazo,10,0,0,10,3,36.0,0,0,0,0
+2017-10-01,TO,Entre UFs,31+ dias,No prazo,3,0,0,3,0,15.0,0,0,0,0
+2017-11-01,AC,Entre UFs,31+ dias,Atrasado,1,1,1,1,0,3.0,0,0,0,0
+2017-11-01,AC,Entre UFs,31+ dias,No prazo,4,0,0,4,1,15.0,0,0,0,0
+2017-11-01,AL,Entre UFs,22 a 30 dias,Atrasado,3,3,28,3,1,8.0,0,0,0,0
+2017-11-01,AL,Entre UFs,22 a 30 dias,No prazo,9,0,0,9,1,39.0,0,0,0,0
+2017-11-01,AL,Entre UFs,31+ dias,Atrasado,2,2,20,2,0,8.0,0,0,0,0
+2017-11-01,AL,Entre UFs,31+ dias,No prazo,12,0,0,12,2,50.0,0,0,0,0
+2017-11-01,AM,Entre UFs,31+ dias,No prazo,10,0,0,10,0,47.0,0,0,0,0
+2017-11-01,AP,Entre UFs,31+ dias,No prazo,4,0,0,4,0,18.0,0,0,0,0
+2017-11-01,BA,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-11-01,BA,Dentro da UF,15 a 21 dias,No prazo,5,0,0,5,0,23.0,0,0,0,0
+2017-11-01,BA,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-11-01,BA,Entre UFs,15 a 21 dias,Atrasado,1,1,7,1,1,1.0,0,0,0,0
+2017-11-01,BA,Entre UFs,22 a 30 dias,Atrasado,30,30,385,30,22,62.0,0,0,0,0
+2017-11-01,BA,Entre UFs,22 a 30 dias,No prazo,150,0,0,150,18,628.0,0,0,0,0
+2017-11-01,BA,Entre UFs,31+ dias,Atrasado,5,5,58,5,2,15.0,0,0,0,0
+2017-11-01,BA,Entre UFs,31+ dias,No prazo,50,0,0,49,3,205.0,0,0,0,0
+2017-11-01,CE,Entre UFs,22 a 30 dias,Atrasado,22,22,218,22,15,48.0,0,0,0,0
+2017-11-01,CE,Entre UFs,22 a 30 dias,No prazo,46,0,0,46,6,186.0,0,0,0,0
+2017-11-01,CE,Entre UFs,31+ dias,Atrasado,5,5,137,5,5,6.0,0,0,0,0
+2017-11-01,CE,Entre UFs,31+ dias,No prazo,30,0,0,30,4,119.0,0,0,0,0
+2017-11-01,DF,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-11-01,DF,Entre UFs,15 a 21 dias,Atrasado,4,4,7,4,2,12.0,0,0,0,0
+2017-11-01,DF,Entre UFs,15 a 21 dias,No prazo,31,0,0,31,3,135.0,0,0,0,0
+2017-11-01,DF,Entre UFs,22 a 30 dias,Atrasado,14,14,141,14,13,16.0,0,0,0,0
+2017-11-01,DF,Entre UFs,22 a 30 dias,No prazo,101,0,0,101,12,422.0,0,0,0,0
+2017-11-01,DF,Entre UFs,31+ dias,No prazo,6,0,0,6,0,28.0,0,0,0,0
+2017-11-01,ES,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-11-01,ES,Entre UFs,15 a 21 dias,Atrasado,7,7,60,7,6,13.0,0,0,0,0
+2017-11-01,ES,Entre UFs,15 a 21 dias,No prazo,26,0,0,26,7,89.0,0,0,0,0
+2017-11-01,ES,Entre UFs,22 a 30 dias,Atrasado,27,27,189,27,16,67.0,0,0,0,0
+2017-11-01,ES,Entre UFs,22 a 30 dias,No prazo,97,0,0,94,5,414.0,0,0,0,0
+2017-11-01,ES,Entre UFs,31+ dias,No prazo,10,0,0,10,2,38.0,0,0,0,0
+2017-11-01,GO,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-11-01,GO,Entre UFs,15 a 21 dias,Atrasado,1,1,27,1,1,1.0,0,0,0,0
+2017-11-01,GO,Entre UFs,15 a 21 dias,No prazo,3,0,0,3,0,15.0,0,0,0,0
+2017-11-01,GO,Entre UFs,22 a 30 dias,Atrasado,18,18,195,17,10,36.0,0,0,0,0
+2017-11-01,GO,Entre UFs,22 a 30 dias,No prazo,114,0,0,111,12,475.0,0,0,0,0
+2017-11-01,GO,Entre UFs,31+ dias,Atrasado,1,1,4,1,1,2.0,0,0,0,0
+2017-11-01,GO,Entre UFs,31+ dias,No prazo,15,0,0,15,1,70.0,0,0,0,0
+2017-11-01,MA,Entre UFs,15 a 21 dias,Atrasado,1,1,3,1,0,5.0,0,0,0,0
+2017-11-01,MA,Entre UFs,22 a 30 dias,Atrasado,19,19,216,18,12,34.0,0,0,0,0
+2017-11-01,MA,Entre UFs,22 a 30 dias,No prazo,17,0,0,17,3,70.0,0,0,0,0
+2017-11-01,MA,Entre UFs,31+ dias,Atrasado,8,8,94,8,3,24.0,0,0,0,0
+2017-11-01,MA,Entre UFs,31+ dias,No prazo,8,0,0,8,2,30.0,0,0,0,0
+2017-11-01,MG,Dentro da UF,8 a 14 dias,Atrasado,1,1,6,1,1,1.0,0,0,0,0
+2017-11-01,MG,Dentro da UF,8 a 14 dias,No prazo,13,0,0,13,2,55.0,0,0,0,0
+2017-11-01,MG,Dentro da UF,15 a 21 dias,Atrasado,2,2,7,2,1,6.0,0,0,0,0
+2017-11-01,MG,Dentro da UF,15 a 21 dias,No prazo,71,0,0,69,5,310.0,0,0,0,0
+2017-11-01,MG,Dentro da UF,22 a 30 dias,Atrasado,2,2,11,2,0,10.0,0,0,0,0
+2017-11-01,MG,Dentro da UF,22 a 30 dias,No prazo,19,0,0,19,2,83.0,0,0,0,0
+2017-11-01,MG,Dentro da UF,31+ dias,No prazo,6,0,0,6,0,26.0,0,0,0,0
+2017-11-01,MG,Entre UFs,15 a 21 dias,Atrasado,13,13,89,12,7,30.0,0,0,0,0
+2017-11-01,MG,Entre UFs,15 a 21 dias,No prazo,132,0,0,132,8,587.0,0,0,0,0
+2017-11-01,MG,Entre UFs,22 a 30 dias,Atrasado,46,46,356,44,24,106.0,0,0,0,0
+2017-11-01,MG,Entre UFs,22 a 30 dias,No prazo,548,0,0,546,43,2313.0,0,0,0,0
+2017-11-01,MG,Entre UFs,31+ dias,Atrasado,2,2,32,2,2,2.0,0,0,0,0
+2017-11-01,MG,Entre UFs,31+ dias,No prazo,63,0,0,63,7,267.0,0,0,0,0
+2017-11-01,MG,Mista,22 a 30 dias,No prazo,3,0,0,3,1,9.0,0,0,0,0
+2017-11-01,MG,Mista,31+ dias,No prazo,1,0,0,1,1,2.0,0,0,0,0
+2017-11-01,MS,Entre UFs,15 a 21 dias,No prazo,5,0,0,5,0,23.0,0,0,0,0
+2017-11-01,MS,Entre UFs,22 a 30 dias,Atrasado,4,4,33,4,4,6.0,0,0,0,0
+2017-11-01,MS,Entre UFs,22 a 30 dias,No prazo,29,0,0,29,3,127.0,0,0,0,0
+2017-11-01,MS,Entre UFs,31+ dias,No prazo,6,0,0,6,0,27.0,0,0,0,0
+2017-11-01,MT,Entre UFs,22 a 30 dias,Atrasado,6,6,72,6,2,18.0,0,0,0,0
+2017-11-01,MT,Entre UFs,22 a 30 dias,No prazo,29,0,0,29,4,114.0,0,0,0,0
+2017-11-01,MT,Entre UFs,31+ dias,Atrasado,3,3,19,3,1,9.0,0,0,0,0
+2017-11-01,MT,Entre UFs,31+ dias,No prazo,35,0,0,35,3,151.0,0,0,0,0
+2017-11-01,PA,Entre UFs,22 a 30 dias,Atrasado,1,1,29,1,1,1.0,0,0,0,0
+2017-11-01,PA,Entre UFs,22 a 30 dias,No prazo,4,0,0,4,1,14.0,0,0,0,0
+2017-11-01,PA,Entre UFs,31+ dias,Atrasado,9,9,98,8,8,9.0,0,0,0,0
+2017-11-01,PA,Entre UFs,31+ dias,No prazo,55,0,0,55,10,216.0,0,0,0,0
+2017-11-01,PB,Entre UFs,22 a 30 dias,Atrasado,1,1,5,1,0,3.0,0,0,0,0
+2017-11-01,PB,Entre UFs,22 a 30 dias,No prazo,11,0,0,11,3,41.0,0,0,0,0
+2017-11-01,PB,Entre UFs,31+ dias,Atrasado,4,4,59,4,3,9.0,0,0,0,0
+2017-11-01,PB,Entre UFs,31+ dias,No prazo,11,0,0,11,2,43.0,0,0,0,0
+2017-11-01,PE,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-11-01,PE,Entre UFs,15 a 21 dias,No prazo,3,0,0,3,0,15.0,0,0,0,0
+2017-11-01,PE,Entre UFs,22 a 30 dias,Atrasado,8,8,106,8,5,19.0,0,0,0,0
+2017-11-01,PE,Entre UFs,22 a 30 dias,No prazo,64,0,0,64,7,256.0,0,0,0,0
+2017-11-01,PE,Entre UFs,31+ dias,Atrasado,7,7,50,7,5,16.0,0,0,0,0
+2017-11-01,PE,Entre UFs,31+ dias,No prazo,42,0,0,41,10,159.0,0,0,0,0
+2017-11-01,PI,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-11-01,PI,Entre UFs,22 a 30 dias,Atrasado,14,14,132,14,10,31.0,0,0,0,0
+2017-11-01,PI,Entre UFs,22 a 30 dias,No prazo,14,0,0,14,1,57.0,0,0,0,0
+2017-11-01,PI,Entre UFs,31+ dias,Atrasado,1,1,3,1,0,4.0,0,0,0,0
+2017-11-01,PI,Entre UFs,31+ dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-11-01,PR,Dentro da UF,8 a 14 dias,No prazo,4,0,0,4,0,18.0,0,0,0,0
+2017-11-01,PR,Dentro da UF,15 a 21 dias,No prazo,20,0,0,19,1,86.0,0,0,0,0
+2017-11-01,PR,Dentro da UF,22 a 30 dias,No prazo,10,0,0,10,1,44.0,0,0,0,0
+2017-11-01,PR,Entre UFs,15 a 21 dias,Atrasado,6,6,32,6,3,19.0,0,0,0,0
+2017-11-01,PR,Entre UFs,15 a 21 dias,No prazo,38,0,0,38,2,171.0,0,0,0,0
+2017-11-01,PR,Entre UFs,22 a 30 dias,Atrasado,26,26,253,25,14,57.0,0,0,0,0
+2017-11-01,PR,Entre UFs,22 a 30 dias,No prazo,235,0,0,235,20,1002.0,0,0,0,0
+2017-11-01,PR,Entre UFs,31+ dias,No prazo,21,0,0,21,2,90.0,0,0,0,0
+2017-11-01,PR,Mista,15 a 21 dias,No prazo,1,0,0,1,1,1.0,0,0,0,0
+2017-11-01,PR,Mista,22 a 30 dias,No prazo,4,0,0,4,4,6.0,0,0,0,0
+2017-11-01,RJ,Dentro da UF,8 a 14 dias,Atrasado,1,1,22,1,1,1.0,0,0,0,0
+2017-11-01,RJ,Dentro da UF,8 a 14 dias,No prazo,30,0,0,30,2,141.0,0,0,0,0
+2017-11-01,RJ,Dentro da UF,15 a 21 dias,No prazo,39,0,0,37,3,160.0,0,0,0,0
+2017-11-01,RJ,Entre UFs,15 a 21 dias,Atrasado,95,95,1022,94,57,218.0,0,0,0,0
+2017-11-01,RJ,Entre UFs,15 a 21 dias,No prazo,231,0,0,230,22,1006.0,0,0,0,0
+2017-11-01,RJ,Entre UFs,22 a 30 dias,Atrasado,162,162,2291,161,119,303.0,0,0,0,0
+2017-11-01,RJ,Entre UFs,22 a 30 dias,No prazo,415,0,0,413,44,1715.0,0,0,0,0
+2017-11-01,RJ,Entre UFs,31+ dias,Atrasado,5,5,78,5,5,5.0,0,0,0,0
+2017-11-01,RJ,Entre UFs,31+ dias,No prazo,33,0,0,32,5,134.0,0,0,0,0
+2017-11-01,RJ,Mista,22 a 30 dias,No prazo,1,0,0,1,1,2.0,0,0,0,0
+2017-11-01,RN,Dentro da UF,15 a 21 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-11-01,RN,Entre UFs,22 a 30 dias,Atrasado,5,5,46,5,5,5.0,0,0,0,0
+2017-11-01,RN,Entre UFs,22 a 30 dias,No prazo,14,0,0,14,2,57.0,0,0,0,0
+2017-11-01,RN,Entre UFs,31+ dias,Atrasado,3,3,36,3,3,4.0,0,0,0,0
+2017-11-01,RN,Entre UFs,31+ dias,No prazo,17,0,0,17,2,69.0,0,0,0,0
+2017-11-01,RO,Entre UFs,31+ dias,No prazo,17,0,0,17,3,67.0,0,0,0,0
+2017-11-01,RR,Entre UFs,31+ dias,Atrasado,1,1,5,1,1,1.0,0,0,0,0
+2017-11-01,RR,Entre UFs,31+ dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-11-01,RS,Dentro da UF,8 a 14 dias,No prazo,4,0,0,4,1,14.0,0,0,0,0
+2017-11-01,RS,Dentro da UF,15 a 21 dias,No prazo,12,0,0,12,0,56.0,0,0,0,0
+2017-11-01,RS,Dentro da UF,22 a 30 dias,Atrasado,1,1,8,1,1,1.0,0,0,0,0
+2017-11-01,RS,Dentro da UF,22 a 30 dias,No prazo,3,0,0,3,0,13.0,0,0,0,0
+2017-11-01,RS,Entre UFs,15 a 21 dias,No prazo,10,0,0,10,0,48.0,0,0,0,0
+2017-11-01,RS,Entre UFs,22 a 30 dias,Atrasado,36,36,484,35,24,73.0,0,0,0,0
+2017-11-01,RS,Entre UFs,22 a 30 dias,No prazo,198,0,0,197,25,819.0,0,0,0,0
+2017-11-01,RS,Entre UFs,31+ dias,Atrasado,15,15,136,15,12,25.0,0,0,0,0
+2017-11-01,RS,Entre UFs,31+ dias,No prazo,130,0,0,130,20,521.0,0,0,0,0
+2017-11-01,SC,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-11-01,SC,Dentro da UF,15 a 21 dias,No prazo,10,0,0,10,0,46.0,0,0,0,0
+2017-11-01,SC,Dentro da UF,22 a 30 dias,Atrasado,1,1,1,1,0,4.0,0,0,0,0
+2017-11-01,SC,Dentro da UF,22 a 30 dias,No prazo,2,0,0,2,0,8.0,0,0,0,0
+2017-11-01,SC,Entre UFs,8 a 14 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-11-01,SC,Entre UFs,15 a 21 dias,Atrasado,1,1,8,1,1,1.0,0,0,0,0
+2017-11-01,SC,Entre UFs,15 a 21 dias,No prazo,9,0,0,9,0,42.0,0,0,0,0
+2017-11-01,SC,Entre UFs,22 a 30 dias,Atrasado,39,39,409,39,30,71.0,0,0,0,0
+2017-11-01,SC,Entre UFs,22 a 30 dias,No prazo,202,0,0,200,18,856.0,0,0,0,0
+2017-11-01,SC,Entre UFs,31+ dias,Atrasado,2,2,8,2,1,5.0,0,0,0,0
+2017-11-01,SC,Entre UFs,31+ dias,No prazo,19,0,0,19,3,76.0,0,0,0,0
+2017-11-01,SE,Entre UFs,22 a 30 dias,Atrasado,5,5,58,5,3,12.0,0,0,0,0
+2017-11-01,SE,Entre UFs,22 a 30 dias,No prazo,15,0,0,15,3,56.0,0,0,0,0
+2017-11-01,SE,Entre UFs,31+ dias,Atrasado,2,2,33,2,2,2.0,0,0,0,0
+2017-11-01,SE,Entre UFs,31+ dias,No prazo,4,0,0,4,1,16.0,0,0,0,0
+2017-11-01,SP,Dentro da UF,8 a 14 dias,Atrasado,38,38,420,37,16,104.0,0,0,0,0
+2017-11-01,SP,Dentro da UF,8 a 14 dias,No prazo,679,0,0,675,62,2888.0,0,0,0,0
+2017-11-01,SP,Dentro da UF,15 a 21 dias,Atrasado,106,106,970,102,55,257.0,0,0,0,0
+2017-11-01,SP,Dentro da UF,15 a 21 dias,No prazo,1109,0,0,1104,100,4684.0,0,0,0,0
+2017-11-01,SP,Dentro da UF,22 a 30 dias,Atrasado,14,14,185,14,7,41.0,0,0,0,0
+2017-11-01,SP,Dentro da UF,22 a 30 dias,No prazo,202,0,0,201,24,841.0,0,0,0,0
+2017-11-01,SP,Dentro da UF,31+ dias,Atrasado,1,1,12,1,1,1.0,0,0,0,0
+2017-11-01,SP,Dentro da UF,31+ dias,No prazo,21,0,0,20,2,79.0,0,0,0,0
+2017-11-01,SP,Entre UFs,8 a 14 dias,No prazo,5,0,0,5,0,22.0,0,0,0,0
+2017-11-01,SP,Entre UFs,15 a 21 dias,Atrasado,21,21,289,20,10,56.0,0,0,0,0
+2017-11-01,SP,Entre UFs,15 a 21 dias,No prazo,170,0,0,170,15,729.0,0,0,0,0
+2017-11-01,SP,Entre UFs,22 a 30 dias,Atrasado,21,21,346,20,16,34.0,0,0,0,0
+2017-11-01,SP,Entre UFs,22 a 30 dias,No prazo,406,0,0,405,29,1764.0,0,0,0,0
+2017-11-01,SP,Entre UFs,31+ dias,Atrasado,1,1,31,1,1,1.0,0,0,0,0
+2017-11-01,SP,Entre UFs,31+ dias,No prazo,87,0,0,87,3,391.0,0,0,0,0
+2017-11-01,SP,Mista,15 a 21 dias,No prazo,2,0,0,2,1,4.0,0,0,0,0
+2017-11-01,SP,Mista,22 a 30 dias,No prazo,14,0,0,14,7,32.0,0,0,0,0
+2017-11-01,SP,Mista,31+ dias,No prazo,1,0,0,1,1,1.0,0,0,0,0
+2017-11-01,TO,Entre UFs,15 a 21 dias,Atrasado,1,1,5,1,1,1.0,0,0,0,0
+2017-11-01,TO,Entre UFs,22 a 30 dias,Atrasado,2,2,20,2,1,5.0,0,0,0,0
+2017-11-01,TO,Entre UFs,22 a 30 dias,No prazo,11,0,0,11,0,49.0,0,0,0,0
+2017-11-01,TO,Entre UFs,31+ dias,No prazo,3,0,0,3,0,14.0,0,0,0,0
+2017-12-01,AC,Entre UFs,31+ dias,No prazo,5,0,0,5,0,24.0,0,0,0,0
+2017-12-01,AL,Entre UFs,31+ dias,No prazo,12,0,0,12,0,53.0,0,0,0,0
+2017-12-01,AM,Entre UFs,31+ dias,No prazo,6,0,0,6,0,28.0,0,0,0,0
+2017-12-01,AP,Entre UFs,31+ dias,No prazo,4,0,0,4,0,16.0,0,0,0,0
+2017-12-01,BA,Dentro da UF,22 a 30 dias,No prazo,6,0,0,6,1,22.0,0,0,0,0
+2017-12-01,BA,Entre UFs,22 a 30 dias,Atrasado,6,6,37,6,1,23.0,0,0,0,0
+2017-12-01,BA,Entre UFs,22 a 30 dias,No prazo,25,0,0,25,2,105.0,0,0,0,0
+2017-12-01,BA,Entre UFs,31+ dias,Atrasado,18,18,268,18,12,38.0,0,0,0,0
+2017-12-01,BA,Entre UFs,31+ dias,No prazo,133,0,0,130,11,548.0,0,0,0,0
+2017-12-01,CE,Entre UFs,22 a 30 dias,Atrasado,1,1,11,1,1,1.0,0,0,0,0
+2017-12-01,CE,Entre UFs,22 a 30 dias,No prazo,9,0,0,9,1,39.0,0,0,0,0
+2017-12-01,CE,Entre UFs,31+ dias,Atrasado,5,5,101,5,3,12.0,0,0,0,0
+2017-12-01,CE,Entre UFs,31+ dias,No prazo,64,0,0,64,4,270.0,0,0,0,0
+2017-12-01,DF,Dentro da UF,15 a 21 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-12-01,DF,Dentro da UF,22 a 30 dias,Atrasado,1,1,8,1,1,1.0,0,0,0,0
+2017-12-01,DF,Entre UFs,22 a 30 dias,Atrasado,4,4,16,4,2,12.0,0,0,0,0
+2017-12-01,DF,Entre UFs,22 a 30 dias,No prazo,95,0,0,95,7,408.0,0,0,0,0
+2017-12-01,DF,Entre UFs,31+ dias,Atrasado,1,1,3,1,1,1.0,0,0,0,0
+2017-12-01,DF,Entre UFs,31+ dias,No prazo,26,0,0,24,3,97.0,0,0,0,0
+2017-12-01,ES,Entre UFs,22 a 30 dias,Atrasado,5,5,14,4,2,11.0,0,0,0,0
+2017-12-01,ES,Entre UFs,22 a 30 dias,No prazo,62,0,0,62,5,259.0,0,0,0,0
+2017-12-01,ES,Entre UFs,31+ dias,Atrasado,2,2,19,2,1,6.0,0,0,0,0
+2017-12-01,ES,Entre UFs,31+ dias,No prazo,39,0,0,38,3,170.0,0,0,0,0
+2017-12-01,GO,Entre UFs,15 a 21 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-12-01,GO,Entre UFs,22 a 30 dias,Atrasado,6,6,34,6,4,14.0,0,0,0,0
+2017-12-01,GO,Entre UFs,22 a 30 dias,No prazo,45,0,0,44,5,191.0,0,0,0,0
+2017-12-01,GO,Entre UFs,31+ dias,Atrasado,3,3,19,3,2,5.0,0,0,0,0
+2017-12-01,GO,Entre UFs,31+ dias,No prazo,69,0,0,69,10,278.0,0,0,0,0
+2017-12-01,MA,Entre UFs,22 a 30 dias,Atrasado,1,1,1,1,0,3.0,0,0,0,0
+2017-12-01,MA,Entre UFs,22 a 30 dias,No prazo,7,0,0,7,1,27.0,0,0,0,0
+2017-12-01,MA,Entre UFs,31+ dias,Atrasado,4,4,45,4,4,5.0,0,0,0,0
+2017-12-01,MA,Entre UFs,31+ dias,No prazo,28,0,0,28,7,98.0,0,0,0,0
+2017-12-01,MG,Dentro da UF,15 a 21 dias,No prazo,19,0,0,19,2,84.0,0,0,0,0
+2017-12-01,MG,Dentro da UF,22 a 30 dias,No prazo,57,0,0,57,3,249.0,0,0,0,0
+2017-12-01,MG,Dentro da UF,31+ dias,Atrasado,2,2,12,2,1,6.0,0,0,0,0
+2017-12-01,MG,Dentro da UF,31+ dias,No prazo,6,0,0,6,1,25.0,0,0,0,0
+2017-12-01,MG,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-12-01,MG,Entre UFs,22 a 30 dias,Atrasado,13,13,49,13,6,38.0,0,0,0,0
+2017-12-01,MG,Entre UFs,22 a 30 dias,No prazo,359,0,0,357,41,1500.0,0,0,0,0
+2017-12-01,MG,Entre UFs,31+ dias,Atrasado,8,8,152,8,6,15.0,0,0,0,0
+2017-12-01,MG,Entre UFs,31+ dias,No prazo,202,0,0,202,28,827.0,0,0,0,0
+2017-12-01,MG,Mista,22 a 30 dias,No prazo,2,0,0,2,1,6.0,0,0,0,0
+2017-12-01,MS,Entre UFs,22 a 30 dias,No prazo,17,0,0,17,1,78.0,0,0,0,0
+2017-12-01,MS,Entre UFs,31+ dias,Atrasado,2,2,19,2,2,2.0,0,0,0,0
+2017-12-01,MS,Entre UFs,31+ dias,No prazo,15,0,0,15,2,65.0,0,0,0,0
+2017-12-01,MT,Entre UFs,22 a 30 dias,No prazo,2,0,0,2,0,9.0,0,0,0,0
+2017-12-01,MT,Entre UFs,31+ dias,Atrasado,5,5,75,4,4,5.0,0,0,0,0
+2017-12-01,MT,Entre UFs,31+ dias,No prazo,42,0,0,42,6,175.0,0,0,0,0
+2017-12-01,PA,Entre UFs,31+ dias,Atrasado,4,4,17,4,3,9.0,0,0,0,0
+2017-12-01,PA,Entre UFs,31+ dias,No prazo,54,0,0,53,7,212.0,0,0,0,0
+2017-12-01,PB,Entre UFs,31+ dias,Atrasado,4,4,33,4,4,4.0,0,0,0,0
+2017-12-01,PB,Entre UFs,31+ dias,No prazo,33,0,0,32,3,130.0,0,0,0,0
+2017-12-01,PE,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-12-01,PE,Entre UFs,22 a 30 dias,No prazo,12,0,0,12,3,45.0,0,0,0,0
+2017-12-01,PE,Entre UFs,31+ dias,Atrasado,8,8,139,8,6,15.0,0,0,0,0
+2017-12-01,PE,Entre UFs,31+ dias,No prazo,80,0,0,78,5,333.0,0,0,0,0
+2017-12-01,PI,Entre UFs,22 a 30 dias,No prazo,4,0,0,4,0,19.0,0,0,0,0
+2017-12-01,PI,Entre UFs,31+ dias,Atrasado,3,3,11,3,0,12.0,0,0,0,0
+2017-12-01,PI,Entre UFs,31+ dias,No prazo,16,0,0,16,1,71.0,0,0,0,0
+2017-12-01,PR,Dentro da UF,15 a 21 dias,Atrasado,1,1,7,1,0,3.0,0,0,0,0
+2017-12-01,PR,Dentro da UF,15 a 21 dias,No prazo,7,0,0,7,0,31.0,0,0,0,0
+2017-12-01,PR,Dentro da UF,22 a 30 dias,No prazo,21,0,0,21,1,93.0,0,0,0,0
+2017-12-01,PR,Dentro da UF,31+ dias,No prazo,3,0,0,3,0,15.0,0,0,0,0
+2017-12-01,PR,Entre UFs,22 a 30 dias,Atrasado,8,8,100,7,4,17.0,0,0,0,0
+2017-12-01,PR,Entre UFs,22 a 30 dias,No prazo,88,0,0,88,8,375.0,0,0,0,0
+2017-12-01,PR,Entre UFs,31+ dias,Atrasado,4,4,39,4,3,8.0,0,0,0,0
+2017-12-01,PR,Entre UFs,31+ dias,No prazo,127,0,0,127,19,517.0,0,0,0,0
+2017-12-01,PR,Mista,22 a 30 dias,No prazo,1,0,0,1,1,1.0,0,0,0,0
+2017-12-01,RJ,Dentro da UF,15 a 21 dias,No prazo,44,0,0,42,5,180.0,0,0,0,0
+2017-12-01,RJ,Dentro da UF,22 a 30 dias,Atrasado,1,1,12,1,1,1.0,0,0,0,0
+2017-12-01,RJ,Dentro da UF,22 a 30 dias,No prazo,25,0,0,25,1,110.0,0,0,0,0
+2017-12-01,RJ,Dentro da UF,31+ dias,Atrasado,1,1,40,1,1,1.0,0,0,0,0
+2017-12-01,RJ,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2017-12-01,RJ,Entre UFs,15 a 21 dias,No prazo,2,0,0,2,0,9.0,0,0,0,0
+2017-12-01,RJ,Entre UFs,22 a 30 dias,Atrasado,136,136,1562,135,98,260.0,0,0,0,0
+2017-12-01,RJ,Entre UFs,22 a 30 dias,No prazo,296,0,0,292,35,1207.0,0,0,0,0
+2017-12-01,RJ,Entre UFs,31+ dias,Atrasado,41,41,382,38,35,52.0,0,0,0,0
+2017-12-01,RJ,Entre UFs,31+ dias,No prazo,198,0,0,194,36,756.0,0,0,0,0
+2017-12-01,RJ,Mista,22 a 30 dias,No prazo,1,0,0,1,1,2.0,0,0,0,0
+2017-12-01,RN,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-12-01,RN,Dentro da UF,22 a 30 dias,No prazo,6,0,0,6,0,30.0,0,0,0,0
+2017-12-01,RN,Entre UFs,22 a 30 dias,Atrasado,1,1,14,1,1,1.0,0,0,0,0
+2017-12-01,RN,Entre UFs,31+ dias,Atrasado,1,1,4,1,0,3.0,0,0,0,0
+2017-12-01,RN,Entre UFs,31+ dias,No prazo,21,0,0,21,0,96.0,0,0,0,0
+2017-12-01,RO,Entre UFs,31+ dias,No prazo,11,0,0,11,2,41.0,0,0,0,0
+2017-12-01,RS,Dentro da UF,15 a 21 dias,No prazo,5,0,0,5,0,24.0,0,0,0,0
+2017-12-01,RS,Dentro da UF,22 a 30 dias,No prazo,10,0,0,10,1,46.0,0,0,0,0
+2017-12-01,RS,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-12-01,RS,Entre UFs,22 a 30 dias,Atrasado,4,4,38,4,4,5.0,0,0,0,0
+2017-12-01,RS,Entre UFs,22 a 30 dias,No prazo,32,0,0,31,3,131.0,0,0,0,0
+2017-12-01,RS,Entre UFs,31+ dias,Atrasado,24,24,212,22,15,45.0,0,0,0,0
+2017-12-01,RS,Entre UFs,31+ dias,No prazo,202,0,0,202,21,841.0,0,0,0,0
+2017-12-01,SC,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-12-01,SC,Dentro da UF,22 a 30 dias,No prazo,8,0,0,8,0,39.0,0,0,0,0
+2017-12-01,SC,Entre UFs,15 a 21 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2017-12-01,SC,Entre UFs,22 a 30 dias,Atrasado,2,2,10,2,1,4.0,0,0,0,0
+2017-12-01,SC,Entre UFs,22 a 30 dias,No prazo,61,0,0,60,5,263.0,0,0,0,0
+2017-12-01,SC,Entre UFs,31+ dias,Atrasado,6,6,27,6,2,20.0,0,0,0,0
+2017-12-01,SC,Entre UFs,31+ dias,No prazo,112,0,0,112,15,449.0,0,0,0,0
+2017-12-01,SE,Entre UFs,22 a 30 dias,Atrasado,2,2,6,2,1,7.0,0,0,0,0
+2017-12-01,SE,Entre UFs,22 a 30 dias,No prazo,4,0,0,4,0,19.0,0,0,0,0
+2017-12-01,SE,Entre UFs,31+ dias,Atrasado,1,1,20,1,1,2.0,0,0,0,0
+2017-12-01,SE,Entre UFs,31+ dias,No prazo,13,0,0,13,1,58.0,0,0,0,0
+2017-12-01,SP,Dentro da UF,15 a 21 dias,Atrasado,23,23,110,23,14,55.0,0,0,0,0
+2017-12-01,SP,Dentro da UF,15 a 21 dias,No prazo,845,0,0,838,69,3677.0,0,0,0,0
+2017-12-01,SP,Dentro da UF,22 a 30 dias,Atrasado,25,25,150,25,16,60.0,0,0,0,0
+2017-12-01,SP,Dentro da UF,22 a 30 dias,No prazo,815,0,0,810,66,3510.0,0,0,0,0
+2017-12-01,SP,Dentro da UF,31+ dias,Atrasado,3,3,26,3,1,11.0,0,0,0,0
+2017-12-01,SP,Dentro da UF,31+ dias,No prazo,54,0,0,54,7,216.0,0,0,0,0
+2017-12-01,SP,Entre UFs,15 a 21 dias,Atrasado,1,1,14,1,1,2.0,0,0,0,0
+2017-12-01,SP,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-12-01,SP,Entre UFs,22 a 30 dias,Atrasado,14,14,89,13,6,37.0,0,0,0,0
+2017-12-01,SP,Entre UFs,22 a 30 dias,No prazo,293,0,0,289,22,1270.0,0,0,0,0
+2017-12-01,SP,Entre UFs,31+ dias,Atrasado,6,6,56,6,3,16.0,0,0,0,0
+2017-12-01,SP,Entre UFs,31+ dias,No prazo,205,0,0,204,25,858.0,0,0,0,0
+2017-12-01,SP,Mista,22 a 30 dias,No prazo,5,0,0,5,2,15.0,0,0,0,0
+2017-12-01,SP,Mista,31+ dias,No prazo,5,0,0,5,3,15.0,0,0,0,0
+2017-12-01,TO,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2017-12-01,TO,Entre UFs,31+ dias,No prazo,13,0,0,13,1,55.0,0,0,0,0
+2018-01-01,AC,Entre UFs,31+ dias,No prazo,6,0,0,6,0,25.0,0,0,0,0
+2018-01-01,AL,Entre UFs,22 a 30 dias,Atrasado,4,4,21,4,3,8.0,0,0,0,0
+2018-01-01,AL,Entre UFs,22 a 30 dias,No prazo,5,0,0,5,3,16.0,0,0,0,0
+2018-01-01,AL,Entre UFs,31+ dias,Atrasado,8,8,64,8,6,18.0,0,0,0,0
+2018-01-01,AL,Entre UFs,31+ dias,No prazo,19,0,0,19,1,82.0,0,0,0,0
+2018-01-01,AM,Entre UFs,31+ dias,No prazo,12,0,0,12,3,42.0,0,0,0,0
+2018-01-01,AP,Entre UFs,31+ dias,No prazo,11,0,0,11,2,42.0,0,0,0,0
+2018-01-01,BA,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2018-01-01,BA,Entre UFs,22 a 30 dias,Atrasado,10,10,146,8,6,15.0,0,0,0,0
+2018-01-01,BA,Entre UFs,22 a 30 dias,No prazo,93,0,0,93,16,360.0,0,0,0,0
+2018-01-01,BA,Entre UFs,31+ dias,Atrasado,5,5,35,4,3,8.0,0,0,0,0
+2018-01-01,BA,Entre UFs,31+ dias,No prazo,119,0,0,118,15,471.0,0,0,0,0
+2018-01-01,CE,Entre UFs,22 a 30 dias,Atrasado,3,3,102,3,2,6.0,0,0,0,0
+2018-01-01,CE,Entre UFs,22 a 30 dias,No prazo,17,0,0,17,1,72.0,0,0,0,0
+2018-01-01,CE,Entre UFs,31+ dias,Atrasado,6,6,207,5,4,8.0,0,0,0,0
+2018-01-01,CE,Entre UFs,31+ dias,No prazo,51,0,0,49,6,204.0,0,0,0,0
+2018-01-01,DF,Dentro da UF,15 a 21 dias,No prazo,4,0,0,4,0,20.0,0,0,0,0
+2018-01-01,DF,Entre UFs,22 a 30 dias,Atrasado,3,3,18,3,2,5.0,0,0,0,0
+2018-01-01,DF,Entre UFs,22 a 30 dias,No prazo,116,0,0,116,13,481.0,0,0,0,0
+2018-01-01,DF,Entre UFs,31+ dias,Atrasado,1,1,7,1,1,1.0,0,0,0,0
+2018-01-01,DF,Entre UFs,31+ dias,No prazo,11,0,0,10,2,40.0,0,0,0,0
+2018-01-01,ES,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2018-01-01,ES,Entre UFs,15 a 21 dias,No prazo,2,0,0,2,1,6.0,0,0,0,0
+2018-01-01,ES,Entre UFs,22 a 30 dias,Atrasado,13,13,111,13,5,40.0,0,0,0,0
+2018-01-01,ES,Entre UFs,22 a 30 dias,No prazo,93,0,0,92,5,410.0,0,0,0,0
+2018-01-01,ES,Entre UFs,31+ dias,Atrasado,1,1,5,1,1,1.0,0,0,0,0
+2018-01-01,ES,Entre UFs,31+ dias,No prazo,35,0,0,35,2,153.0,0,0,0,0
+2018-01-01,GO,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2018-01-01,GO,Entre UFs,22 a 30 dias,Atrasado,7,7,71,7,5,15.0,0,0,0,0
+2018-01-01,GO,Entre UFs,22 a 30 dias,No prazo,97,0,0,96,10,398.0,0,0,0,0
+2018-01-01,GO,Entre UFs,31+ dias,No prazo,39,0,0,39,1,161.0,0,0,0,0
+2018-01-01,MA,Entre UFs,22 a 30 dias,Atrasado,4,4,23,4,3,7.0,0,0,0,0
+2018-01-01,MA,Entre UFs,22 a 30 dias,No prazo,16,0,0,16,1,71.0,0,0,0,0
+2018-01-01,MA,Entre UFs,31+ dias,No prazo,35,0,0,34,3,144.0,0,0,0,0
+2018-01-01,MG,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,1,1.0,0,0,0,0
+2018-01-01,MG,Dentro da UF,15 a 21 dias,No prazo,24,0,0,24,1,106.0,0,0,0,0
+2018-01-01,MG,Dentro da UF,22 a 30 dias,Atrasado,1,1,2,1,0,5.0,0,0,0,0
+2018-01-01,MG,Dentro da UF,22 a 30 dias,No prazo,63,0,0,63,2,278.0,0,0,0,0
+2018-01-01,MG,Dentro da UF,31+ dias,No prazo,7,0,0,7,1,29.0,0,0,0,0
+2018-01-01,MG,Entre UFs,15 a 21 dias,Atrasado,1,1,10,1,1,1.0,0,0,0,0
+2018-01-01,MG,Entre UFs,15 a 21 dias,No prazo,11,0,0,11,0,51.0,0,0,0,0
+2018-01-01,MG,Entre UFs,22 a 30 dias,Atrasado,22,22,205,22,12,53.0,0,0,0,0
+2018-01-01,MG,Entre UFs,22 a 30 dias,No prazo,557,0,0,555,48,2377.0,0,0,0,0
+2018-01-01,MG,Entre UFs,31+ dias,Atrasado,2,2,9,2,1,6.0,0,0,0,0
+2018-01-01,MG,Entre UFs,31+ dias,No prazo,155,0,0,154,22,620.0,0,0,0,0
+2018-01-01,MG,Mista,22 a 30 dias,No prazo,2,0,0,2,1,4.0,0,0,0,0
+2018-01-01,MS,Entre UFs,22 a 30 dias,Atrasado,2,2,6,2,1,4.0,0,0,0,0
+2018-01-01,MS,Entre UFs,22 a 30 dias,No prazo,52,0,0,52,5,227.0,0,0,0,0
+2018-01-01,MS,Entre UFs,31+ dias,Atrasado,1,1,2,1,0,5.0,0,0,0,0
+2018-01-01,MS,Entre UFs,31+ dias,No prazo,15,0,0,15,1,66.0,0,0,0,0
+2018-01-01,MT,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2018-01-01,MT,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2018-01-01,MT,Entre UFs,22 a 30 dias,Atrasado,1,1,7,1,0,5.0,0,0,0,0
+2018-01-01,MT,Entre UFs,22 a 30 dias,No prazo,16,0,0,16,3,63.0,0,0,0,0
+2018-01-01,MT,Entre UFs,31+ dias,Atrasado,2,2,13,2,2,2.0,0,0,0,0
+2018-01-01,MT,Entre UFs,31+ dias,No prazo,62,0,0,61,8,256.0,0,0,0,0
+2018-01-01,PA,Entre UFs,31+ dias,Atrasado,6,6,80,6,4,11.0,0,0,0,0
+2018-01-01,PA,Entre UFs,31+ dias,No prazo,63,0,0,62,10,245.0,0,0,0,0
+2018-01-01,PB,Entre UFs,22 a 30 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2018-01-01,PB,Entre UFs,31+ dias,Atrasado,4,4,16,4,2,12.0,0,0,0,0
+2018-01-01,PB,Entre UFs,31+ dias,No prazo,25,0,0,25,1,115.0,0,0,0,0
+2018-01-01,PE,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,8.0,0,0,0,0
+2018-01-01,PE,Entre UFs,22 a 30 dias,Atrasado,1,1,8,1,1,1.0,0,0,0,0
+2018-01-01,PE,Entre UFs,22 a 30 dias,No prazo,28,0,0,27,3,112.0,0,0,0,0
+2018-01-01,PE,Entre UFs,31+ dias,Atrasado,7,7,55,7,6,9.0,0,0,0,0
+2018-01-01,PE,Entre UFs,31+ dias,No prazo,64,0,0,64,5,284.0,0,0,0,0
+2018-01-01,PI,Entre UFs,22 a 30 dias,Atrasado,5,5,78,5,5,5.0,0,0,0,0
+2018-01-01,PI,Entre UFs,22 a 30 dias,No prazo,21,0,0,21,2,89.0,0,0,0,0
+2018-01-01,PI,Entre UFs,31+ dias,No prazo,21,0,0,21,1,95.0,0,0,0,0
+2018-01-01,PR,Dentro da UF,15 a 21 dias,No prazo,14,0,0,14,1,59.0,0,0,0,0
+2018-01-01,PR,Dentro da UF,22 a 30 dias,No prazo,31,0,0,30,0,137.0,0,0,0,0
+2018-01-01,PR,Dentro da UF,31+ dias,No prazo,5,0,0,5,1,19.0,0,0,0,0
+2018-01-01,PR,Entre UFs,22 a 30 dias,Atrasado,3,3,14,3,3,3.0,0,0,0,0
+2018-01-01,PR,Entre UFs,22 a 30 dias,No prazo,221,0,0,219,29,914.0,0,0,0,0
+2018-01-01,PR,Entre UFs,31+ dias,Atrasado,3,3,25,3,3,3.0,0,0,0,0
+2018-01-01,PR,Entre UFs,31+ dias,No prazo,94,0,0,94,6,412.0,0,0,0,0
+2018-01-01,RJ,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2018-01-01,RJ,Dentro da UF,15 a 21 dias,No prazo,37,0,0,37,2,170.0,0,0,0,0
+2018-01-01,RJ,Dentro da UF,22 a 30 dias,Atrasado,1,1,3,1,1,2.0,0,0,0,0
+2018-01-01,RJ,Dentro da UF,22 a 30 dias,No prazo,11,0,0,11,2,46.0,0,0,0,0
+2018-01-01,RJ,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,3.0,0,0,0,0
+2018-01-01,RJ,Entre UFs,8 a 14 dias,Atrasado,1,1,33,1,1,1.0,0,0,0,0
+2018-01-01,RJ,Entre UFs,15 a 21 dias,Atrasado,2,2,3,2,0,8.0,0,0,0,0
+2018-01-01,RJ,Entre UFs,15 a 21 dias,No prazo,23,0,0,23,4,95.0,0,0,0,0
+2018-01-01,RJ,Entre UFs,22 a 30 dias,Atrasado,80,80,1243,78,62,133.0,0,0,0,0
+2018-01-01,RJ,Entre UFs,22 a 30 dias,No prazo,416,0,0,411,48,1727.0,0,0,0,0
+2018-01-01,RJ,Entre UFs,31+ dias,Atrasado,27,27,409,27,23,41.0,0,0,0,0
+2018-01-01,RJ,Entre UFs,31+ dias,No prazo,248,0,0,245,37,1002.0,0,0,0,0
+2018-01-01,RJ,Mista,31+ dias,No prazo,1,0,0,1,0,3.0,0,0,0,0
+2018-01-01,RN,Dentro da UF,15 a 21 dias,No prazo,9,0,0,9,0,44.0,0,0,0,0
+2018-01-01,RN,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2018-01-01,RN,Entre UFs,22 a 30 dias,Atrasado,1,1,8,1,1,1.0,0,0,0,0
+2018-01-01,RN,Entre UFs,22 a 30 dias,No prazo,3,0,0,3,0,13.0,0,0,0,0
+2018-01-01,RN,Entre UFs,31+ dias,No prazo,28,0,0,28,1,125.0,0,0,0,0
+2018-01-01,RO,Entre UFs,31+ dias,Atrasado,1,1,6,1,1,1.0,0,0,0,0
+2018-01-01,RO,Entre UFs,31+ dias,No prazo,19,0,0,19,1,81.0,0,0,0,0
+2018-01-01,RR,Entre UFs,31+ dias,No prazo,1,0,0,1,0,3.0,0,0,0,0
+2018-01-01,RS,Dentro da UF,15 a 21 dias,No prazo,4,0,0,4,0,17.0,0,0,0,0
+2018-01-01,RS,Dentro da UF,22 a 30 dias,Atrasado,2,2,12,2,1,6.0,0,0,0,0
+2018-01-01,RS,Dentro da UF,22 a 30 dias,No prazo,4,0,0,4,0,19.0,0,0,0,0
+2018-01-01,RS,Entre UFs,22 a 30 dias,Atrasado,10,10,72,10,5,25.0,0,0,0,0
+2018-01-01,RS,Entre UFs,22 a 30 dias,No prazo,82,0,0,82,5,359.0,0,0,0,0
+2018-01-01,RS,Entre UFs,31+ dias,Atrasado,18,18,126,18,10,44.0,0,0,0,0
+2018-01-01,RS,Entre UFs,31+ dias,No prazo,247,0,0,246,26,1021.0,0,0,0,0
+2018-01-01,SC,Dentro da UF,15 a 21 dias,No prazo,6,0,0,6,1,26.0,0,0,0,0
+2018-01-01,SC,Dentro da UF,22 a 30 dias,Atrasado,1,1,10,1,0,5.0,0,0,0,0
+2018-01-01,SC,Dentro da UF,22 a 30 dias,No prazo,7,0,0,7,1,27.0,0,0,0,0
+2018-01-01,SC,Entre UFs,15 a 21 dias,No prazo,4,0,0,4,0,20.0,0,0,0,0
+2018-01-01,SC,Entre UFs,22 a 30 dias,Atrasado,23,23,199,23,17,46.0,0,0,0,0
+2018-01-01,SC,Entre UFs,22 a 30 dias,No prazo,164,0,0,161,15,697.0,0,0,0,0
+2018-01-01,SC,Entre UFs,31+ dias,Atrasado,7,7,70,7,4,18.0,0,0,0,0
+2018-01-01,SC,Entre UFs,31+ dias,No prazo,99,0,0,96,16,376.0,0,0,0,0
+2018-01-01,SE,Entre UFs,22 a 30 dias,No prazo,11,0,0,11,0,52.0,0,0,0,0
+2018-01-01,SE,Entre UFs,31+ dias,Atrasado,1,1,3,1,1,1.0,0,0,0,0
+2018-01-01,SE,Entre UFs,31+ dias,No prazo,7,0,0,7,1,30.0,0,0,0,0
+2018-01-01,SP,Dentro da UF,8 a 14 dias,No prazo,53,0,0,53,4,233.0,0,0,0,0
+2018-01-01,SP,Dentro da UF,15 a 21 dias,Atrasado,44,44,696,44,28,92.0,0,0,0,0
+2018-01-01,SP,Dentro da UF,15 a 21 dias,No prazo,1294,0,0,1286,115,5547.0,0,0,0,0
+2018-01-01,SP,Dentro da UF,22 a 30 dias,Atrasado,22,22,179,22,15,49.0,0,0,0,0
+2018-01-01,SP,Dentro da UF,22 a 30 dias,No prazo,775,0,0,768,71,3271.0,0,0,0,0
+2018-01-01,SP,Dentro da UF,31+ dias,Atrasado,2,2,29,2,2,2.0,0,0,0,0
+2018-01-01,SP,Dentro da UF,31+ dias,No prazo,85,0,0,85,16,329.0,0,0,0,0
+2018-01-01,SP,Entre UFs,15 a 21 dias,Atrasado,3,3,13,3,2,5.0,0,0,0,0
+2018-01-01,SP,Entre UFs,15 a 21 dias,No prazo,19,0,0,18,0,83.0,0,0,0,0
+2018-01-01,SP,Entre UFs,22 a 30 dias,Atrasado,29,29,303,28,20,58.0,0,0,0,0
+2018-01-01,SP,Entre UFs,22 a 30 dias,No prazo,478,0,0,476,47,2044.0,0,0,0,0
+2018-01-01,SP,Entre UFs,31+ dias,Atrasado,2,2,31,2,2,2.0,0,0,0,0
+2018-01-01,SP,Entre UFs,31+ dias,No prazo,152,0,0,152,22,621.0,0,0,0,0
+2018-01-01,SP,Mista,22 a 30 dias,No prazo,14,0,0,14,6,44.0,0,0,0,0
+2018-01-01,SP,Mista,31+ dias,No prazo,3,0,0,3,2,7.0,0,0,0,0
+2018-01-01,TO,Entre UFs,22 a 30 dias,No prazo,5,0,0,5,1,20.0,0,0,0,0
+2018-01-01,TO,Entre UFs,31+ dias,No prazo,11,0,0,11,2,47.0,0,0,0,0
+2018-02-01,AC,Entre UFs,31+ dias,No prazo,3,0,0,3,0,14.0,0,0,0,0
+2018-02-01,AL,Entre UFs,22 a 30 dias,Atrasado,5,5,34,4,3,7.0,0,0,0,0
+2018-02-01,AL,Entre UFs,22 a 30 dias,No prazo,3,0,0,3,0,14.0,0,0,0,0
+2018-02-01,AL,Entre UFs,31+ dias,Atrasado,5,5,51,5,4,8.0,0,0,0,0
+2018-02-01,AL,Entre UFs,31+ dias,No prazo,14,0,0,14,2,55.0,0,0,0,0
+2018-02-01,AM,Entre UFs,31+ dias,Atrasado,1,1,1,1,1,1.0,0,0,0,0
+2018-02-01,AM,Entre UFs,31+ dias,No prazo,7,0,0,7,2,25.0,0,0,0,0
+2018-02-01,AP,Entre UFs,31+ dias,No prazo,2,0,0,2,0,8.0,0,0,0,0
+2018-02-01,BA,Entre UFs,15 a 21 dias,Atrasado,1,1,8,1,1,1.0,0,0,0,0
+2018-02-01,BA,Entre UFs,22 a 30 dias,Atrasado,32,32,333,32,21,66.0,0,0,0,0
+2018-02-01,BA,Entre UFs,22 a 30 dias,No prazo,99,0,0,99,11,404.0,0,0,0,0
+2018-02-01,BA,Entre UFs,31+ dias,Atrasado,7,7,108,7,2,26.0,0,0,0,0
+2018-02-01,BA,Entre UFs,31+ dias,No prazo,69,0,0,69,13,263.0,0,0,0,0
+2018-02-01,CE,Entre UFs,22 a 30 dias,Atrasado,17,17,234,17,14,31.0,0,0,0,0
+2018-02-01,CE,Entre UFs,22 a 30 dias,No prazo,23,0,0,23,4,85.0,0,0,0,0
+2018-02-01,CE,Entre UFs,31+ dias,Atrasado,16,16,207,16,13,27.0,0,0,0,0
+2018-02-01,CE,Entre UFs,31+ dias,No prazo,28,0,0,28,6,105.0,0,0,0,0
+2018-02-01,DF,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,1,1.0,0,0,0,0
+2018-02-01,DF,Dentro da UF,15 a 21 dias,No prazo,4,0,0,4,1,13.0,0,0,0,0
+2018-02-01,DF,Entre UFs,15 a 21 dias,Atrasado,1,1,8,1,1,1.0,0,0,0,0
+2018-02-01,DF,Entre UFs,15 a 21 dias,No prazo,16,0,0,16,1,72.0,0,0,0,0
+2018-02-01,DF,Entre UFs,22 a 30 dias,Atrasado,18,18,154,18,13,34.0,0,0,0,0
+2018-02-01,DF,Entre UFs,22 a 30 dias,No prazo,103,0,0,103,7,437.0,0,0,0,0
+2018-02-01,DF,Entre UFs,31+ dias,Atrasado,1,1,6,1,1,1.0,0,0,0,0
+2018-02-01,DF,Entre UFs,31+ dias,No prazo,26,0,0,26,8,94.0,0,0,0,0
+2018-02-01,ES,Entre UFs,15 a 21 dias,Atrasado,5,5,106,5,5,5.0,0,0,0,0
+2018-02-01,ES,Entre UFs,15 a 21 dias,No prazo,15,0,0,15,0,68.0,0,0,0,0
+2018-02-01,ES,Entre UFs,22 a 30 dias,Atrasado,12,12,260,12,5,34.0,0,0,0,0
+2018-02-01,ES,Entre UFs,22 a 30 dias,No prazo,88,0,0,87,8,370.0,0,0,0,0
+2018-02-01,ES,Entre UFs,31+ dias,Atrasado,1,1,4,1,1,1.0,0,0,0,0
+2018-02-01,ES,Entre UFs,31+ dias,No prazo,28,0,0,27,5,107.0,0,0,0,0
+2018-02-01,GO,Dentro da UF,15 a 21 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2018-02-01,GO,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2018-02-01,GO,Entre UFs,15 a 21 dias,Atrasado,1,1,8,1,1,1.0,0,0,0,0
+2018-02-01,GO,Entre UFs,15 a 21 dias,No prazo,4,0,0,4,0,18.0,0,0,0,0
+2018-02-01,GO,Entre UFs,22 a 30 dias,Atrasado,22,22,196,20,16,37.0,0,0,0,0
+2018-02-01,GO,Entre UFs,22 a 30 dias,No prazo,86,0,0,86,8,344.0,0,0,0,0
+2018-02-01,GO,Entre UFs,31+ dias,No prazo,30,0,0,30,2,133.0,0,0,0,0
+2018-02-01,MA,Entre UFs,22 a 30 dias,Atrasado,13,13,183,13,10,25.0,0,0,0,0
+2018-02-01,MA,Entre UFs,22 a 30 dias,No prazo,22,0,0,22,2,89.0,0,0,0,0
+2018-02-01,MA,Entre UFs,31+ dias,Atrasado,5,5,166,5,4,9.0,0,0,0,0
+2018-02-01,MA,Entre UFs,31+ dias,No prazo,15,0,0,15,2,60.0,0,0,0,0
+2018-02-01,MG,Dentro da UF,8 a 14 dias,No prazo,7,0,0,7,0,34.0,0,0,0,0
+2018-02-01,MG,Dentro da UF,15 a 21 dias,Atrasado,1,1,4,1,0,5.0,0,0,0,0
+2018-02-01,MG,Dentro da UF,15 a 21 dias,No prazo,31,0,0,30,3,130.0,0,0,0,0
+2018-02-01,MG,Dentro da UF,22 a 30 dias,Atrasado,1,1,19,1,0,5.0,0,0,0,0
+2018-02-01,MG,Dentro da UF,22 a 30 dias,No prazo,39,0,0,39,2,180.0,0,0,0,0
+2018-02-01,MG,Dentro da UF,31+ dias,No prazo,5,0,0,5,2,17.0,0,0,0,0
+2018-02-01,MG,Entre UFs,15 a 21 dias,Atrasado,9,9,80,8,5,20.0,0,0,0,0
+2018-02-01,MG,Entre UFs,15 a 21 dias,No prazo,55,0,0,55,8,220.0,0,0,0,0
+2018-02-01,MG,Entre UFs,22 a 30 dias,Atrasado,51,51,485,51,36,99.0,0,0,0,0
+2018-02-01,MG,Entre UFs,22 a 30 dias,No prazo,441,0,0,439,50,1833.0,0,0,0,0
+2018-02-01,MG,Entre UFs,31+ dias,Atrasado,4,4,30,4,1,14.0,0,0,0,0
+2018-02-01,MG,Entre UFs,31+ dias,No prazo,145,0,0,142,15,590.0,0,0,0,0
+2018-02-01,MG,Mista,22 a 30 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2018-02-01,MS,Entre UFs,15 a 21 dias,No prazo,2,0,0,2,1,5.0,0,0,0,0
+2018-02-01,MS,Entre UFs,22 a 30 dias,Atrasado,12,12,144,12,7,26.0,0,0,0,0
+2018-02-01,MS,Entre UFs,22 a 30 dias,No prazo,38,0,0,38,1,167.0,0,0,0,0
+2018-02-01,MS,Entre UFs,31+ dias,Atrasado,1,1,28,1,1,1.0,0,0,0,0
+2018-02-01,MS,Entre UFs,31+ dias,No prazo,11,0,0,11,1,45.0,0,0,0,0
+2018-02-01,MT,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,3.0,0,0,0,0
+2018-02-01,MT,Entre UFs,22 a 30 dias,Atrasado,6,6,61,6,5,8.0,0,0,0,0
+2018-02-01,MT,Entre UFs,22 a 30 dias,No prazo,20,0,0,20,2,90.0,0,0,0,0
+2018-02-01,MT,Entre UFs,31+ dias,Atrasado,2,2,32,2,1,5.0,0,0,0,0
+2018-02-01,MT,Entre UFs,31+ dias,No prazo,38,0,0,38,1,162.0,0,0,0,0
+2018-02-01,PA,Entre UFs,31+ dias,Atrasado,7,7,104,6,4,13.0,0,0,0,0
+2018-02-01,PA,Entre UFs,31+ dias,No prazo,50,0,0,50,4,206.0,0,0,0,0
+2018-02-01,PB,Entre UFs,22 a 30 dias,Atrasado,2,2,6,2,1,6.0,0,0,0,0
+2018-02-01,PB,Entre UFs,22 a 30 dias,No prazo,8,0,0,8,2,30.0,0,0,0,0
+2018-02-01,PB,Entre UFs,31+ dias,Atrasado,1,1,10,1,0,3.0,0,0,0,0
+2018-02-01,PB,Entre UFs,31+ dias,No prazo,24,0,0,24,4,96.0,0,0,0,0
+2018-02-01,PE,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,1,1.0,0,0,0,0
+2018-02-01,PE,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2018-02-01,PE,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2018-02-01,PE,Entre UFs,22 a 30 dias,Atrasado,10,10,114,9,4,23.0,0,0,0,0
+2018-02-01,PE,Entre UFs,22 a 30 dias,No prazo,40,0,0,40,4,164.0,0,0,0,0
+2018-02-01,PE,Entre UFs,31+ dias,Atrasado,4,4,40,4,1,15.0,0,0,0,0
+2018-02-01,PE,Entre UFs,31+ dias,No prazo,64,0,0,61,5,263.0,0,0,0,0
+2018-02-01,PI,Entre UFs,15 a 21 dias,Atrasado,1,1,2,1,1,1.0,0,0,0,0
+2018-02-01,PI,Entre UFs,22 a 30 dias,Atrasado,4,4,33,4,3,8.0,0,0,0,0
+2018-02-01,PI,Entre UFs,22 a 30 dias,No prazo,13,0,0,13,2,52.0,0,0,0,0
+2018-02-01,PI,Entre UFs,31+ dias,Atrasado,2,2,8,2,1,5.0,0,0,0,0
+2018-02-01,PI,Entre UFs,31+ dias,No prazo,12,0,0,12,2,48.0,0,0,0,0
+2018-02-01,PR,Dentro da UF,8 a 14 dias,No prazo,7,0,0,7,2,28.0,0,0,0,0
+2018-02-01,PR,Dentro da UF,15 a 21 dias,No prazo,24,0,0,23,1,104.0,0,0,0,0
+2018-02-01,PR,Dentro da UF,22 a 30 dias,Atrasado,1,1,1,1,0,5.0,0,0,0,0
+2018-02-01,PR,Dentro da UF,22 a 30 dias,No prazo,29,0,0,29,4,120.0,0,0,0,0
+2018-02-01,PR,Dentro da UF,31+ dias,No prazo,7,0,0,7,4,19.0,0,0,0,0
+2018-02-01,PR,Entre UFs,15 a 21 dias,Atrasado,4,4,37,4,3,7.0,0,0,0,0
+2018-02-01,PR,Entre UFs,15 a 21 dias,No prazo,17,0,0,17,1,73.0,0,0,0,0
+2018-02-01,PR,Entre UFs,22 a 30 dias,Atrasado,23,23,218,23,15,55.0,0,0,0,0
+2018-02-01,PR,Entre UFs,22 a 30 dias,No prazo,174,0,0,173,15,748.0,0,0,0,0
+2018-02-01,PR,Entre UFs,31+ dias,Atrasado,2,2,14,2,0,9.0,0,0,0,0
+2018-02-01,PR,Entre UFs,31+ dias,No prazo,47,0,0,47,6,195.0,0,0,0,0
+2018-02-01,RJ,Dentro da UF,8 a 14 dias,No prazo,15,0,0,15,2,63.0,0,0,0,0
+2018-02-01,RJ,Dentro da UF,15 a 21 dias,No prazo,31,0,0,31,3,135.0,0,0,0,0
+2018-02-01,RJ,Dentro da UF,22 a 30 dias,No prazo,10,0,0,10,1,42.0,0,0,0,0
+2018-02-01,RJ,Entre UFs,15 a 21 dias,Atrasado,88,88,1546,87,72,140.0,0,0,0,0
+2018-02-01,RJ,Entre UFs,15 a 21 dias,No prazo,79,0,0,79,13,326.0,0,0,0,0
+2018-02-01,RJ,Entre UFs,22 a 30 dias,Atrasado,191,191,3172,188,148,316.0,0,0,0,0
+2018-02-01,RJ,Entre UFs,22 a 30 dias,No prazo,345,0,0,340,40,1430.0,0,0,0,0
+2018-02-01,RJ,Entre UFs,31+ dias,Atrasado,20,20,369,20,18,27.0,0,0,0,0
+2018-02-01,RJ,Entre UFs,31+ dias,No prazo,100,0,0,99,18,393.0,0,0,0,0
+2018-02-01,RN,Entre UFs,22 a 30 dias,Atrasado,1,1,24,1,1,1.0,0,0,0,0
+2018-02-01,RN,Entre UFs,22 a 30 dias,No prazo,9,0,0,9,0,42.0,0,0,0,0
+2018-02-01,RN,Entre UFs,31+ dias,Atrasado,1,1,10,1,1,1.0,0,0,0,0
+2018-02-01,RN,Entre UFs,31+ dias,No prazo,12,0,0,12,0,57.0,0,0,0,0
+2018-02-01,RO,Entre UFs,31+ dias,No prazo,13,0,0,13,1,58.0,0,0,0,0
+2018-02-01,RR,Entre UFs,31+ dias,Atrasado,1,1,29,1,1,1.0,0,0,0,0
+2018-02-01,RR,Entre UFs,31+ dias,No prazo,2,0,0,2,0,8.0,0,0,0,0
+2018-02-01,RS,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,7.0,0,0,0,0
+2018-02-01,RS,Dentro da UF,15 a 21 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2018-02-01,RS,Dentro da UF,22 a 30 dias,No prazo,3,0,0,3,0,14.0,0,0,0,0
+2018-02-01,RS,Entre UFs,15 a 21 dias,Atrasado,1,1,3,1,0,5.0,0,0,0,0
+2018-02-01,RS,Entre UFs,15 a 21 dias,No prazo,4,0,0,4,1,15.0,0,0,0,0
+2018-02-01,RS,Entre UFs,22 a 30 dias,Atrasado,30,30,255,30,19,66.0,0,0,0,0
+2018-02-01,RS,Entre UFs,22 a 30 dias,No prazo,163,0,0,161,11,703.0,0,0,0,0
+2018-02-01,RS,Entre UFs,31+ dias,Atrasado,17,17,124,17,13,33.0,0,0,0,0
+2018-02-01,RS,Entre UFs,31+ dias,No prazo,141,0,0,141,12,582.0,0,0,0,0
+2018-02-01,SC,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,8.0,0,0,0,0
+2018-02-01,SC,Dentro da UF,15 a 21 dias,No prazo,6,0,0,6,1,24.0,0,0,0,0
+2018-02-01,SC,Dentro da UF,22 a 30 dias,No prazo,7,0,0,7,1,29.0,0,0,0,0
+2018-02-01,SC,Entre UFs,15 a 21 dias,Atrasado,5,5,55,5,3,13.0,0,0,0,0
+2018-02-01,SC,Entre UFs,22 a 30 dias,Atrasado,47,47,412,46,31,91.0,0,0,0,0
+2018-02-01,SC,Entre UFs,22 a 30 dias,No prazo,123,0,0,123,16,498.0,0,0,0,0
+2018-02-01,SC,Entre UFs,31+ dias,Atrasado,9,9,92,8,6,15.0,0,0,0,0
+2018-02-01,SC,Entre UFs,31+ dias,No prazo,55,0,0,55,6,236.0,0,0,0,0
+2018-02-01,SE,Entre UFs,22 a 30 dias,Atrasado,2,2,25,2,1,5.0,0,0,0,0
+2018-02-01,SE,Entre UFs,22 a 30 dias,No prazo,11,0,0,11,0,51.0,0,0,0,0
+2018-02-01,SE,Entre UFs,31+ dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2018-02-01,SP,Dentro da UF,8 a 14 dias,Atrasado,21,21,114,21,15,42.0,0,0,0,0
+2018-02-01,SP,Dentro da UF,8 a 14 dias,No prazo,391,0,0,389,27,1717.0,0,0,0,0
+2018-02-01,SP,Dentro da UF,15 a 21 dias,Atrasado,88,88,957,87,65,157.0,0,0,0,0
+2018-02-01,SP,Dentro da UF,15 a 21 dias,No prazo,862,0,0,856,76,3696.0,0,0,0,0
+2018-02-01,SP,Dentro da UF,22 a 30 dias,Atrasado,39,39,318,38,29,67.0,0,0,0,0
+2018-02-01,SP,Dentro da UF,22 a 30 dias,No prazo,450,0,0,447,48,1877.0,0,0,0,0
+2018-02-01,SP,Dentro da UF,31+ dias,Atrasado,1,1,26,1,1,1.0,0,0,0,0
+2018-02-01,SP,Dentro da UF,31+ dias,No prazo,39,0,0,39,7,159.0,0,0,0,0
+2018-02-01,SP,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2018-02-01,SP,Entre UFs,15 a 21 dias,Atrasado,11,11,125,11,5,28.0,0,0,0,0
+2018-02-01,SP,Entre UFs,15 a 21 dias,No prazo,82,0,0,81,8,348.0,0,0,0,0
+2018-02-01,SP,Entre UFs,22 a 30 dias,Atrasado,31,31,364,31,21,62.0,0,0,0,0
+2018-02-01,SP,Entre UFs,22 a 30 dias,No prazo,475,0,0,475,59,1946.0,0,0,0,0
+2018-02-01,SP,Entre UFs,31+ dias,Atrasado,2,2,19,2,2,2.0,0,0,0,0
+2018-02-01,SP,Entre UFs,31+ dias,No prazo,134,0,0,134,18,538.0,0,0,0,0
+2018-02-01,SP,Mista,15 a 21 dias,No prazo,1,0,0,0,0,0.0,0,0,0,0
+2018-02-01,SP,Mista,22 a 30 dias,No prazo,4,0,0,4,3,7.0,0,0,0,0
+2018-02-01,TO,Entre UFs,22 a 30 dias,Atrasado,6,6,52,6,2,16.0,0,0,0,0
+2018-02-01,TO,Entre UFs,22 a 30 dias,No prazo,7,0,0,7,2,26.0,0,0,0,0
+2018-02-01,TO,Entre UFs,31+ dias,Atrasado,3,3,19,3,2,6.0,0,0,0,0
+2018-02-01,TO,Entre UFs,31+ dias,No prazo,4,0,0,4,0,17.0,0,0,0,0
+2018-03-01,AC,Entre UFs,31+ dias,No prazo,2,0,0,2,0,6.0,0,0,0,0
+2018-03-01,AL,Entre UFs,22 a 30 dias,Atrasado,7,7,55,7,4,16.0,0,0,0,0
+2018-03-01,AL,Entre UFs,22 a 30 dias,No prazo,11,0,0,11,1,46.0,0,0,0,0
+2018-03-01,AL,Entre UFs,31+ dias,Atrasado,2,2,19,2,1,6.0,0,0,0,0
+2018-03-01,AL,Entre UFs,31+ dias,No prazo,7,0,0,7,0,32.0,0,0,0,0
+2018-03-01,AM,Entre UFs,31+ dias,Atrasado,2,2,16,2,1,6.0,0,0,0,0
+2018-03-01,AM,Entre UFs,31+ dias,No prazo,6,0,0,6,0,29.0,0,0,0,0
+2018-03-01,AP,Entre UFs,31+ dias,No prazo,5,0,0,5,2,18.0,0,0,0,0
+2018-03-01,BA,Entre UFs,15 a 21 dias,Atrasado,4,4,36,4,2,10.0,0,0,0,0
+2018-03-01,BA,Entre UFs,15 a 21 dias,No prazo,6,0,0,6,1,23.0,0,0,0,0
+2018-03-01,BA,Entre UFs,22 a 30 dias,Atrasado,66,66,604,65,45,133.0,0,0,0,0
+2018-03-01,BA,Entre UFs,22 a 30 dias,No prazo,122,0,0,122,15,499.0,0,0,0,0
+2018-03-01,BA,Entre UFs,31+ dias,Atrasado,4,4,51,4,2,10.0,0,0,0,0
+2018-03-01,BA,Entre UFs,31+ dias,No prazo,33,0,0,33,5,130.0,0,0,0,0
+2018-03-01,CE,Entre UFs,22 a 30 dias,Atrasado,37,37,446,36,25,72.0,0,0,0,0
+2018-03-01,CE,Entre UFs,22 a 30 dias,No prazo,35,0,0,35,1,151.0,0,0,0,0
+2018-03-01,CE,Entre UFs,31+ dias,Atrasado,10,10,136,10,6,21.0,0,0,0,0
+2018-03-01,CE,Entre UFs,31+ dias,No prazo,11,0,0,11,4,38.0,0,0,0,0
+2018-03-01,DF,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,9.0,0,0,0,0
+2018-03-01,DF,Entre UFs,15 a 21 dias,Atrasado,17,17,147,17,13,33.0,0,0,0,0
+2018-03-01,DF,Entre UFs,15 a 21 dias,No prazo,59,0,0,59,9,235.0,0,0,0,0
+2018-03-01,DF,Entre UFs,22 a 30 dias,Atrasado,10,10,39,10,5,28.0,0,0,0,0
+2018-03-01,DF,Entre UFs,22 a 30 dias,No prazo,50,0,0,49,2,215.0,0,0,0,0
+2018-03-01,DF,Entre UFs,31+ dias,No prazo,9,0,0,8,2,29.0,0,0,0,0
+2018-03-01,ES,Entre UFs,15 a 21 dias,Atrasado,30,30,252,30,21,60.0,0,0,0,0
+2018-03-01,ES,Entre UFs,15 a 21 dias,No prazo,27,0,0,25,1,109.0,0,0,0,0
+2018-03-01,ES,Entre UFs,22 a 30 dias,Atrasado,23,23,296,22,16,41.0,0,0,0,0
+2018-03-01,ES,Entre UFs,22 a 30 dias,No prazo,43,0,0,43,3,182.0,0,0,0,0
+2018-03-01,ES,Entre UFs,31+ dias,Atrasado,2,2,7,2,2,2.0,0,0,0,0
+2018-03-01,ES,Entre UFs,31+ dias,No prazo,8,0,0,8,0,35.0,0,0,0,0
+2018-03-01,GO,Dentro da UF,15 a 21 dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2018-03-01,GO,Entre UFs,15 a 21 dias,Atrasado,6,6,38,6,3,14.0,0,0,0,0
+2018-03-01,GO,Entre UFs,15 a 21 dias,No prazo,21,0,0,21,3,89.0,0,0,0,0
+2018-03-01,GO,Entre UFs,22 a 30 dias,Atrasado,22,22,159,22,11,55.0,0,0,0,0
+2018-03-01,GO,Entre UFs,22 a 30 dias,No prazo,78,0,0,78,9,314.0,0,0,0,0
+2018-03-01,GO,Entre UFs,31+ dias,No prazo,12,0,0,12,0,54.0,0,0,0,0
+2018-03-01,MA,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,9.0,0,0,0,0
+2018-03-01,MA,Dentro da UF,15 a 21 dias,Atrasado,1,1,1,1,0,4.0,0,0,0,0
+2018-03-01,MA,Entre UFs,15 a 21 dias,Atrasado,8,8,85,8,5,16.0,0,0,0,0
+2018-03-01,MA,Entre UFs,15 a 21 dias,No prazo,2,0,0,2,0,9.0,0,0,0,0
+2018-03-01,MA,Entre UFs,22 a 30 dias,Atrasado,13,13,117,12,8,30.0,0,0,0,0
+2018-03-01,MA,Entre UFs,22 a 30 dias,No prazo,13,0,0,13,1,58.0,0,0,0,0
+2018-03-01,MA,Entre UFs,31+ dias,Atrasado,3,3,22,3,3,4.0,0,0,0,0
+2018-03-01,MA,Entre UFs,31+ dias,No prazo,7,0,0,7,1,27.0,0,0,0,0
+2018-03-01,MG,Dentro da UF,8 a 14 dias,Atrasado,1,1,4,1,0,5.0,0,0,0,0
+2018-03-01,MG,Dentro da UF,8 a 14 dias,No prazo,17,0,0,17,1,74.0,0,0,0,0
+2018-03-01,MG,Dentro da UF,15 a 21 dias,Atrasado,4,4,57,4,4,4.0,0,0,0,0
+2018-03-01,MG,Dentro da UF,15 a 21 dias,No prazo,62,0,0,62,3,277.0,0,0,0,0
+2018-03-01,MG,Dentro da UF,22 a 30 dias,No prazo,7,0,0,7,0,29.0,0,0,0,0
+2018-03-01,MG,Dentro da UF,31+ dias,No prazo,3,0,0,3,0,13.0,0,0,0,0
+2018-03-01,MG,Entre UFs,15 a 21 dias,Atrasado,92,92,742,90,57,191.0,0,0,0,0
+2018-03-01,MG,Entre UFs,15 a 21 dias,No prazo,199,0,0,198,24,810.0,0,0,0,0
+2018-03-01,MG,Entre UFs,22 a 30 dias,Atrasado,73,73,554,68,43,153.0,0,0,0,0
+2018-03-01,MG,Entre UFs,22 a 30 dias,No prazo,316,0,0,315,40,1311.0,0,0,0,0
+2018-03-01,MG,Entre UFs,31+ dias,Atrasado,4,4,19,4,3,7.0,0,0,0,0
+2018-03-01,MG,Entre UFs,31+ dias,No prazo,77,0,0,77,24,258.0,0,0,0,0
+2018-03-01,MG,Mista,15 a 21 dias,Atrasado,1,1,3,1,1,1.0,0,0,0,0
+2018-03-01,MS,Entre UFs,15 a 21 dias,Atrasado,5,5,31,5,2,15.0,0,0,0,0
+2018-03-01,MS,Entre UFs,15 a 21 dias,No prazo,8,0,0,8,2,29.0,0,0,0,0
+2018-03-01,MS,Entre UFs,22 a 30 dias,Atrasado,18,18,183,18,13,33.0,0,0,0,0
+2018-03-01,MS,Entre UFs,22 a 30 dias,No prazo,23,0,0,23,1,98.0,0,0,0,0
+2018-03-01,MS,Entre UFs,31+ dias,No prazo,3,0,0,3,0,12.0,0,0,0,0
+2018-03-01,MT,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,3.0,0,0,0,0
+2018-03-01,MT,Entre UFs,22 a 30 dias,Atrasado,11,11,107,10,6,24.0,0,0,0,0
+2018-03-01,MT,Entre UFs,22 a 30 dias,No prazo,27,0,0,27,5,105.0,0,0,0,0
+2018-03-01,MT,Entre UFs,31+ dias,Atrasado,2,2,28,2,1,4.0,0,0,0,0
+2018-03-01,MT,Entre UFs,31+ dias,No prazo,11,0,0,11,0,53.0,0,0,0,0
+2018-03-01,PA,Entre UFs,22 a 30 dias,Atrasado,4,4,55,4,2,9.0,0,0,0,0
+2018-03-01,PA,Entre UFs,22 a 30 dias,No prazo,6,0,0,6,1,21.0,0,0,0,0
+2018-03-01,PA,Entre UFs,31+ dias,Atrasado,30,30,410,29,24,46.0,0,0,0,0
+2018-03-01,PA,Entre UFs,31+ dias,No prazo,27,0,0,26,8,91.0,0,0,0,0
+2018-03-01,PB,Entre UFs,22 a 30 dias,Atrasado,3,3,24,3,3,4.0,0,0,0,0
+2018-03-01,PB,Entre UFs,22 a 30 dias,No prazo,21,0,0,21,2,92.0,0,0,0,0
+2018-03-01,PB,Entre UFs,31+ dias,Atrasado,2,2,25,2,1,5.0,0,0,0,0
+2018-03-01,PB,Entre UFs,31+ dias,No prazo,13,0,0,13,1,58.0,0,0,0,0
+2018-03-01,PE,Entre UFs,15 a 21 dias,Atrasado,1,1,9,0,0,0.0,0,0,0,0
+2018-03-01,PE,Entre UFs,15 a 21 dias,No prazo,3,0,0,3,1,11.0,0,0,0,0
+2018-03-01,PE,Entre UFs,22 a 30 dias,Atrasado,19,19,277,19,14,38.0,0,0,0,0
+2018-03-01,PE,Entre UFs,22 a 30 dias,No prazo,64,0,0,64,5,278.0,0,0,0,0
+2018-03-01,PE,Entre UFs,31+ dias,Atrasado,2,2,14,2,1,5.0,0,0,0,0
+2018-03-01,PE,Entre UFs,31+ dias,No prazo,18,0,0,18,2,76.0,0,0,0,0
+2018-03-01,PI,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2018-03-01,PI,Entre UFs,15 a 21 dias,Atrasado,1,1,2,1,0,4.0,0,0,0,0
+2018-03-01,PI,Entre UFs,15 a 21 dias,No prazo,4,0,0,4,0,19.0,0,0,0,0
+2018-03-01,PI,Entre UFs,22 a 30 dias,Atrasado,9,9,134,8,8,8.0,0,0,0,0
+2018-03-01,PI,Entre UFs,22 a 30 dias,No prazo,14,0,0,14,1,61.0,0,0,0,0
+2018-03-01,PI,Entre UFs,31+ dias,No prazo,5,0,0,5,1,19.0,0,0,0,0
+2018-03-01,PR,Dentro da UF,8 a 14 dias,No prazo,9,0,0,9,0,43.0,0,0,0,0
+2018-03-01,PR,Dentro da UF,15 a 21 dias,Atrasado,2,2,10,2,2,2.0,0,0,0,0
+2018-03-01,PR,Dentro da UF,15 a 21 dias,No prazo,34,0,0,34,1,155.0,0,0,0,0
+2018-03-01,PR,Dentro da UF,22 a 30 dias,No prazo,8,0,0,8,1,33.0,0,0,0,0
+2018-03-01,PR,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,4.0,0,0,0,0
+2018-03-01,PR,Entre UFs,15 a 21 dias,Atrasado,13,13,131,13,10,24.0,0,0,0,0
+2018-03-01,PR,Entre UFs,15 a 21 dias,No prazo,83,0,0,83,12,338.0,0,0,0,0
+2018-03-01,PR,Entre UFs,22 a 30 dias,Atrasado,33,33,304,33,18,88.0,0,0,0,0
+2018-03-01,PR,Entre UFs,22 a 30 dias,No prazo,163,0,0,162,21,662.0,0,0,0,0
+2018-03-01,PR,Entre UFs,31+ dias,Atrasado,1,1,15,1,0,5.0,0,0,0,0
+2018-03-01,PR,Entre UFs,31+ dias,No prazo,21,0,0,21,2,84.0,0,0,0,0
+2018-03-01,PR,Mista,31+ dias,No prazo,1,0,0,1,0,3.0,0,0,0,0
+2018-03-01,RJ,Dentro da UF,8 a 14 dias,No prazo,13,0,0,13,1,60.0,0,0,0,0
+2018-03-01,RJ,Dentro da UF,15 a 21 dias,Atrasado,3,3,9,3,0,15.0,0,0,0,0
+2018-03-01,RJ,Dentro da UF,15 a 21 dias,No prazo,15,0,0,14,0,62.0,0,0,0,0
+2018-03-01,RJ,Dentro da UF,22 a 30 dias,Atrasado,1,1,28,1,1,1.0,0,0,0,0
+2018-03-01,RJ,Dentro da UF,22 a 30 dias,No prazo,30,0,0,30,4,127.0,0,0,0,0
+2018-03-01,RJ,Dentro da UF,31+ dias,No prazo,6,0,0,6,0,30.0,0,0,0,0
+2018-03-01,RJ,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,3.0,0,0,0,0
+2018-03-01,RJ,Entre UFs,15 a 21 dias,Atrasado,105,105,1723,98,81,154.0,0,0,0,0
+2018-03-01,RJ,Entre UFs,15 a 21 dias,No prazo,59,0,0,59,4,261.0,0,0,0,0
+2018-03-01,RJ,Entre UFs,22 a 30 dias,Atrasado,112,112,1697,108,87,182.0,0,0,0,0
+2018-03-01,RJ,Entre UFs,22 a 30 dias,No prazo,123,0,0,123,22,481.0,0,0,0,0
+2018-03-01,RJ,Entre UFs,31+ dias,Atrasado,77,77,846,75,59,125.0,0,0,0,0
+2018-03-01,RJ,Entre UFs,31+ dias,No prazo,317,0,0,315,45,1257.0,0,0,0,0
+2018-03-01,RJ,Mista,15 a 21 dias,No prazo,2,0,0,2,1,4.0,0,0,0,0
+2018-03-01,RN,Entre UFs,22 a 30 dias,Atrasado,6,6,88,6,5,10.0,0,0,0,0
+2018-03-01,RN,Entre UFs,22 a 30 dias,No prazo,17,0,0,17,0,80.0,0,0,0,0
+2018-03-01,RN,Entre UFs,31+ dias,Atrasado,1,1,1,1,0,4.0,0,0,0,0
+2018-03-01,RN,Entre UFs,31+ dias,No prazo,14,0,0,14,2,57.0,0,0,0,0
+2018-03-01,RO,Entre UFs,31+ dias,Atrasado,3,3,21,3,2,8.0,0,0,0,0
+2018-03-01,RO,Entre UFs,31+ dias,No prazo,10,0,0,10,2,36.0,0,0,0,0
+2018-03-01,RR,Entre UFs,31+ dias,No prazo,5,0,0,5,1,19.0,0,0,0,0
+2018-03-01,RS,Dentro da UF,8 a 14 dias,No prazo,6,0,0,5,0,25.0,0,0,0,0
+2018-03-01,RS,Dentro da UF,15 a 21 dias,No prazo,5,0,0,5,0,24.0,0,0,0,0
+2018-03-01,RS,Dentro da UF,22 a 30 dias,No prazo,4,0,0,4,0,19.0,0,0,0,0
+2018-03-01,RS,Entre UFs,15 a 21 dias,Atrasado,5,5,52,5,5,5.0,0,0,0,0
+2018-03-01,RS,Entre UFs,15 a 21 dias,No prazo,8,0,0,8,0,38.0,0,0,0,0
+2018-03-01,RS,Entre UFs,22 a 30 dias,Atrasado,65,65,595,65,48,120.0,0,0,0,0
+2018-03-01,RS,Entre UFs,22 a 30 dias,No prazo,238,0,0,238,24,1009.0,0,0,0,0
+2018-03-01,RS,Entre UFs,31+ dias,Atrasado,8,8,56,8,4,24.0,0,0,0,0
+2018-03-01,RS,Entre UFs,31+ dias,No prazo,68,0,0,68,8,275.0,0,0,0,0
+2018-03-01,SC,Dentro da UF,8 a 14 dias,Atrasado,1,1,3,1,1,2.0,0,0,0,0
+2018-03-01,SC,Dentro da UF,8 a 14 dias,No prazo,3,0,0,3,0,15.0,0,0,0,0
+2018-03-01,SC,Dentro da UF,15 a 21 dias,No prazo,10,0,0,9,0,43.0,0,0,0,0
+2018-03-01,SC,Dentro da UF,31+ dias,No prazo,2,0,0,2,0,10.0,0,0,0,0
+2018-03-01,SC,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2018-03-01,SC,Entre UFs,15 a 21 dias,Atrasado,15,15,103,15,9,39.0,0,0,0,0
+2018-03-01,SC,Entre UFs,15 a 21 dias,No prazo,30,0,0,29,2,124.0,0,0,0,0
+2018-03-01,SC,Entre UFs,22 a 30 dias,Atrasado,31,31,165,31,15,79.0,0,0,0,0
+2018-03-01,SC,Entre UFs,22 a 30 dias,No prazo,132,0,0,131,16,535.0,0,0,0,0
+2018-03-01,SC,Entre UFs,31+ dias,Atrasado,1,1,6,1,0,3.0,0,0,0,0
+2018-03-01,SC,Entre UFs,31+ dias,No prazo,21,0,0,21,2,84.0,0,0,0,0
+2018-03-01,SE,Entre UFs,15 a 21 dias,Atrasado,2,2,16,2,2,2.0,0,0,0,0
+2018-03-01,SE,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2018-03-01,SE,Entre UFs,22 a 30 dias,Atrasado,9,9,82,9,7,13.0,0,0,0,0
+2018-03-01,SE,Entre UFs,22 a 30 dias,No prazo,4,0,0,4,0,18.0,0,0,0,0
+2018-03-01,SE,Entre UFs,31+ dias,No prazo,1,0,0,1,0,5.0,0,0,0,0
+2018-03-01,SP,Dentro da UF,8 a 14 dias,Atrasado,48,48,211,48,19,146.0,0,0,0,0
+2018-03-01,SP,Dentro da UF,8 a 14 dias,No prazo,1053,0,0,1052,95,4563.0,0,0,0,0
+2018-03-01,SP,Dentro da UF,15 a 21 dias,Atrasado,149,149,1074,147,89,337.0,0,0,0,0
+2018-03-01,SP,Dentro da UF,15 a 21 dias,No prazo,840,0,0,834,71,3592.0,0,0,0,0
+2018-03-01,SP,Dentro da UF,22 a 30 dias,Atrasado,5,5,58,5,4,9.0,0,0,0,0
+2018-03-01,SP,Dentro da UF,22 a 30 dias,No prazo,159,0,0,159,24,637.0,0,0,0,0
+2018-03-01,SP,Dentro da UF,31+ dias,Atrasado,2,2,17,2,0,8.0,0,0,0,0
+2018-03-01,SP,Dentro da UF,31+ dias,No prazo,61,0,0,61,9,240.0,0,0,0,0
+2018-03-01,SP,Entre UFs,8 a 14 dias,No prazo,2,0,0,2,0,8.0,0,0,0,0
+2018-03-01,SP,Entre UFs,15 a 21 dias,Atrasado,49,49,450,47,35,84.0,0,0,0,0
+2018-03-01,SP,Entre UFs,15 a 21 dias,No prazo,146,0,0,145,13,629.0,0,0,0,0
+2018-03-01,SP,Entre UFs,22 a 30 dias,Atrasado,25,25,292,25,14,60.0,0,0,0,0
+2018-03-01,SP,Entre UFs,22 a 30 dias,No prazo,366,0,0,366,13,1641.0,0,0,0,0
+2018-03-01,SP,Entre UFs,31+ dias,Atrasado,2,2,7,2,2,2.0,0,0,0,0
+2018-03-01,SP,Entre UFs,31+ dias,No prazo,55,0,0,55,6,223.0,0,0,0,0
+2018-03-01,SP,Mista,15 a 21 dias,No prazo,5,0,0,5,4,12.0,0,0,0,0
+2018-03-01,SP,Mista,22 a 30 dias,No prazo,4,0,0,4,1,16.0,0,0,0,0
+2018-03-01,TO,Entre UFs,22 a 30 dias,Atrasado,5,5,38,5,3,13.0,0,0,0,0
+2018-03-01,TO,Entre UFs,22 a 30 dias,No prazo,12,0,0,12,3,47.0,0,0,0,0
+2018-03-01,TO,Entre UFs,31+ dias,No prazo,3,0,0,3,1,9.0,0,0,0,0
+2018-04-01,AC,Entre UFs,31+ dias,Atrasado,1,1,31,1,1,1.0,1,1,0,0
+2018-04-01,AC,Entre UFs,31+ dias,No prazo,3,0,0,3,1,12.0,3,0,0,0
+2018-04-01,AL,Entre UFs,22 a 30 dias,Atrasado,3,3,42,3,1,11.0,3,3,3,3
+2018-04-01,AL,Entre UFs,22 a 30 dias,No prazo,10,0,0,10,1,39.0,10,0,10,0
+2018-04-01,AL,Entre UFs,31+ dias,Atrasado,4,4,27,4,3,6.0,4,4,2,2
+2018-04-01,AL,Entre UFs,31+ dias,No prazo,10,0,0,10,2,40.0,10,0,8,0
+2018-04-01,AM,Entre UFs,31+ dias,No prazo,6,0,0,6,0,28.0,6,0,0,0
+2018-04-01,AP,Entre UFs,31+ dias,No prazo,5,0,0,4,0,17.0,5,0,0,0
+2018-04-01,BA,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-04-01,BA,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-04-01,BA,Entre UFs,15 a 21 dias,Atrasado,4,4,24,4,2,8.0,4,4,4,4
+2018-04-01,BA,Entre UFs,15 a 21 dias,No prazo,9,0,0,9,1,37.0,9,0,9,0
+2018-04-01,BA,Entre UFs,22 a 30 dias,Atrasado,32,32,384,31,20,63.0,32,32,29,29
+2018-04-01,BA,Entre UFs,22 a 30 dias,No prazo,113,0,0,111,9,484.0,113,0,110,0
+2018-04-01,BA,Entre UFs,31+ dias,Atrasado,4,4,37,4,4,4.0,4,4,3,3
+2018-04-01,BA,Entre UFs,31+ dias,No prazo,52,0,0,52,4,213.0,52,0,10,0
+2018-04-01,CE,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-04-01,CE,Entre UFs,22 a 30 dias,Atrasado,20,20,328,20,11,44.0,20,20,18,18
+2018-04-01,CE,Entre UFs,22 a 30 dias,No prazo,37,0,0,37,4,156.0,37,0,36,0
+2018-04-01,CE,Entre UFs,31+ dias,Atrasado,3,3,35,3,2,7.0,3,3,1,1
+2018-04-01,CE,Entre UFs,31+ dias,No prazo,35,0,0,35,2,152.0,35,0,5,0
+2018-04-01,DF,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,9.0,2,0,0,0
+2018-04-01,DF,Dentro da UF,15 a 21 dias,No prazo,4,0,0,4,1,16.0,4,0,0,0
+2018-04-01,DF,Entre UFs,15 a 21 dias,Atrasado,2,2,9,2,2,2.0,2,2,2,2
+2018-04-01,DF,Entre UFs,15 a 21 dias,No prazo,32,0,0,32,3,137.0,32,0,19,0
+2018-04-01,DF,Entre UFs,22 a 30 dias,Atrasado,1,1,4,1,0,4.0,1,1,0,0
+2018-04-01,DF,Entre UFs,22 a 30 dias,No prazo,93,0,0,92,9,394.0,93,0,0,0
+2018-04-01,DF,Entre UFs,31+ dias,No prazo,12,0,0,11,1,48.0,12,0,0,0
+2018-04-01,ES,Entre UFs,15 a 21 dias,Atrasado,10,10,88,10,6,24.0,10,10,9,9
+2018-04-01,ES,Entre UFs,15 a 21 dias,No prazo,23,0,0,23,2,98.0,23,0,23,0
+2018-04-01,ES,Entre UFs,22 a 30 dias,Atrasado,11,11,80,10,5,28.0,11,11,4,4
+2018-04-01,ES,Entre UFs,22 a 30 dias,No prazo,82,0,0,81,8,335.0,82,0,52,0
+2018-04-01,ES,Entre UFs,31+ dias,Atrasado,1,1,16,1,0,3.0,1,1,0,0
+2018-04-01,ES,Entre UFs,31+ dias,No prazo,13,0,0,13,2,54.0,13,0,0,0
+2018-04-01,GO,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,10.0,2,0,0,0
+2018-04-01,GO,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-04-01,GO,Entre UFs,15 a 21 dias,Atrasado,1,1,4,1,1,1.0,1,1,1,1
+2018-04-01,GO,Entre UFs,15 a 21 dias,No prazo,14,0,0,14,0,64.0,14,0,10,0
+2018-04-01,GO,Entre UFs,22 a 30 dias,Atrasado,5,5,64,4,4,5.0,5,5,0,0
+2018-04-01,GO,Entre UFs,22 a 30 dias,No prazo,90,0,0,90,8,384.0,90,0,3,0
+2018-04-01,GO,Entre UFs,31+ dias,No prazo,19,0,0,19,1,86.0,19,0,0,0
+2018-04-01,MA,Entre UFs,15 a 21 dias,Atrasado,3,3,17,3,0,12.0,3,3,3,3
+2018-04-01,MA,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,4.0,1,0,1,0
+2018-04-01,MA,Entre UFs,22 a 30 dias,Atrasado,2,2,8,2,1,4.0,2,2,2,2
+2018-04-01,MA,Entre UFs,22 a 30 dias,No prazo,26,0,0,26,2,107.0,26,0,25,0
+2018-04-01,MA,Entre UFs,31+ dias,Atrasado,1,1,6,1,0,4.0,1,1,1,1
+2018-04-01,MA,Entre UFs,31+ dias,No prazo,13,0,0,13,1,56.0,13,0,12,0
+2018-04-01,MG,Dentro da UF,8 a 14 dias,Atrasado,1,1,5,1,1,1.0,1,1,0,0
+2018-04-01,MG,Dentro da UF,8 a 14 dias,No prazo,18,0,0,18,1,83.0,18,0,0,0
+2018-04-01,MG,Dentro da UF,15 a 21 dias,Atrasado,1,1,2,1,1,2.0,1,1,0,0
+2018-04-01,MG,Dentro da UF,15 a 21 dias,No prazo,73,0,0,73,3,333.0,73,0,0,0
+2018-04-01,MG,Dentro da UF,22 a 30 dias,No prazo,20,0,0,20,3,85.0,20,0,0,0
+2018-04-01,MG,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-04-01,MG,Entre UFs,15 a 21 dias,Atrasado,11,11,61,11,7,27.0,11,11,1,1
+2018-04-01,MG,Entre UFs,15 a 21 dias,No prazo,95,0,0,95,10,401.0,95,0,1,0
+2018-04-01,MG,Entre UFs,22 a 30 dias,Atrasado,5,5,35,5,2,14.0,5,5,0,0
+2018-04-01,MG,Entre UFs,22 a 30 dias,No prazo,487,0,0,485,43,2076.0,487,0,0,0
+2018-04-01,MG,Entre UFs,31+ dias,Atrasado,1,1,23,1,1,1.0,1,1,0,0
+2018-04-01,MG,Entre UFs,31+ dias,No prazo,64,0,0,63,14,247.0,64,0,0,0
+2018-04-01,MG,Mista,22 a 30 dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-04-01,MS,Entre UFs,15 a 21 dias,Atrasado,2,2,20,2,2,2.0,2,2,0,0
+2018-04-01,MS,Entre UFs,15 a 21 dias,No prazo,7,0,0,7,0,33.0,7,0,6,0
+2018-04-01,MS,Entre UFs,22 a 30 dias,Atrasado,1,1,2,1,1,1.0,1,1,0,0
+2018-04-01,MS,Entre UFs,22 a 30 dias,No prazo,26,0,0,26,2,111.0,26,0,0,0
+2018-04-01,MS,Entre UFs,31+ dias,No prazo,7,0,0,7,2,25.0,7,0,0,0
+2018-04-01,MT,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,4.0,1,0,1,0
+2018-04-01,MT,Entre UFs,22 a 30 dias,Atrasado,1,1,2,1,0,3.0,1,1,1,1
+2018-04-01,MT,Entre UFs,22 a 30 dias,No prazo,26,0,0,26,2,116.0,26,0,21,0
+2018-04-01,MT,Entre UFs,31+ dias,No prazo,36,0,0,36,1,164.0,36,0,1,0
+2018-04-01,PA,Entre UFs,22 a 30 dias,Atrasado,4,4,51,2,2,2.0,4,4,4,4
+2018-04-01,PA,Entre UFs,22 a 30 dias,No prazo,2,0,0,2,1,5.0,2,0,2,0
+2018-04-01,PA,Entre UFs,31+ dias,Atrasado,16,16,155,16,10,34.0,16,16,2,2
+2018-04-01,PA,Entre UFs,31+ dias,No prazo,44,0,0,40,3,162.0,44,0,1,0
+2018-04-01,PB,Entre UFs,22 a 30 dias,Atrasado,1,1,11,1,1,1.0,1,1,1,1
+2018-04-01,PB,Entre UFs,22 a 30 dias,No prazo,12,0,0,12,0,54.0,12,0,11,0
+2018-04-01,PB,Entre UFs,31+ dias,Atrasado,5,5,67,5,5,6.0,5,5,5,5
+2018-04-01,PB,Entre UFs,31+ dias,No prazo,10,0,0,10,1,40.0,10,0,10,0
+2018-04-01,PE,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,4.0,1,0,1,0
+2018-04-01,PE,Entre UFs,15 a 21 dias,Atrasado,1,1,37,1,1,1.0,1,1,1,1
+2018-04-01,PE,Entre UFs,15 a 21 dias,No prazo,6,0,0,6,0,29.0,6,0,6,0
+2018-04-01,PE,Entre UFs,22 a 30 dias,Atrasado,8,8,50,8,6,15.0,8,8,8,8
+2018-04-01,PE,Entre UFs,22 a 30 dias,No prazo,46,0,0,46,5,193.0,46,0,45,0
+2018-04-01,PE,Entre UFs,31+ dias,Atrasado,6,6,73,6,5,10.0,6,6,3,3
+2018-04-01,PE,Entre UFs,31+ dias,No prazo,42,0,0,41,8,156.0,42,0,11,0
+2018-04-01,PI,Entre UFs,15 a 21 dias,Atrasado,1,1,11,1,1,1.0,1,1,1,1
+2018-04-01,PI,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-04-01,PI,Entre UFs,22 a 30 dias,Atrasado,3,3,13,3,1,11.0,3,3,3,3
+2018-04-01,PI,Entre UFs,22 a 30 dias,No prazo,21,0,0,21,1,94.0,21,0,20,0
+2018-04-01,PI,Entre UFs,31+ dias,No prazo,8,0,0,8,2,31.0,8,0,8,0
+2018-04-01,PR,Dentro da UF,8 a 14 dias,Atrasado,1,1,1,1,0,5.0,1,1,0,0
+2018-04-01,PR,Dentro da UF,8 a 14 dias,No prazo,14,0,0,13,1,59.0,14,0,0,0
+2018-04-01,PR,Dentro da UF,15 a 21 dias,No prazo,37,0,0,37,2,170.0,37,0,1,0
+2018-04-01,PR,Dentro da UF,22 a 30 dias,No prazo,7,0,0,7,0,34.0,7,0,0,0
+2018-04-01,PR,Entre UFs,15 a 21 dias,Atrasado,2,2,28,2,1,6.0,2,2,1,1
+2018-04-01,PR,Entre UFs,15 a 21 dias,No prazo,41,0,0,41,6,168.0,41,0,2,0
+2018-04-01,PR,Entre UFs,22 a 30 dias,Atrasado,2,2,20,2,1,6.0,2,2,0,0
+2018-04-01,PR,Entre UFs,22 a 30 dias,No prazo,222,0,0,222,15,979.0,222,0,0,0
+2018-04-01,PR,Entre UFs,31+ dias,No prazo,54,0,0,54,9,208.0,54,0,0,0
+2018-04-01,PR,Mista,22 a 30 dias,No prazo,1,0,0,1,1,2.0,1,0,0,0
+2018-04-01,RJ,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,9.0,2,0,1,0
+2018-04-01,RJ,Dentro da UF,15 a 21 dias,No prazo,17,0,0,17,0,83.0,17,0,15,0
+2018-04-01,RJ,Dentro da UF,22 a 30 dias,Atrasado,1,1,24,1,1,1.0,1,1,0,0
+2018-04-01,RJ,Dentro da UF,22 a 30 dias,No prazo,18,0,0,18,0,84.0,18,0,0,0
+2018-04-01,RJ,Dentro da UF,31+ dias,No prazo,20,0,0,20,2,87.0,20,0,0,0
+2018-04-01,RJ,Entre UFs,15 a 21 dias,Atrasado,11,11,76,11,7,26.0,11,11,10,10
+2018-04-01,RJ,Entre UFs,15 a 21 dias,No prazo,50,0,0,49,4,215.0,50,0,44,0
+2018-04-01,RJ,Entre UFs,22 a 30 dias,Atrasado,14,14,108,13,5,42.0,14,14,8,8
+2018-04-01,RJ,Entre UFs,22 a 30 dias,No prazo,257,0,0,254,26,1073.0,257,0,86,0
+2018-04-01,RJ,Entre UFs,31+ dias,Atrasado,13,13,232,13,13,16.0,13,13,0,0
+2018-04-01,RJ,Entre UFs,31+ dias,No prazo,402,0,0,399,59,1642.0,402,0,2,0
+2018-04-01,RJ,Mista,22 a 30 dias,No prazo,2,0,0,2,1,6.0,2,0,0,0
+2018-04-01,RN,Entre UFs,22 a 30 dias,Atrasado,5,5,89,4,3,7.0,5,5,5,5
+2018-04-01,RN,Entre UFs,22 a 30 dias,No prazo,10,0,0,10,2,41.0,10,0,9,0
+2018-04-01,RN,Entre UFs,31+ dias,Atrasado,5,5,55,5,3,10.0,5,5,3,3
+2018-04-01,RN,Entre UFs,31+ dias,No prazo,12,0,0,12,2,47.0,12,0,7,0
+2018-04-01,RO,Entre UFs,31+ dias,No prazo,11,0,0,11,1,48.0,11,0,0,0
+2018-04-01,RR,Entre UFs,31+ dias,Atrasado,1,1,10,1,1,1.0,1,1,0,0
+2018-04-01,RR,Entre UFs,31+ dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-04-01,RS,Dentro da UF,8 a 14 dias,No prazo,6,0,0,6,0,28.0,6,0,2,0
+2018-04-01,RS,Dentro da UF,15 a 21 dias,No prazo,12,0,0,12,0,55.0,12,0,0,0
+2018-04-01,RS,Dentro da UF,22 a 30 dias,No prazo,2,0,0,2,0,10.0,2,0,0,0
+2018-04-01,RS,Entre UFs,15 a 21 dias,Atrasado,1,1,11,1,1,1.0,1,1,1,1
+2018-04-01,RS,Entre UFs,15 a 21 dias,No prazo,4,0,0,4,1,15.0,4,0,3,0
+2018-04-01,RS,Entre UFs,22 a 30 dias,Atrasado,10,10,68,10,4,26.0,10,10,0,0
+2018-04-01,RS,Entre UFs,22 a 30 dias,No prazo,145,0,0,145,17,626.0,145,0,1,0
+2018-04-01,RS,Entre UFs,31+ dias,Atrasado,1,1,2,1,1,1.0,1,1,0,0
+2018-04-01,RS,Entre UFs,31+ dias,No prazo,163,0,0,162,12,704.0,163,0,0,0
+2018-04-01,RS,Mista,22 a 30 dias,No prazo,1,0,0,1,1,2.0,1,0,0,0
+2018-04-01,SC,Dentro da UF,8 a 14 dias,No prazo,3,0,0,3,0,12.0,3,0,2,0
+2018-04-01,SC,Dentro da UF,15 a 21 dias,No prazo,15,0,0,15,2,66.0,15,0,15,0
+2018-04-01,SC,Dentro da UF,22 a 30 dias,No prazo,3,0,0,3,0,14.0,3,0,0,0
+2018-04-01,SC,Entre UFs,15 a 21 dias,No prazo,17,0,0,17,1,79.0,17,0,17,0
+2018-04-01,SC,Entre UFs,22 a 30 dias,Atrasado,5,5,47,4,3,7.0,5,5,4,4
+2018-04-01,SC,Entre UFs,22 a 30 dias,No prazo,159,0,0,158,12,696.0,159,0,103,0
+2018-04-01,SC,Entre UFs,31+ dias,No prazo,43,0,0,43,2,195.0,43,0,0,0
+2018-04-01,SE,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-04-01,SE,Entre UFs,22 a 30 dias,Atrasado,3,3,28,3,3,3.0,3,3,3,3
+2018-04-01,SE,Entre UFs,22 a 30 dias,No prazo,3,0,0,3,0,13.0,3,0,3,0
+2018-04-01,SE,Entre UFs,31+ dias,Atrasado,3,3,31,3,2,5.0,3,3,2,2
+2018-04-01,SE,Entre UFs,31+ dias,No prazo,3,0,0,3,1,11.0,3,0,3,0
+2018-04-01,SP,Dentro da UF,8 a 14 dias,Atrasado,14,14,171,14,6,40.0,14,14,0,0
+2018-04-01,SP,Dentro da UF,8 a 14 dias,No prazo,531,0,0,530,36,2334.0,531,0,11,0
+2018-04-01,SP,Dentro da UF,15 a 21 dias,Atrasado,17,17,122,16,8,41.0,17,17,1,1
+2018-04-01,SP,Dentro da UF,15 a 21 dias,No prazo,1151,0,0,1144,99,4979.0,1151,0,6,0
+2018-04-01,SP,Dentro da UF,22 a 30 dias,Atrasado,5,5,16,5,3,16.0,5,5,0,0
+2018-04-01,SP,Dentro da UF,22 a 30 dias,No prazo,622,0,0,618,63,2642.0,622,0,0,0
+2018-04-01,SP,Dentro da UF,31+ dias,No prazo,16,0,0,16,2,67.0,16,0,0,0
+2018-04-01,SP,Entre UFs,8 a 14 dias,Atrasado,1,1,58,1,0,5.0,1,1,1,1
+2018-04-01,SP,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-04-01,SP,Entre UFs,15 a 21 dias,Atrasado,5,5,39,5,4,10.0,5,5,1,1
+2018-04-01,SP,Entre UFs,15 a 21 dias,No prazo,100,0,0,100,9,437.0,100,0,26,0
+2018-04-01,SP,Entre UFs,22 a 30 dias,Atrasado,7,7,93,7,4,18.0,7,7,0,0
+2018-04-01,SP,Entre UFs,22 a 30 dias,No prazo,442,0,0,441,43,1886.0,442,0,1,0
+2018-04-01,SP,Entre UFs,31+ dias,Atrasado,2,2,27,2,2,2.0,2,2,0,0
+2018-04-01,SP,Entre UFs,31+ dias,No prazo,70,0,0,70,7,297.0,70,0,0,0
+2018-04-01,SP,Mista,15 a 21 dias,No prazo,1,0,0,1,0,3.0,1,0,0,0
+2018-04-01,SP,Mista,22 a 30 dias,No prazo,15,0,0,15,6,49.0,15,0,0,0
+2018-04-01,SP,Mista,31+ dias,No prazo,2,0,0,2,0,8.0,2,0,0,0
+2018-04-01,TO,Entre UFs,15 a 21 dias,Atrasado,1,1,3,1,0,5.0,1,1,1,1
+2018-04-01,TO,Entre UFs,22 a 30 dias,No prazo,13,0,0,13,1,55.0,13,0,8,0
+2018-04-01,TO,Entre UFs,31+ dias,No prazo,5,0,0,5,0,21.0,5,0,0,0
+2018-05-01,AC,Entre UFs,31+ dias,No prazo,2,0,0,2,0,8.0,2,0,1,0
+2018-05-01,AL,Entre UFs,22 a 30 dias,Atrasado,2,2,14,2,0,8.0,2,2,2,2
+2018-05-01,AL,Entre UFs,22 a 30 dias,No prazo,7,0,0,7,0,34.0,7,0,7,0
+2018-05-01,AL,Entre UFs,31+ dias,No prazo,10,0,0,10,1,45.0,10,0,10,0
+2018-05-01,AM,Entre UFs,31+ dias,No prazo,9,0,0,9,0,44.0,9,0,0,0
+2018-05-01,AP,Entre UFs,31+ dias,No prazo,6,0,0,6,0,29.0,6,0,1,0
+2018-05-01,BA,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-05-01,BA,Dentro da UF,15 a 21 dias,No prazo,2,0,0,2,0,9.0,2,0,2,0
+2018-05-01,BA,Entre UFs,15 a 21 dias,Atrasado,6,6,36,5,4,10.0,6,6,6,6
+2018-05-01,BA,Entre UFs,15 a 21 dias,No prazo,20,0,0,20,1,85.0,20,0,20,0
+2018-05-01,BA,Entre UFs,22 a 30 dias,Atrasado,34,34,274,34,15,98.0,34,34,32,32
+2018-05-01,BA,Entre UFs,22 a 30 dias,No prazo,96,0,0,96,10,395.0,96,0,85,0
+2018-05-01,BA,Entre UFs,31+ dias,Atrasado,7,7,34,7,4,16.0,7,7,3,3
+2018-05-01,BA,Entre UFs,31+ dias,No prazo,71,0,0,70,9,282.0,71,0,38,0
+2018-05-01,CE,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-05-01,CE,Entre UFs,15 a 21 dias,No prazo,2,0,0,2,1,6.0,2,0,1,0
+2018-05-01,CE,Entre UFs,22 a 30 dias,Atrasado,4,4,14,4,0,18.0,4,4,3,3
+2018-05-01,CE,Entre UFs,22 a 30 dias,No prazo,36,0,0,36,2,164.0,36,0,32,0
+2018-05-01,CE,Entre UFs,31+ dias,Atrasado,4,4,52,4,2,10.0,4,4,0,0
+2018-05-01,CE,Entre UFs,31+ dias,No prazo,25,0,0,25,1,105.0,25,0,5,0
+2018-05-01,DF,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,10.0,2,0,0,0
+2018-05-01,DF,Entre UFs,15 a 21 dias,Atrasado,9,9,41,9,4,23.0,9,9,7,7
+2018-05-01,DF,Entre UFs,15 a 21 dias,No prazo,56,0,0,55,4,251.0,56,0,19,0
+2018-05-01,DF,Entre UFs,22 a 30 dias,Atrasado,4,4,17,4,3,8.0,4,4,0,0
+2018-05-01,DF,Entre UFs,22 a 30 dias,No prazo,49,0,0,49,6,208.0,49,0,0,0
+2018-05-01,DF,Entre UFs,31+ dias,No prazo,20,0,0,20,0,91.0,20,0,0,0
+2018-05-01,ES,Entre UFs,8 a 14 dias,Atrasado,1,1,7,1,0,5.0,1,1,1,1
+2018-05-01,ES,Entre UFs,15 a 21 dias,Atrasado,12,12,63,12,6,32.0,12,12,12,12
+2018-05-01,ES,Entre UFs,15 a 21 dias,No prazo,37,0,0,37,4,156.0,37,0,35,0
+2018-05-01,ES,Entre UFs,22 a 30 dias,Atrasado,7,7,43,6,2,16.0,7,7,2,2
+2018-05-01,ES,Entre UFs,22 a 30 dias,No prazo,51,0,0,50,3,225.0,51,0,13,0
+2018-05-01,ES,Entre UFs,31+ dias,Atrasado,1,1,106,1,0,5.0,1,1,0,0
+2018-05-01,ES,Entre UFs,31+ dias,No prazo,23,0,0,23,2,98.0,23,0,0,0
+2018-05-01,GO,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,10.0,2,0,0,0
+2018-05-01,GO,Dentro da UF,15 a 21 dias,No prazo,2,0,0,2,0,7.0,2,0,0,0
+2018-05-01,GO,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-05-01,GO,Entre UFs,15 a 21 dias,Atrasado,3,3,22,3,2,7.0,3,3,3,3
+2018-05-01,GO,Entre UFs,15 a 21 dias,No prazo,31,0,0,31,3,132.0,31,0,19,0
+2018-05-01,GO,Entre UFs,22 a 30 dias,Atrasado,4,4,33,4,2,10.0,4,4,0,0
+2018-05-01,GO,Entre UFs,22 a 30 dias,No prazo,66,0,0,66,9,264.0,66,0,4,0
+2018-05-01,GO,Entre UFs,31+ dias,No prazo,27,0,0,27,5,103.0,27,0,0,0
+2018-05-01,MA,Dentro da UF,8 a 14 dias,Atrasado,1,1,3,1,0,5.0,1,1,1,1
+2018-05-01,MA,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-05-01,MA,Entre UFs,15 a 21 dias,Atrasado,1,1,3,1,1,1.0,1,1,1,1
+2018-05-01,MA,Entre UFs,15 a 21 dias,No prazo,5,0,0,5,1,19.0,5,0,5,0
+2018-05-01,MA,Entre UFs,22 a 30 dias,No prazo,14,0,0,14,1,62.0,14,0,14,0
+2018-05-01,MA,Entre UFs,31+ dias,No prazo,10,0,0,10,2,37.0,10,0,9,0
+2018-05-01,MG,Dentro da UF,8 a 14 dias,No prazo,23,0,0,22,0,106.0,23,0,0,0
+2018-05-01,MG,Dentro da UF,15 a 21 dias,Atrasado,4,4,20,4,1,15.0,4,4,0,0
+2018-05-01,MG,Dentro da UF,15 a 21 dias,No prazo,44,0,0,44,3,192.0,44,0,0,0
+2018-05-01,MG,Dentro da UF,22 a 30 dias,No prazo,10,0,0,10,1,42.0,10,0,0,0
+2018-05-01,MG,Dentro da UF,31+ dias,No prazo,12,0,0,12,1,54.0,12,0,0,0
+2018-05-01,MG,Entre UFs,8 a 14 dias,Atrasado,2,2,10,2,1,6.0,2,2,0,0
+2018-05-01,MG,Entre UFs,8 a 14 dias,No prazo,8,0,0,8,0,37.0,8,0,0,0
+2018-05-01,MG,Entre UFs,15 a 21 dias,Atrasado,47,47,268,47,25,115.0,47,47,0,0
+2018-05-01,MG,Entre UFs,15 a 21 dias,No prazo,195,0,0,194,12,860.0,195,0,1,0
+2018-05-01,MG,Entre UFs,22 a 30 dias,Atrasado,16,16,98,16,8,46.0,16,16,0,0
+2018-05-01,MG,Entre UFs,22 a 30 dias,No prazo,283,0,0,281,26,1200.0,283,0,0,0
+2018-05-01,MG,Entre UFs,31+ dias,No prazo,107,0,0,107,8,460.0,107,0,0,0
+2018-05-01,MS,Entre UFs,15 a 21 dias,Atrasado,3,3,18,3,1,10.0,3,3,2,2
+2018-05-01,MS,Entre UFs,15 a 21 dias,No prazo,14,0,0,14,0,65.0,14,0,3,0
+2018-05-01,MS,Entre UFs,22 a 30 dias,Atrasado,1,1,1,1,0,5.0,1,1,0,0
+2018-05-01,MS,Entre UFs,22 a 30 dias,No prazo,16,0,0,16,2,72.0,16,0,0,0
+2018-05-01,MS,Entre UFs,31+ dias,No prazo,10,0,0,10,1,43.0,10,0,0,0
+2018-05-01,MT,Entre UFs,15 a 21 dias,No prazo,2,0,0,2,0,10.0,2,0,2,0
+2018-05-01,MT,Entre UFs,22 a 30 dias,Atrasado,1,1,1,1,0,3.0,1,1,0,0
+2018-05-01,MT,Entre UFs,22 a 30 dias,No prazo,30,0,0,30,1,132.0,30,0,11,0
+2018-05-01,MT,Entre UFs,31+ dias,Atrasado,1,1,7,1,1,1.0,1,1,0,0
+2018-05-01,MT,Entre UFs,31+ dias,No prazo,32,0,0,32,2,143.0,32,0,4,0
+2018-05-01,PA,Entre UFs,22 a 30 dias,Atrasado,2,2,7,2,1,6.0,2,2,1,1
+2018-05-01,PA,Entre UFs,22 a 30 dias,No prazo,4,0,0,4,1,15.0,4,0,2,0
+2018-05-01,PA,Entre UFs,31+ dias,Atrasado,3,3,21,2,1,5.0,3,3,0,0
+2018-05-01,PA,Entre UFs,31+ dias,No prazo,31,0,0,31,4,132.0,31,0,5,0
+2018-05-01,PB,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-05-01,PB,Entre UFs,22 a 30 dias,No prazo,11,0,0,11,0,51.0,11,0,10,0
+2018-05-01,PB,Entre UFs,31+ dias,Atrasado,1,1,13,1,1,1.0,1,1,1,1
+2018-05-01,PB,Entre UFs,31+ dias,No prazo,16,0,0,16,0,74.0,16,0,11,0
+2018-05-01,PE,Dentro da UF,8 a 14 dias,Atrasado,1,1,1,1,0,5.0,1,1,1,1
+2018-05-01,PE,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,9.0,2,0,2,0
+2018-05-01,PE,Dentro da UF,15 a 21 dias,No prazo,3,0,0,3,0,15.0,3,0,3,0
+2018-05-01,PE,Dentro da UF,22 a 30 dias,No prazo,2,0,0,2,0,10.0,2,0,2,0
+2018-05-01,PE,Entre UFs,15 a 21 dias,Atrasado,3,3,19,3,3,3.0,3,3,3,3
+2018-05-01,PE,Entre UFs,15 a 21 dias,No prazo,2,0,0,2,0,10.0,2,0,2,0
+2018-05-01,PE,Entre UFs,22 a 30 dias,Atrasado,5,5,34,5,2,15.0,5,5,5,5
+2018-05-01,PE,Entre UFs,22 a 30 dias,No prazo,48,0,0,48,6,206.0,48,0,47,0
+2018-05-01,PE,Entre UFs,31+ dias,Atrasado,3,3,25,2,0,8.0,3,3,1,1
+2018-05-01,PE,Entre UFs,31+ dias,No prazo,33,0,0,33,5,131.0,33,0,14,0
+2018-05-01,PI,Entre UFs,15 a 21 dias,Atrasado,3,3,13,3,1,8.0,3,3,3,3
+2018-05-01,PI,Entre UFs,15 a 21 dias,No prazo,2,0,0,2,0,10.0,2,0,2,0
+2018-05-01,PI,Entre UFs,22 a 30 dias,Atrasado,1,1,31,1,1,1.0,1,1,1,1
+2018-05-01,PI,Entre UFs,22 a 30 dias,No prazo,13,0,0,13,1,58.0,13,0,11,0
+2018-05-01,PI,Entre UFs,31+ dias,Atrasado,2,2,20,2,1,5.0,2,2,1,1
+2018-05-01,PI,Entre UFs,31+ dias,No prazo,9,0,0,9,1,36.0,9,0,6,0
+2018-05-01,PR,Dentro da UF,8 a 14 dias,Atrasado,1,1,4,1,0,5.0,1,1,0,0
+2018-05-01,PR,Dentro da UF,8 a 14 dias,No prazo,14,0,0,13,1,59.0,14,0,1,0
+2018-05-01,PR,Dentro da UF,15 a 21 dias,Atrasado,3,3,12,3,0,13.0,3,3,0,0
+2018-05-01,PR,Dentro da UF,15 a 21 dias,No prazo,16,0,0,16,3,65.0,16,0,0,0
+2018-05-01,PR,Dentro da UF,22 a 30 dias,No prazo,3,0,0,3,1,10.0,3,0,0,0
+2018-05-01,PR,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-05-01,PR,Entre UFs,15 a 21 dias,Atrasado,7,7,35,7,5,14.0,7,7,0,0
+2018-05-01,PR,Entre UFs,15 a 21 dias,No prazo,79,0,0,79,2,349.0,79,0,4,0
+2018-05-01,PR,Entre UFs,22 a 30 dias,Atrasado,12,12,61,12,6,35.0,12,12,0,0
+2018-05-01,PR,Entre UFs,22 a 30 dias,No prazo,118,0,0,118,7,512.0,118,0,0,0
+2018-05-01,PR,Entre UFs,31+ dias,No prazo,54,0,0,54,6,233.0,54,0,0,0
+2018-05-01,RJ,Dentro da UF,8 a 14 dias,Atrasado,1,1,3,1,0,5.0,1,1,1,1
+2018-05-01,RJ,Dentro da UF,8 a 14 dias,No prazo,17,0,0,17,0,82.0,17,0,11,0
+2018-05-01,RJ,Dentro da UF,15 a 21 dias,Atrasado,1,1,1,1,0,4.0,1,1,1,1
+2018-05-01,RJ,Dentro da UF,15 a 21 dias,No prazo,12,0,0,12,1,52.0,12,0,8,0
+2018-05-01,RJ,Dentro da UF,22 a 30 dias,No prazo,35,0,0,35,1,164.0,35,0,2,0
+2018-05-01,RJ,Dentro da UF,31+ dias,No prazo,9,0,0,9,0,41.0,9,0,0,0
+2018-05-01,RJ,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-05-01,RJ,Entre UFs,15 a 21 dias,Atrasado,30,30,222,30,13,81.0,30,30,28,28
+2018-05-01,RJ,Entre UFs,15 a 21 dias,No prazo,122,0,0,122,12,513.0,122,0,116,0
+2018-05-01,RJ,Entre UFs,22 a 30 dias,Atrasado,19,19,255,19,11,44.0,19,19,2,2
+2018-05-01,RJ,Entre UFs,22 a 30 dias,No prazo,158,0,0,158,18,662.0,158,0,23,0
+2018-05-01,RJ,Entre UFs,31+ dias,Atrasado,5,5,37,5,4,11.0,5,5,0,0
+2018-05-01,RJ,Entre UFs,31+ dias,No prazo,404,0,0,402,55,1672.0,404,0,7,0
+2018-05-01,RJ,Mista,22 a 30 dias,No prazo,1,0,0,1,1,1.0,1,0,0,0
+2018-05-01,RJ,Mista,31+ dias,No prazo,1,0,0,1,0,4.0,1,0,0,0
+2018-05-01,RN,Entre UFs,15 a 21 dias,Atrasado,1,1,1,1,0,3.0,1,1,1,1
+2018-05-01,RN,Entre UFs,22 a 30 dias,No prazo,13,0,0,13,2,51.0,13,0,10,0
+2018-05-01,RN,Entre UFs,31+ dias,No prazo,8,0,0,8,0,35.0,8,0,4,0
+2018-05-01,RO,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-05-01,RO,Entre UFs,31+ dias,No prazo,16,0,0,16,2,66.0,16,0,1,0
+2018-05-01,RR,Entre UFs,31+ dias,No prazo,1,0,0,1,0,4.0,1,0,0,0
+2018-05-01,RS,Dentro da UF,8 a 14 dias,No prazo,12,0,0,12,1,56.0,12,0,2,0
+2018-05-01,RS,Dentro da UF,15 a 21 dias,No prazo,6,0,0,6,0,27.0,6,0,0,0
+2018-05-01,RS,Dentro da UF,22 a 30 dias,No prazo,6,0,0,6,1,23.0,6,0,0,0
+2018-05-01,RS,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-05-01,RS,Entre UFs,15 a 21 dias,Atrasado,2,2,21,1,1,2.0,2,2,0,0
+2018-05-01,RS,Entre UFs,15 a 21 dias,No prazo,23,0,0,23,1,106.0,23,0,5,0
+2018-05-01,RS,Entre UFs,22 a 30 dias,Atrasado,6,6,57,6,2,18.0,6,6,0,0
+2018-05-01,RS,Entre UFs,22 a 30 dias,No prazo,175,0,0,175,12,761.0,175,0,0,0
+2018-05-01,RS,Entre UFs,31+ dias,Atrasado,2,2,16,2,1,7.0,2,2,0,0
+2018-05-01,RS,Entre UFs,31+ dias,No prazo,117,0,0,117,12,500.0,117,0,0,0
+2018-05-01,SC,Dentro da UF,8 a 14 dias,No prazo,4,0,0,4,0,20.0,4,0,4,0
+2018-05-01,SC,Dentro da UF,15 a 21 dias,No prazo,6,0,0,6,0,27.0,6,0,6,0
+2018-05-01,SC,Dentro da UF,22 a 30 dias,Atrasado,1,1,13,1,1,2.0,1,1,0,0
+2018-05-01,SC,Dentro da UF,22 a 30 dias,No prazo,3,0,0,3,0,15.0,3,0,1,0
+2018-05-01,SC,Dentro da UF,31+ dias,No prazo,1,0,0,1,1,1.0,1,0,0,0
+2018-05-01,SC,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-05-01,SC,Entre UFs,15 a 21 dias,Atrasado,5,5,50,5,3,14.0,5,5,5,5
+2018-05-01,SC,Entre UFs,15 a 21 dias,No prazo,46,0,0,46,1,211.0,46,0,46,0
+2018-05-01,SC,Entre UFs,22 a 30 dias,Atrasado,6,6,36,6,4,14.0,6,6,0,0
+2018-05-01,SC,Entre UFs,22 a 30 dias,No prazo,112,0,0,111,11,474.0,112,0,39,0
+2018-05-01,SC,Entre UFs,31+ dias,No prazo,40,0,0,40,0,184.0,40,0,5,0
+2018-05-01,SC,Mista,15 a 21 dias,No prazo,1,0,0,1,1,1.0,1,0,0,0
+2018-05-01,SE,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-05-01,SE,Entre UFs,22 a 30 dias,Atrasado,2,2,26,2,2,2.0,2,2,2,2
+2018-05-01,SE,Entre UFs,22 a 30 dias,No prazo,3,0,0,3,0,15.0,3,0,3,0
+2018-05-01,SE,Entre UFs,31+ dias,No prazo,2,0,0,2,1,5.0,2,0,2,0
+2018-05-01,SP,Dentro da UF,8 a 14 dias,Atrasado,58,58,389,57,25,166.0,58,58,4,4
+2018-05-01,SP,Dentro da UF,8 a 14 dias,No prazo,940,0,0,935,60,4174.0,940,0,25,0
+2018-05-01,SP,Dentro da UF,15 a 21 dias,Atrasado,44,44,322,44,18,132.0,44,44,2,2
+2018-05-01,SP,Dentro da UF,15 a 21 dias,No prazo,857,0,0,855,75,3685.0,857,0,28,0
+2018-05-01,SP,Dentro da UF,22 a 30 dias,Atrasado,5,5,47,5,3,11.0,5,5,0,0
+2018-05-01,SP,Dentro da UF,22 a 30 dias,No prazo,428,0,0,427,47,1819.0,428,0,0,0
+2018-05-01,SP,Dentro da UF,31+ dias,No prazo,128,0,0,127,9,554.0,128,0,0,0
+2018-05-01,SP,Entre UFs,8 a 14 dias,No prazo,10,0,0,10,0,48.0,10,0,2,0
+2018-05-01,SP,Entre UFs,15 a 21 dias,Atrasado,20,20,91,20,5,64.0,20,20,3,3
+2018-05-01,SP,Entre UFs,15 a 21 dias,No prazo,227,0,0,227,10,1025.0,227,0,26,0
+2018-05-01,SP,Entre UFs,22 a 30 dias,Atrasado,9,9,56,9,5,18.0,9,9,0,0
+2018-05-01,SP,Entre UFs,22 a 30 dias,No prazo,279,0,0,279,16,1244.0,279,0,3,0
+2018-05-01,SP,Entre UFs,31+ dias,No prazo,117,0,0,116,4,505.0,117,0,0,0
+2018-05-01,SP,Mista,15 a 21 dias,No prazo,4,0,0,4,1,14.0,4,0,0,0
+2018-05-01,SP,Mista,22 a 30 dias,No prazo,8,0,0,8,1,30.0,8,0,0,0
+2018-05-01,SP,Mista,31+ dias,No prazo,4,0,0,4,1,14.0,4,0,0,0
+2018-05-01,TO,Entre UFs,15 a 21 dias,Atrasado,1,1,2,1,0,4.0,1,1,1,1
+2018-05-01,TO,Entre UFs,15 a 21 dias,No prazo,3,0,0,3,0,14.0,3,0,3,0
+2018-05-01,TO,Entre UFs,22 a 30 dias,Atrasado,3,3,21,3,2,6.0,3,3,0,0
+2018-05-01,TO,Entre UFs,22 a 30 dias,No prazo,5,0,0,5,0,23.0,5,0,1,0
+2018-05-01,TO,Entre UFs,31+ dias,No prazo,4,0,0,4,1,15.0,4,0,0,0
+2018-06-01,AC,Entre UFs,31+ dias,No prazo,3,0,0,3,0,14.0,3,0,0,0
+2018-06-01,AL,Entre UFs,22 a 30 dias,No prazo,5,0,0,5,0,23.0,5,0,5,0
+2018-06-01,AL,Entre UFs,31+ dias,No prazo,19,0,0,19,1,87.0,19,0,19,0
+2018-06-01,AM,Entre UFs,31+ dias,No prazo,7,0,0,7,1,28.0,7,0,1,0
+2018-06-01,AP,Entre UFs,31+ dias,No prazo,2,0,0,2,0,9.0,2,0,1,0
+2018-06-01,BA,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,1,2.0,1,0,1,0
+2018-06-01,BA,Entre UFs,22 a 30 dias,Atrasado,6,6,87,6,4,13.0,6,6,6,6
+2018-06-01,BA,Entre UFs,22 a 30 dias,No prazo,68,0,0,68,8,280.0,68,0,68,0
+2018-06-01,BA,Entre UFs,31+ dias,Atrasado,5,5,91,5,3,12.0,5,5,3,3
+2018-06-01,BA,Entre UFs,31+ dias,No prazo,118,0,0,117,8,500.0,118,0,68,0
+2018-06-01,CE,Dentro da UF,22 a 30 dias,No prazo,2,0,0,2,0,10.0,2,0,2,0
+2018-06-01,CE,Entre UFs,22 a 30 dias,No prazo,13,0,0,13,1,59.0,13,0,13,0
+2018-06-01,CE,Entre UFs,31+ dias,No prazo,57,0,0,57,5,245.0,57,0,32,0
+2018-06-01,DF,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,1,6.0,2,0,0,0
+2018-06-01,DF,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-06-01,DF,Entre UFs,15 a 21 dias,No prazo,9,0,0,9,1,40.0,9,0,9,0
+2018-06-01,DF,Entre UFs,22 a 30 dias,Atrasado,1,1,13,1,1,1.0,1,1,0,0
+2018-06-01,DF,Entre UFs,22 a 30 dias,No prazo,81,0,0,80,5,361.0,81,0,1,0
+2018-06-01,DF,Entre UFs,31+ dias,No prazo,53,0,0,53,6,225.0,53,0,0,0
+2018-06-01,ES,Entre UFs,15 a 21 dias,Atrasado,2,2,10,2,0,10.0,2,2,2,2
+2018-06-01,ES,Entre UFs,15 a 21 dias,No prazo,9,0,0,9,3,31.0,9,0,9,0
+2018-06-01,ES,Entre UFs,22 a 30 dias,Atrasado,2,2,9,2,1,6.0,2,2,1,1
+2018-06-01,ES,Entre UFs,22 a 30 dias,No prazo,65,0,0,65,7,273.0,65,0,57,0
+2018-06-01,ES,Entre UFs,31+ dias,Atrasado,1,1,96,1,0,4.0,1,1,0,0
+2018-06-01,ES,Entre UFs,31+ dias,No prazo,44,0,0,44,4,180.0,44,0,1,0
+2018-06-01,GO,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-06-01,GO,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-06-01,GO,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-06-01,GO,Entre UFs,22 a 30 dias,Atrasado,1,1,35,1,1,2.0,1,1,0,0
+2018-06-01,GO,Entre UFs,22 a 30 dias,No prazo,48,0,0,48,3,208.0,48,0,3,0
+2018-06-01,GO,Entre UFs,31+ dias,No prazo,53,0,0,53,6,222.0,53,0,0,0
+2018-06-01,MA,Dentro da UF,22 a 30 dias,No prazo,4,0,0,4,1,13.0,4,0,4,0
+2018-06-01,MA,Entre UFs,22 a 30 dias,Atrasado,4,4,34,4,4,4.0,4,4,4,4
+2018-06-01,MA,Entre UFs,22 a 30 dias,No prazo,13,0,0,13,0,57.0,13,0,13,0
+2018-06-01,MA,Entre UFs,31+ dias,Atrasado,1,1,1,1,0,3.0,1,1,1,1
+2018-06-01,MA,Entre UFs,31+ dias,No prazo,19,0,0,19,0,88.0,19,0,18,0
+2018-06-01,MG,Dentro da UF,8 a 14 dias,No prazo,12,0,0,12,0,57.0,12,0,0,0
+2018-06-01,MG,Dentro da UF,15 a 21 dias,No prazo,41,0,0,41,4,185.0,41,0,0,0
+2018-06-01,MG,Dentro da UF,22 a 30 dias,No prazo,49,0,0,49,4,219.0,49,0,0,0
+2018-06-01,MG,Dentro da UF,31+ dias,No prazo,19,0,0,19,2,82.0,19,0,0,0
+2018-06-01,MG,Entre UFs,8 a 14 dias,No prazo,2,0,0,2,0,9.0,2,0,0,0
+2018-06-01,MG,Entre UFs,15 a 21 dias,No prazo,50,0,0,50,5,217.0,50,0,4,0
+2018-06-01,MG,Entre UFs,22 a 30 dias,No prazo,283,0,0,280,21,1221.0,283,0,0,0
+2018-06-01,MG,Entre UFs,31+ dias,Atrasado,1,1,15,1,1,1.0,1,1,0,0
+2018-06-01,MG,Entre UFs,31+ dias,No prazo,255,0,0,252,27,1082.0,255,0,0,0
+2018-06-01,MG,Mista,22 a 30 dias,No prazo,1,0,0,1,1,1.0,1,0,0,0
+2018-06-01,MG,Mista,31+ dias,No prazo,1,0,0,1,0,4.0,1,0,0,0
+2018-06-01,MS,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,4.0,1,0,0,0
+2018-06-01,MS,Entre UFs,22 a 30 dias,Atrasado,1,1,1,1,0,4.0,1,1,0,0
+2018-06-01,MS,Entre UFs,22 a 30 dias,No prazo,22,0,0,22,2,95.0,22,0,2,0
+2018-06-01,MS,Entre UFs,31+ dias,No prazo,25,0,0,24,2,107.0,25,0,0,0
+2018-06-01,MT,Entre UFs,22 a 30 dias,No prazo,8,0,0,8,2,31.0,8,0,7,0
+2018-06-01,MT,Entre UFs,31+ dias,Atrasado,1,1,27,1,0,3.0,1,1,1,1
+2018-06-01,MT,Entre UFs,31+ dias,No prazo,49,0,0,48,4,204.0,49,0,2,0
+2018-06-01,PA,Entre UFs,31+ dias,No prazo,54,0,0,54,3,239.0,54,0,17,0
+2018-06-01,PB,Entre UFs,22 a 30 dias,Atrasado,1,1,6,1,1,1.0,1,1,1,1
+2018-06-01,PB,Entre UFs,22 a 30 dias,No prazo,5,0,0,5,0,20.0,5,0,5,0
+2018-06-01,PB,Entre UFs,31+ dias,No prazo,22,0,0,22,3,93.0,22,0,22,0
+2018-06-01,PE,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-06-01,PE,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-06-01,PE,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-06-01,PE,Entre UFs,22 a 30 dias,Atrasado,2,2,52,2,2,3.0,2,2,2,2
+2018-06-01,PE,Entre UFs,22 a 30 dias,No prazo,20,0,0,20,0,97.0,20,0,20,0
+2018-06-01,PE,Entre UFs,31+ dias,No prazo,66,0,0,66,3,295.0,66,0,44,0
+2018-06-01,PI,Entre UFs,22 a 30 dias,Atrasado,7,7,44,7,4,16.0,7,7,7,7
+2018-06-01,PI,Entre UFs,22 a 30 dias,No prazo,7,0,0,7,0,30.0,7,0,7,0
+2018-06-01,PI,Entre UFs,31+ dias,Atrasado,2,2,12,2,1,5.0,2,2,2,2
+2018-06-01,PI,Entre UFs,31+ dias,No prazo,13,0,0,13,1,56.0,13,0,10,0
+2018-06-01,PR,Dentro da UF,8 a 14 dias,No prazo,9,0,0,9,0,40.0,9,0,1,0
+2018-06-01,PR,Dentro da UF,15 a 21 dias,No prazo,9,0,0,8,0,40.0,9,0,0,0
+2018-06-01,PR,Dentro da UF,22 a 30 dias,No prazo,23,0,0,23,7,82.0,23,0,0,0
+2018-06-01,PR,Dentro da UF,31+ dias,No prazo,2,0,0,2,0,10.0,2,0,0,0
+2018-06-01,PR,Entre UFs,15 a 21 dias,No prazo,7,0,0,7,2,25.0,7,0,1,0
+2018-06-01,PR,Entre UFs,22 a 30 dias,No prazo,143,0,0,142,16,624.0,143,0,0,0
+2018-06-01,PR,Entre UFs,31+ dias,No prazo,113,0,0,113,14,479.0,113,0,0,0
+2018-06-01,RJ,Dentro da UF,8 a 14 dias,No prazo,3,0,0,3,1,11.0,3,0,3,0
+2018-06-01,RJ,Dentro da UF,15 a 21 dias,No prazo,11,0,0,11,1,49.0,11,0,11,0
+2018-06-01,RJ,Dentro da UF,22 a 30 dias,No prazo,18,0,0,18,1,81.0,18,0,3,0
+2018-06-01,RJ,Dentro da UF,31+ dias,Atrasado,1,1,8,1,1,1.0,1,1,0,0
+2018-06-01,RJ,Dentro da UF,31+ dias,No prazo,37,0,0,37,2,173.0,37,0,0,0
+2018-06-01,RJ,Entre UFs,15 a 21 dias,Atrasado,1,1,4,1,0,5.0,1,1,1,1
+2018-06-01,RJ,Entre UFs,15 a 21 dias,No prazo,15,0,0,15,2,63.0,15,0,15,0
+2018-06-01,RJ,Entre UFs,22 a 30 dias,Atrasado,2,2,11,2,1,4.0,2,2,1,1
+2018-06-01,RJ,Entre UFs,22 a 30 dias,No prazo,151,0,0,151,15,639.0,151,0,89,0
+2018-06-01,RJ,Entre UFs,31+ dias,Atrasado,5,5,79,5,4,8.0,5,5,0,0
+2018-06-01,RJ,Entre UFs,31+ dias,No prazo,462,0,0,457,50,1944.0,462,0,19,0
+2018-06-01,RJ,Mista,22 a 30 dias,No prazo,1,0,0,1,1,2.0,1,0,0,0
+2018-06-01,RN,Entre UFs,22 a 30 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-06-01,RN,Entre UFs,31+ dias,No prazo,34,0,0,34,4,148.0,34,0,25,0
+2018-06-01,RO,Entre UFs,31+ dias,No prazo,11,0,0,11,1,42.0,11,0,1,0
+2018-06-01,RR,Entre UFs,31+ dias,No prazo,5,0,0,5,1,19.0,5,0,3,0
+2018-06-01,RS,Dentro da UF,8 a 14 dias,No prazo,3,0,0,3,0,15.0,3,0,1,0
+2018-06-01,RS,Dentro da UF,15 a 21 dias,No prazo,6,0,0,6,1,23.0,6,0,2,0
+2018-06-01,RS,Dentro da UF,22 a 30 dias,No prazo,7,0,0,7,0,35.0,7,0,0,0
+2018-06-01,RS,Dentro da UF,31+ dias,No prazo,4,0,0,4,0,18.0,4,0,0,0
+2018-06-01,RS,Entre UFs,22 a 30 dias,Atrasado,2,2,61,2,1,4.0,2,2,0,0
+2018-06-01,RS,Entre UFs,22 a 30 dias,No prazo,59,0,0,58,1,272.0,59,0,0,0
+2018-06-01,RS,Entre UFs,31+ dias,Atrasado,2,2,37,2,1,4.0,2,2,0,0
+2018-06-01,RS,Entre UFs,31+ dias,No prazo,221,0,0,221,19,963.0,221,0,0,0
+2018-06-01,SC,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,9.0,2,0,2,0
+2018-06-01,SC,Dentro da UF,15 a 21 dias,No prazo,4,0,0,4,0,17.0,4,0,4,0
+2018-06-01,SC,Dentro da UF,22 a 30 dias,No prazo,5,0,0,5,0,24.0,5,0,1,0
+2018-06-01,SC,Dentro da UF,31+ dias,No prazo,3,0,0,3,0,14.0,3,0,0,0
+2018-06-01,SC,Entre UFs,15 a 21 dias,No prazo,2,0,0,2,0,10.0,2,0,2,0
+2018-06-01,SC,Entre UFs,22 a 30 dias,No prazo,90,0,0,90,10,384.0,90,0,82,0
+2018-06-01,SC,Entre UFs,31+ dias,No prazo,98,0,0,98,12,418.0,98,0,10,0
+2018-06-01,SC,Mista,31+ dias,No prazo,1,0,0,1,1,1.0,1,0,0,0
+2018-06-01,SE,Entre UFs,22 a 30 dias,No prazo,6,0,0,6,0,28.0,6,0,6,0
+2018-06-01,SE,Entre UFs,31+ dias,No prazo,19,0,0,19,1,83.0,19,0,19,0
+2018-06-01,SP,Dentro da UF,8 a 14 dias,Atrasado,11,11,104,11,6,27.0,11,11,1,1
+2018-06-01,SP,Dentro da UF,8 a 14 dias,No prazo,528,0,0,528,36,2351.0,528,0,41,0
+2018-06-01,SP,Dentro da UF,15 a 21 dias,Atrasado,3,3,21,3,1,11.0,3,3,0,0
+2018-06-01,SP,Dentro da UF,15 a 21 dias,No prazo,684,0,0,681,60,2978.0,684,0,24,0
+2018-06-01,SP,Dentro da UF,22 a 30 dias,Atrasado,2,2,13,2,2,3.0,2,2,0,0
+2018-06-01,SP,Dentro da UF,22 a 30 dias,No prazo,642,0,0,640,59,2793.0,642,0,2,0
+2018-06-01,SP,Dentro da UF,31+ dias,No prazo,196,0,0,196,28,805.0,196,0,0,0
+2018-06-01,SP,Entre UFs,15 a 21 dias,Atrasado,2,2,64,2,1,6.0,2,2,2,2
+2018-06-01,SP,Entre UFs,15 a 21 dias,No prazo,40,0,0,40,2,184.0,40,0,16,0
+2018-06-01,SP,Entre UFs,22 a 30 dias,Atrasado,1,1,5,1,1,2.0,1,1,0,0
+2018-06-01,SP,Entre UFs,22 a 30 dias,No prazo,295,0,0,295,29,1269.0,295,0,7,0
+2018-06-01,SP,Entre UFs,31+ dias,Atrasado,1,1,8,1,1,1.0,1,1,0,0
+2018-06-01,SP,Entre UFs,31+ dias,No prazo,316,0,0,316,34,1363.0,316,0,0,0
+2018-06-01,SP,Mista,22 a 30 dias,No prazo,7,0,0,6,3,16.0,7,0,0,0
+2018-06-01,SP,Mista,31+ dias,No prazo,7,0,0,7,2,24.0,7,0,0,0
+2018-06-01,TO,Entre UFs,22 a 30 dias,No prazo,7,0,0,7,1,28.0,7,0,5,0
+2018-06-01,TO,Entre UFs,31+ dias,No prazo,11,0,0,11,0,45.0,11,0,0,0
+2018-07-01,AC,Entre UFs,31+ dias,No prazo,4,0,0,4,0,18.0,4,0,0,0
+2018-07-01,AL,Entre UFs,15 a 21 dias,No prazo,2,0,0,2,0,10.0,2,0,2,0
+2018-07-01,AL,Entre UFs,22 a 30 dias,Atrasado,3,3,58,3,2,5.0,3,3,3,3
+2018-07-01,AL,Entre UFs,22 a 30 dias,No prazo,14,0,0,14,0,62.0,14,0,14,0
+2018-07-01,AL,Entre UFs,31+ dias,Atrasado,1,1,6,1,1,1.0,1,1,1,1
+2018-07-01,AL,Entre UFs,31+ dias,No prazo,2,0,0,2,0,9.0,2,0,2,0
+2018-07-01,AM,Entre UFs,31+ dias,No prazo,18,0,0,18,4,72.0,18,0,0,0
+2018-07-01,AP,Entre UFs,31+ dias,No prazo,6,0,0,6,0,23.0,6,0,1,0
+2018-07-01,BA,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,9.0,2,0,2,0
+2018-07-01,BA,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,4.0,1,0,1,0
+2018-07-01,BA,Dentro da UF,22 a 30 dias,No prazo,5,0,0,5,0,25.0,5,0,1,0
+2018-07-01,BA,Entre UFs,15 a 21 dias,Atrasado,8,8,81,7,4,20.0,8,8,8,8
+2018-07-01,BA,Entre UFs,15 a 21 dias,No prazo,64,0,0,64,2,293.0,64,0,64,0
+2018-07-01,BA,Entre UFs,22 a 30 dias,Atrasado,7,7,81,6,3,18.0,7,7,5,5
+2018-07-01,BA,Entre UFs,22 a 30 dias,No prazo,135,0,0,135,11,577.0,135,0,109,0
+2018-07-01,BA,Entre UFs,31+ dias,No prazo,23,0,0,23,4,86.0,23,0,1,0
+2018-07-01,CE,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-07-01,CE,Entre UFs,15 a 21 dias,No prazo,7,0,0,7,2,25.0,7,0,7,0
+2018-07-01,CE,Entre UFs,22 a 30 dias,Atrasado,1,1,19,1,1,1.0,1,1,1,1
+2018-07-01,CE,Entre UFs,22 a 30 dias,No prazo,63,0,0,63,3,280.0,63,0,34,0
+2018-07-01,CE,Entre UFs,31+ dias,No prazo,12,0,0,12,2,50.0,12,0,0,0
+2018-07-01,DF,Dentro da UF,8 a 14 dias,No prazo,5,0,0,5,1,20.0,5,0,0,0
+2018-07-01,DF,Entre UFs,8 a 14 dias,No prazo,7,0,0,7,2,24.0,7,0,2,0
+2018-07-01,DF,Entre UFs,15 a 21 dias,Atrasado,4,4,18,4,3,9.0,4,4,0,0
+2018-07-01,DF,Entre UFs,15 a 21 dias,No prazo,94,0,0,94,5,421.0,94,0,11,0
+2018-07-01,DF,Entre UFs,22 a 30 dias,Atrasado,3,3,32,3,3,4.0,3,3,0,0
+2018-07-01,DF,Entre UFs,22 a 30 dias,No prazo,48,0,0,48,2,213.0,48,0,2,0
+2018-07-01,DF,Entre UFs,31+ dias,No prazo,4,0,0,4,0,20.0,4,0,0,0
+2018-07-01,ES,Dentro da UF,8 a 14 dias,Atrasado,1,1,9,1,0,4.0,1,1,1,1
+2018-07-01,ES,Entre UFs,8 a 14 dias,No prazo,2,0,0,2,0,9.0,2,0,2,0
+2018-07-01,ES,Entre UFs,15 a 21 dias,Atrasado,5,5,26,4,1,16.0,5,5,5,5
+2018-07-01,ES,Entre UFs,15 a 21 dias,No prazo,61,0,0,61,4,266.0,61,0,51,0
+2018-07-01,ES,Entre UFs,22 a 30 dias,Atrasado,3,3,13,3,1,12.0,3,3,0,0
+2018-07-01,ES,Entre UFs,22 a 30 dias,No prazo,41,0,0,40,3,173.0,41,0,7,0
+2018-07-01,ES,Entre UFs,31+ dias,No prazo,9,0,0,9,2,36.0,9,0,0,0
+2018-07-01,GO,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,1,6.0,2,0,0,0
+2018-07-01,GO,Entre UFs,8 a 14 dias,No prazo,2,0,0,2,0,9.0,2,0,0,0
+2018-07-01,GO,Entre UFs,15 a 21 dias,Atrasado,2,2,6,2,1,4.0,2,2,0,0
+2018-07-01,GO,Entre UFs,15 a 21 dias,No prazo,43,0,0,43,3,189.0,43,0,7,0
+2018-07-01,GO,Entre UFs,22 a 30 dias,Atrasado,3,3,36,3,1,8.0,3,3,0,0
+2018-07-01,GO,Entre UFs,22 a 30 dias,No prazo,54,0,0,54,5,230.0,54,0,1,0
+2018-07-01,GO,Entre UFs,31+ dias,No prazo,6,0,0,6,2,21.0,6,0,0,0
+2018-07-01,MA,Dentro da UF,15 a 21 dias,Atrasado,1,1,4,1,1,1.0,1,1,1,1
+2018-07-01,MA,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-07-01,MA,Entre UFs,15 a 21 dias,Atrasado,4,4,26,4,3,9.0,4,4,4,4
+2018-07-01,MA,Entre UFs,15 a 21 dias,No prazo,10,0,0,10,1,42.0,10,0,10,0
+2018-07-01,MA,Entre UFs,22 a 30 dias,Atrasado,2,2,9,2,1,6.0,2,2,2,2
+2018-07-01,MA,Entre UFs,22 a 30 dias,No prazo,16,0,0,16,2,72.0,16,0,16,0
+2018-07-01,MA,Entre UFs,31+ dias,No prazo,5,0,0,5,2,15.0,5,0,3,0
+2018-07-01,MG,Dentro da UF,Até 7 dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-07-01,MG,Dentro da UF,8 a 14 dias,No prazo,26,0,0,26,0,126.0,26,0,0,0
+2018-07-01,MG,Dentro da UF,15 a 21 dias,No prazo,54,0,0,54,6,225.0,54,0,0,0
+2018-07-01,MG,Dentro da UF,22 a 30 dias,No prazo,16,0,0,16,1,73.0,16,0,0,0
+2018-07-01,MG,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-07-01,MG,Entre UFs,Até 7 dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-07-01,MG,Entre UFs,8 a 14 dias,Atrasado,1,1,3,1,1,1.0,1,1,0,0
+2018-07-01,MG,Entre UFs,8 a 14 dias,No prazo,35,0,0,34,4,141.0,35,0,1,0
+2018-07-01,MG,Entre UFs,15 a 21 dias,Atrasado,2,2,81,2,1,6.0,2,2,0,0
+2018-07-01,MG,Entre UFs,15 a 21 dias,No prazo,258,0,0,257,26,1113.0,258,0,1,0
+2018-07-01,MG,Entre UFs,22 a 30 dias,Atrasado,4,4,32,4,1,13.0,4,4,0,0
+2018-07-01,MG,Entre UFs,22 a 30 dias,No prazo,201,0,0,200,21,861.0,201,0,0,0
+2018-07-01,MG,Entre UFs,31+ dias,Atrasado,1,1,27,1,1,1.0,1,1,0,0
+2018-07-01,MG,Entre UFs,31+ dias,No prazo,42,0,0,42,5,178.0,42,0,0,0
+2018-07-01,MG,Mista,15 a 21 dias,No prazo,1,0,0,1,0,4.0,1,0,0,0
+2018-07-01,MS,Entre UFs,8 a 14 dias,No prazo,2,0,0,2,0,9.0,2,0,0,0
+2018-07-01,MS,Entre UFs,15 a 21 dias,Atrasado,2,2,9,2,1,6.0,2,2,1,1
+2018-07-01,MS,Entre UFs,15 a 21 dias,No prazo,25,0,0,25,1,115.0,25,0,1,0
+2018-07-01,MS,Entre UFs,22 a 30 dias,No prazo,19,0,0,19,1,82.0,19,0,0,0
+2018-07-01,MS,Entre UFs,31+ dias,No prazo,1,0,0,1,1,2.0,1,0,0,0
+2018-07-01,MT,Entre UFs,15 a 21 dias,No prazo,6,0,0,6,1,25.0,6,0,5,0
+2018-07-01,MT,Entre UFs,22 a 30 dias,No prazo,28,0,0,28,1,132.0,28,0,5,0
+2018-07-01,MT,Entre UFs,31+ dias,No prazo,13,0,0,13,2,52.0,13,0,0,0
+2018-07-01,PA,Entre UFs,15 a 21 dias,Atrasado,1,1,3,1,0,4.0,1,1,1,1
+2018-07-01,PA,Entre UFs,22 a 30 dias,Atrasado,1,1,10,1,1,1.0,1,1,0,0
+2018-07-01,PA,Entre UFs,22 a 30 dias,No prazo,29,0,0,29,2,129.0,29,0,8,0
+2018-07-01,PA,Entre UFs,31+ dias,Atrasado,1,1,8,1,1,1.0,1,1,0,0
+2018-07-01,PA,Entre UFs,31+ dias,No prazo,25,0,0,25,1,109.0,25,0,0,0
+2018-07-01,PB,Entre UFs,15 a 21 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-07-01,PB,Entre UFs,22 a 30 dias,Atrasado,2,2,16,2,2,3.0,2,2,2,2
+2018-07-01,PB,Entre UFs,22 a 30 dias,No prazo,34,0,0,34,3,144.0,34,0,34,0
+2018-07-01,PB,Entre UFs,31+ dias,No prazo,14,0,0,14,2,60.0,14,0,4,0
+2018-07-01,PE,Dentro da UF,8 a 14 dias,No prazo,2,0,0,2,0,9.0,2,0,2,0
+2018-07-01,PE,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,4.0,1,0,1,0
+2018-07-01,PE,Entre UFs,8 a 14 dias,Atrasado,1,1,13,1,1,1.0,1,1,1,1
+2018-07-01,PE,Entre UFs,15 a 21 dias,Atrasado,3,3,29,3,2,7.0,3,3,3,3
+2018-07-01,PE,Entre UFs,15 a 21 dias,No prazo,22,0,0,22,3,97.0,22,0,22,0
+2018-07-01,PE,Entre UFs,22 a 30 dias,Atrasado,3,3,66,3,3,3.0,3,3,2,2
+2018-07-01,PE,Entre UFs,22 a 30 dias,No prazo,81,0,0,81,6,367.0,81,0,65,0
+2018-07-01,PE,Entre UFs,31+ dias,Atrasado,1,1,2,1,0,5.0,1,1,0,0
+2018-07-01,PE,Entre UFs,31+ dias,No prazo,22,0,0,22,2,94.0,22,0,2,0
+2018-07-01,PI,Entre UFs,15 a 21 dias,Atrasado,2,2,7,2,1,7.0,2,2,2,2
+2018-07-01,PI,Entre UFs,15 a 21 dias,No prazo,13,0,0,12,2,49.0,13,0,13,0
+2018-07-01,PI,Entre UFs,22 a 30 dias,No prazo,15,0,0,15,2,62.0,15,0,13,0
+2018-07-01,PI,Entre UFs,31+ dias,No prazo,2,0,0,2,0,7.0,2,0,0,0
+2018-07-01,PR,Dentro da UF,Até 7 dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-07-01,PR,Dentro da UF,8 a 14 dias,Atrasado,1,1,7,1,0,5.0,1,1,0,0
+2018-07-01,PR,Dentro da UF,8 a 14 dias,No prazo,11,0,0,11,0,51.0,11,0,0,0
+2018-07-01,PR,Dentro da UF,15 a 21 dias,No prazo,30,0,0,30,1,135.0,30,0,0,0
+2018-07-01,PR,Dentro da UF,22 a 30 dias,Atrasado,1,1,8,1,0,3.0,1,1,0,0
+2018-07-01,PR,Dentro da UF,22 a 30 dias,No prazo,4,0,0,4,1,13.0,4,0,0,0
+2018-07-01,PR,Entre UFs,8 a 14 dias,No prazo,15,0,0,15,1,67.0,15,0,1,0
+2018-07-01,PR,Entre UFs,15 a 21 dias,Atrasado,4,4,50,2,0,9.0,4,4,0,0
+2018-07-01,PR,Entre UFs,15 a 21 dias,No prazo,136,0,0,136,8,603.0,136,0,2,0
+2018-07-01,PR,Entre UFs,22 a 30 dias,No prazo,97,0,0,97,6,430.0,97,0,0,0
+2018-07-01,PR,Entre UFs,31+ dias,No prazo,12,0,0,12,2,47.0,12,0,0,0
+2018-07-01,PR,Mista,15 a 21 dias,No prazo,2,0,0,2,0,10.0,2,0,0,0
+2018-07-01,RJ,Dentro da UF,Até 7 dias,Atrasado,2,2,2,2,0,10.0,2,2,0,0
+2018-07-01,RJ,Dentro da UF,Até 7 dias,No prazo,4,0,0,4,0,18.0,4,0,0,0
+2018-07-01,RJ,Dentro da UF,8 a 14 dias,Atrasado,2,2,21,2,1,4.0,2,2,0,0
+2018-07-01,RJ,Dentro da UF,8 a 14 dias,No prazo,19,0,0,19,3,81.0,19,0,6,0
+2018-07-01,RJ,Dentro da UF,15 a 21 dias,No prazo,11,0,0,11,1,48.0,11,0,4,0
+2018-07-01,RJ,Dentro da UF,22 a 30 dias,No prazo,29,0,0,28,1,130.0,29,0,0,0
+2018-07-01,RJ,Dentro da UF,31+ dias,No prazo,3,0,0,3,0,15.0,3,0,0,0
+2018-07-01,RJ,Entre UFs,Até 7 dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-07-01,RJ,Entre UFs,8 a 14 dias,Atrasado,2,2,6,2,1,6.0,2,2,2,2
+2018-07-01,RJ,Entre UFs,8 a 14 dias,No prazo,14,0,0,14,0,68.0,14,0,14,0
+2018-07-01,RJ,Entre UFs,15 a 21 dias,Atrasado,3,3,15,3,2,7.0,3,3,2,2
+2018-07-01,RJ,Entre UFs,15 a 21 dias,No prazo,142,0,0,141,12,611.0,142,0,104,0
+2018-07-01,RJ,Entre UFs,22 a 30 dias,Atrasado,7,7,57,7,4,16.0,7,7,1,1
+2018-07-01,RJ,Entre UFs,22 a 30 dias,No prazo,220,0,0,217,22,948.0,220,0,14,0
+2018-07-01,RJ,Entre UFs,31+ dias,Atrasado,1,1,2,1,0,3.0,1,1,0,0
+2018-07-01,RJ,Entre UFs,31+ dias,No prazo,236,0,0,233,24,1006.0,236,0,0,0
+2018-07-01,RN,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-07-01,RN,Entre UFs,15 a 21 dias,No prazo,5,0,0,5,1,22.0,5,0,5,0
+2018-07-01,RN,Entre UFs,22 a 30 dias,No prazo,13,0,0,12,0,54.0,13,0,10,0
+2018-07-01,RN,Entre UFs,31+ dias,No prazo,10,0,0,9,0,38.0,10,0,1,0
+2018-07-01,RO,Entre UFs,22 a 30 dias,No prazo,4,0,0,4,0,18.0,4,0,0,0
+2018-07-01,RO,Entre UFs,31+ dias,No prazo,12,0,0,12,2,52.0,12,0,0,0
+2018-07-01,RR,Entre UFs,31+ dias,No prazo,5,0,0,5,0,25.0,5,0,0,0
+2018-07-01,RS,Dentro da UF,8 a 14 dias,No prazo,6,0,0,6,0,28.0,6,0,0,0
+2018-07-01,RS,Dentro da UF,15 a 21 dias,Atrasado,2,2,9,2,0,10.0,2,2,0,0
+2018-07-01,RS,Dentro da UF,15 a 21 dias,No prazo,16,0,0,16,0,75.0,16,0,0,0
+2018-07-01,RS,Dentro da UF,22 a 30 dias,No prazo,4,0,0,4,0,19.0,4,0,0,0
+2018-07-01,RS,Entre UFs,8 a 14 dias,No prazo,4,0,0,4,0,17.0,4,0,0,0
+2018-07-01,RS,Entre UFs,15 a 21 dias,Atrasado,1,1,7,1,1,1.0,1,1,0,0
+2018-07-01,RS,Entre UFs,15 a 21 dias,No prazo,50,0,0,50,7,213.0,50,0,1,0
+2018-07-01,RS,Entre UFs,22 a 30 dias,Atrasado,2,2,49,2,1,7.0,2,2,0,0
+2018-07-01,RS,Entre UFs,22 a 30 dias,No prazo,180,0,0,180,16,783.0,180,0,0,0
+2018-07-01,RS,Entre UFs,31+ dias,No prazo,43,0,0,43,7,175.0,43,0,0,0
+2018-07-01,SC,Dentro da UF,8 a 14 dias,Atrasado,2,2,24,2,1,6.0,2,2,1,1
+2018-07-01,SC,Dentro da UF,8 a 14 dias,No prazo,3,0,0,3,0,15.0,3,0,2,0
+2018-07-01,SC,Dentro da UF,15 a 21 dias,No prazo,10,0,0,10,1,43.0,10,0,4,0
+2018-07-01,SC,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,3.0,1,0,0,0
+2018-07-01,SC,Entre UFs,8 a 14 dias,No prazo,4,0,0,4,0,20.0,4,0,4,0
+2018-07-01,SC,Entre UFs,15 a 21 dias,Atrasado,1,1,1,1,0,5.0,1,1,1,1
+2018-07-01,SC,Entre UFs,15 a 21 dias,No prazo,73,0,0,73,2,331.0,73,0,72,0
+2018-07-01,SC,Entre UFs,22 a 30 dias,Atrasado,1,1,5,1,1,1.0,1,1,0,0
+2018-07-01,SC,Entre UFs,22 a 30 dias,No prazo,90,0,0,90,6,398.0,90,0,28,0
+2018-07-01,SC,Entre UFs,31+ dias,No prazo,10,0,0,10,2,39.0,10,0,0,0
+2018-07-01,SE,Entre UFs,15 a 21 dias,Atrasado,1,1,12,1,0,3.0,1,1,1,1
+2018-07-01,SE,Entre UFs,15 a 21 dias,No prazo,8,0,0,8,0,36.0,8,0,8,0
+2018-07-01,SE,Entre UFs,22 a 30 dias,Atrasado,1,1,8,1,0,5.0,1,1,1,1
+2018-07-01,SE,Entre UFs,22 a 30 dias,No prazo,13,0,0,13,1,53.0,13,0,13,0
+2018-07-01,SE,Entre UFs,31+ dias,No prazo,3,0,0,3,0,14.0,3,0,2,0
+2018-07-01,SP,Dentro da UF,Até 7 dias,Atrasado,16,16,63,15,5,48.0,16,16,0,0
+2018-07-01,SP,Dentro da UF,Até 7 dias,No prazo,110,0,0,109,4,493.0,110,0,0,0
+2018-07-01,SP,Dentro da UF,8 a 14 dias,Atrasado,41,41,339,41,16,127.0,41,41,1,1
+2018-07-01,SP,Dentro da UF,8 a 14 dias,No prazo,1110,0,0,1102,81,4869.0,1110,0,7,0
+2018-07-01,SP,Dentro da UF,15 a 21 dias,Atrasado,16,16,101,16,9,39.0,16,16,0,0
+2018-07-01,SP,Dentro da UF,15 a 21 dias,No prazo,595,0,0,591,52,2565.0,595,0,5,0
+2018-07-01,SP,Dentro da UF,22 a 30 dias,Atrasado,10,10,56,9,6,18.0,10,10,0,0
+2018-07-01,SP,Dentro da UF,22 a 30 dias,No prazo,116,0,0,116,10,503.0,116,0,0,0
+2018-07-01,SP,Dentro da UF,31+ dias,No prazo,21,0,0,21,4,83.0,21,0,0,0
+2018-07-01,SP,Entre UFs,8 a 14 dias,No prazo,55,0,0,55,1,255.0,55,0,2,0
+2018-07-01,SP,Entre UFs,15 a 21 dias,Atrasado,12,12,128,12,6,32.0,12,12,0,0
+2018-07-01,SP,Entre UFs,15 a 21 dias,No prazo,245,0,0,245,25,1063.0,245,0,8,0
+2018-07-01,SP,Entre UFs,22 a 30 dias,Atrasado,5,5,46,4,4,4.0,5,5,0,0
+2018-07-01,SP,Entre UFs,22 a 30 dias,No prazo,288,0,0,287,19,1273.0,288,0,0,0
+2018-07-01,SP,Entre UFs,31+ dias,No prazo,57,0,0,57,6,244.0,57,0,0,0
+2018-07-01,SP,Mista,8 a 14 dias,No prazo,1,0,0,1,1,1.0,1,0,0,0
+2018-07-01,SP,Mista,15 a 21 dias,No prazo,7,0,0,6,4,16.0,7,0,0,0
+2018-07-01,SP,Mista,22 a 30 dias,No prazo,7,0,0,7,1,28.0,7,0,0,0
+2018-07-01,TO,Entre UFs,15 a 21 dias,Atrasado,1,1,6,1,0,5.0,1,1,1,1
+2018-07-01,TO,Entre UFs,15 a 21 dias,No prazo,4,0,0,4,0,19.0,4,0,3,0
+2018-07-01,TO,Entre UFs,22 a 30 dias,No prazo,15,0,0,15,1,68.0,15,0,1,0
+2018-07-01,TO,Entre UFs,31+ dias,No prazo,2,0,0,2,0,8.0,2,0,1,0
+2018-08-01,AC,Entre UFs,31+ dias,No prazo,3,0,0,3,0,15.0,3,0,0,0
+2018-08-01,AL,Entre UFs,15 a 21 dias,No prazo,2,0,0,2,0,9.0,2,0,2,0
+2018-08-01,AL,Entre UFs,22 a 30 dias,No prazo,4,0,0,4,0,20.0,4,0,4,0
+2018-08-01,AL,Entre UFs,31+ dias,No prazo,10,0,0,10,2,41.0,10,0,10,0
+2018-08-01,AM,Entre UFs,31+ dias,No prazo,4,0,0,4,1,15.0,4,0,0,0
+2018-08-01,AP,Entre UFs,22 a 30 dias,No prazo,2,0,0,2,0,10.0,2,0,2,0
+2018-08-01,BA,Dentro da UF,Até 7 dias,Atrasado,1,1,13,1,0,3.0,1,1,1,1
+2018-08-01,BA,Dentro da UF,15 a 21 dias,No prazo,7,0,0,7,2,27.0,7,0,7,0
+2018-08-01,BA,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-08-01,BA,Dentro da UF,31+ dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-08-01,BA,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-08-01,BA,Entre UFs,15 a 21 dias,No prazo,29,0,0,29,3,127.0,29,0,29,0
+2018-08-01,BA,Entre UFs,22 a 30 dias,No prazo,74,0,0,74,8,311.0,74,0,44,0
+2018-08-01,BA,Entre UFs,31+ dias,No prazo,45,0,0,45,1,200.0,45,0,0,0
+2018-08-01,CE,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-08-01,CE,Entre UFs,15 a 21 dias,No prazo,4,0,0,4,0,17.0,4,0,4,0
+2018-08-01,CE,Entre UFs,22 a 30 dias,No prazo,27,0,0,27,1,118.0,27,0,16,0
+2018-08-01,CE,Entre UFs,31+ dias,No prazo,23,0,0,23,2,101.0,23,0,0,0
+2018-08-01,DF,Dentro da UF,Até 7 dias,No prazo,4,0,0,4,0,20.0,4,0,0,0
+2018-08-01,DF,Dentro da UF,8 a 14 dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-08-01,DF,Entre UFs,8 a 14 dias,Atrasado,4,4,20,4,3,9.0,4,4,0,0
+2018-08-01,DF,Entre UFs,8 a 14 dias,No prazo,34,0,0,34,2,152.0,34,0,4,0
+2018-08-01,DF,Entre UFs,15 a 21 dias,Atrasado,1,1,36,1,1,1.0,1,1,0,0
+2018-08-01,DF,Entre UFs,15 a 21 dias,No prazo,79,0,0,79,8,335.0,79,0,6,0
+2018-08-01,DF,Entre UFs,22 a 30 dias,No prazo,16,0,0,16,0,70.0,16,0,0,0
+2018-08-01,DF,Entre UFs,31+ dias,No prazo,3,0,0,3,1,11.0,3,0,0,0
+2018-08-01,DF,Mista,15 a 21 dias,No prazo,1,0,0,1,0,3.0,1,0,0,0
+2018-08-01,ES,Entre UFs,8 a 14 dias,No prazo,12,0,0,12,0,51.0,12,0,12,0
+2018-08-01,ES,Entre UFs,15 a 21 dias,No prazo,42,0,0,42,3,191.0,42,0,41,0
+2018-08-01,ES,Entre UFs,22 a 30 dias,No prazo,35,0,0,35,5,144.0,35,0,2,0
+2018-08-01,ES,Entre UFs,31+ dias,No prazo,14,0,0,14,1,59.0,14,0,0,0
+2018-08-01,GO,Dentro da UF,Até 7 dias,No prazo,4,0,0,4,0,18.0,4,0,0,0
+2018-08-01,GO,Dentro da UF,8 a 14 dias,No prazo,3,0,0,3,0,14.0,3,0,0,0
+2018-08-01,GO,Entre UFs,8 a 14 dias,No prazo,12,0,0,12,2,51.0,12,0,10,0
+2018-08-01,GO,Entre UFs,15 a 21 dias,Atrasado,2,2,3,2,1,6.0,2,2,1,1
+2018-08-01,GO,Entre UFs,15 a 21 dias,No prazo,52,0,0,52,5,222.0,52,0,4,0
+2018-08-01,GO,Entre UFs,22 a 30 dias,Atrasado,1,1,2,1,1,1.0,1,1,0,0
+2018-08-01,GO,Entre UFs,22 a 30 dias,No prazo,33,0,0,33,3,149.0,33,0,0,0
+2018-08-01,GO,Entre UFs,31+ dias,No prazo,10,0,0,10,0,46.0,10,0,0,0
+2018-08-01,MA,Dentro da UF,Até 7 dias,Atrasado,1,1,2,1,0,5.0,1,1,1,1
+2018-08-01,MA,Dentro da UF,Até 7 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-08-01,MA,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-08-01,MA,Entre UFs,15 a 21 dias,Atrasado,1,1,8,1,1,1.0,1,1,1,1
+2018-08-01,MA,Entre UFs,15 a 21 dias,No prazo,6,0,0,6,1,26.0,6,0,6,0
+2018-08-01,MA,Entre UFs,22 a 30 dias,No prazo,11,0,0,11,1,47.0,11,0,11,0
+2018-08-01,MA,Entre UFs,31+ dias,No prazo,8,0,0,8,0,35.0,8,0,0,0
+2018-08-01,MG,Dentro da UF,Até 7 dias,Atrasado,2,2,4,2,0,10.0,2,2,0,0
+2018-08-01,MG,Dentro da UF,Até 7 dias,No prazo,10,0,0,10,1,40.0,10,0,0,0
+2018-08-01,MG,Dentro da UF,8 a 14 dias,No prazo,61,0,0,61,5,268.0,61,0,0,0
+2018-08-01,MG,Dentro da UF,15 a 21 dias,No prazo,20,0,0,20,2,88.0,20,0,0,0
+2018-08-01,MG,Dentro da UF,22 a 30 dias,No prazo,2,0,0,2,0,9.0,2,0,0,0
+2018-08-01,MG,Dentro da UF,31+ dias,No prazo,4,0,0,4,0,20.0,4,0,0,0
+2018-08-01,MG,Entre UFs,Até 7 dias,Atrasado,1,1,4,1,0,4.0,1,1,0,0
+2018-08-01,MG,Entre UFs,Até 7 dias,No prazo,4,0,0,4,1,16.0,4,0,0,0
+2018-08-01,MG,Entre UFs,8 a 14 dias,Atrasado,3,3,11,3,2,8.0,3,3,0,0
+2018-08-01,MG,Entre UFs,8 a 14 dias,No prazo,186,0,0,184,10,816.0,186,0,5,0
+2018-08-01,MG,Entre UFs,15 a 21 dias,Atrasado,6,6,26,6,1,22.0,6,6,0,0
+2018-08-01,MG,Entre UFs,15 a 21 dias,No prazo,268,0,0,268,18,1197.0,268,0,1,0
+2018-08-01,MG,Entre UFs,22 a 30 dias,No prazo,98,0,0,98,11,415.0,98,0,0,0
+2018-08-01,MG,Entre UFs,31+ dias,No prazo,31,0,0,31,2,133.0,31,0,0,0
+2018-08-01,MG,Mista,15 a 21 dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-08-01,MG,Mista,22 a 30 dias,No prazo,2,0,0,2,2,3.0,2,0,0,0
+2018-08-01,MG,Mista,31+ dias,No prazo,1,0,0,1,1,2.0,1,0,0,0
+2018-08-01,MS,Entre UFs,8 a 14 dias,Atrasado,9,9,55,9,5,22.0,9,9,0,0
+2018-08-01,MS,Entre UFs,8 a 14 dias,No prazo,7,0,0,7,0,33.0,7,0,1,0
+2018-08-01,MS,Entre UFs,15 a 21 dias,Atrasado,1,1,2,1,1,1.0,1,1,0,0
+2018-08-01,MS,Entre UFs,15 a 21 dias,No prazo,11,0,0,11,0,54.0,11,0,0,0
+2018-08-01,MS,Entre UFs,22 a 30 dias,No prazo,4,0,0,4,0,18.0,4,0,0,0
+2018-08-01,MS,Entre UFs,31+ dias,No prazo,3,0,0,3,1,9.0,3,0,0,0
+2018-08-01,MT,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-08-01,MT,Entre UFs,15 a 21 dias,No prazo,14,0,0,14,0,65.0,14,0,14,0
+2018-08-01,MT,Entre UFs,22 a 30 dias,No prazo,16,0,0,16,0,76.0,16,0,0,0
+2018-08-01,MT,Entre UFs,31+ dias,No prazo,8,0,0,8,3,28.0,8,0,0,0
+2018-08-01,PA,Entre UFs,15 a 21 dias,No prazo,5,0,0,5,0,24.0,5,0,5,0
+2018-08-01,PA,Entre UFs,22 a 30 dias,No prazo,22,0,0,22,1,101.0,22,0,3,0
+2018-08-01,PA,Entre UFs,31+ dias,No prazo,16,0,0,16,3,68.0,16,0,0,0
+2018-08-01,PB,Entre UFs,15 a 21 dias,Atrasado,2,2,3,2,0,7.0,2,2,2,2
+2018-08-01,PB,Entre UFs,15 a 21 dias,No prazo,8,0,0,8,0,37.0,8,0,8,0
+2018-08-01,PB,Entre UFs,22 a 30 dias,No prazo,13,0,0,13,2,55.0,13,0,12,0
+2018-08-01,PB,Entre UFs,31+ dias,No prazo,5,0,0,5,1,20.0,5,0,1,0
+2018-08-01,PE,Dentro da UF,15 a 21 dias,No prazo,1,0,0,1,0,4.0,1,0,1,0
+2018-08-01,PE,Entre UFs,8 a 14 dias,No prazo,5,0,0,5,0,22.0,5,0,5,0
+2018-08-01,PE,Entre UFs,15 a 21 dias,Atrasado,2,2,23,2,2,2.0,2,2,2,2
+2018-08-01,PE,Entre UFs,15 a 21 dias,No prazo,15,0,0,15,0,66.0,15,0,15,0
+2018-08-01,PE,Entre UFs,22 a 30 dias,Atrasado,2,2,30,2,1,4.0,2,2,1,1
+2018-08-01,PE,Entre UFs,22 a 30 dias,No prazo,40,0,0,40,1,179.0,40,0,27,0
+2018-08-01,PE,Entre UFs,31+ dias,No prazo,18,0,0,18,2,77.0,18,0,0,0
+2018-08-01,PI,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,1,1.0,1,0,1,0
+2018-08-01,PI,Entre UFs,15 a 21 dias,No prazo,3,0,0,3,0,14.0,3,0,3,0
+2018-08-01,PI,Entre UFs,22 a 30 dias,No prazo,5,0,0,5,0,24.0,5,0,4,0
+2018-08-01,PI,Entre UFs,31+ dias,No prazo,11,0,0,11,2,42.0,11,0,0,0
+2018-08-01,PR,Dentro da UF,Até 7 dias,Atrasado,1,1,2,1,0,4.0,1,1,0,0
+2018-08-01,PR,Dentro da UF,Até 7 dias,No prazo,15,0,0,15,1,64.0,15,0,1,0
+2018-08-01,PR,Dentro da UF,8 a 14 dias,Atrasado,4,4,13,4,1,12.0,4,4,0,0
+2018-08-01,PR,Dentro da UF,8 a 14 dias,No prazo,33,0,0,33,1,149.0,33,0,0,0
+2018-08-01,PR,Dentro da UF,15 a 21 dias,No prazo,10,0,0,10,0,49.0,10,0,0,0
+2018-08-01,PR,Dentro da UF,22 a 30 dias,No prazo,5,0,0,5,0,24.0,5,0,0,0
+2018-08-01,PR,Dentro da UF,31+ dias,No prazo,2,0,0,2,0,7.0,2,0,0,0
+2018-08-01,PR,Entre UFs,8 a 14 dias,Atrasado,2,2,8,2,0,8.0,2,2,0,0
+2018-08-01,PR,Entre UFs,8 a 14 dias,No prazo,88,0,0,87,7,386.0,88,0,3,0
+2018-08-01,PR,Entre UFs,15 a 21 dias,Atrasado,3,3,30,3,1,11.0,3,3,0,0
+2018-08-01,PR,Entre UFs,15 a 21 dias,No prazo,102,0,0,102,11,435.0,102,0,2,0
+2018-08-01,PR,Entre UFs,22 a 30 dias,No prazo,47,0,0,47,0,216.0,47,0,0,0
+2018-08-01,PR,Entre UFs,31+ dias,No prazo,14,0,0,14,0,67.0,14,0,0,0
+2018-08-01,PR,Mista,8 a 14 dias,No prazo,1,0,0,1,0,4.0,1,0,0,0
+2018-08-01,RJ,Dentro da UF,Até 7 dias,Atrasado,11,11,28,10,6,23.0,11,11,0,0
+2018-08-01,RJ,Dentro da UF,Até 7 dias,No prazo,39,0,0,39,1,182.0,39,0,1,0
+2018-08-01,RJ,Dentro da UF,8 a 14 dias,Atrasado,6,6,34,6,4,13.0,6,6,2,2
+2018-08-01,RJ,Dentro da UF,8 a 14 dias,No prazo,33,0,0,33,1,156.0,33,0,14,0
+2018-08-01,RJ,Dentro da UF,15 a 21 dias,No prazo,10,0,0,10,2,40.0,10,0,1,0
+2018-08-01,RJ,Dentro da UF,22 a 30 dias,No prazo,3,0,0,3,0,15.0,3,0,0,0
+2018-08-01,RJ,Entre UFs,Até 7 dias,No prazo,1,0,0,1,1,1.0,1,0,0,0
+2018-08-01,RJ,Entre UFs,8 a 14 dias,Atrasado,20,20,148,20,16,38.0,20,20,20,20
+2018-08-01,RJ,Entre UFs,8 a 14 dias,No prazo,131,0,0,131,13,565.0,131,0,131,0
+2018-08-01,RJ,Entre UFs,15 a 21 dias,Atrasado,4,4,20,4,2,10.0,4,4,2,2
+2018-08-01,RJ,Entre UFs,15 a 21 dias,No prazo,232,0,0,230,17,1009.0,232,0,168,0
+2018-08-01,RJ,Entre UFs,22 a 30 dias,Atrasado,1,1,15,1,1,1.0,1,1,0,0
+2018-08-01,RJ,Entre UFs,22 a 30 dias,No prazo,157,0,0,157,13,684.0,157,0,3,0
+2018-08-01,RJ,Entre UFs,31+ dias,No prazo,74,0,0,73,5,317.0,74,0,0,0
+2018-08-01,RJ,Mista,8 a 14 dias,No prazo,1,0,0,1,1,1.0,1,0,0,0
+2018-08-01,RN,Entre UFs,15 a 21 dias,No prazo,4,0,0,4,0,17.0,4,0,4,0
+2018-08-01,RN,Entre UFs,22 a 30 dias,No prazo,12,0,0,12,0,59.0,12,0,11,0
+2018-08-01,RN,Entre UFs,31+ dias,No prazo,4,0,0,4,0,16.0,4,0,0,0
+2018-08-01,RO,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-08-01,RO,Entre UFs,15 a 21 dias,No prazo,3,0,0,3,0,14.0,3,0,3,0
+2018-08-01,RO,Entre UFs,22 a 30 dias,No prazo,3,0,0,3,0,15.0,3,0,0,0
+2018-08-01,RO,Entre UFs,31+ dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-08-01,RS,Dentro da UF,Até 7 dias,Atrasado,1,1,4,1,0,5.0,1,1,0,0
+2018-08-01,RS,Dentro da UF,Até 7 dias,No prazo,4,0,0,4,1,16.0,4,0,0,0
+2018-08-01,RS,Dentro da UF,8 a 14 dias,Atrasado,1,1,3,1,0,4.0,1,1,0,0
+2018-08-01,RS,Dentro da UF,8 a 14 dias,No prazo,7,0,0,7,0,33.0,7,0,0,0
+2018-08-01,RS,Dentro da UF,15 a 21 dias,No prazo,7,0,0,7,1,30.0,7,0,0,0
+2018-08-01,RS,Dentro da UF,22 a 30 dias,No prazo,3,0,0,3,0,15.0,3,0,0,0
+2018-08-01,RS,Entre UFs,8 a 14 dias,Atrasado,4,4,33,4,3,6.0,4,4,0,0
+2018-08-01,RS,Entre UFs,8 a 14 dias,No prazo,55,0,0,55,3,252.0,55,0,9,0
+2018-08-01,RS,Entre UFs,15 a 21 dias,Atrasado,3,3,18,3,1,11.0,3,3,2,2
+2018-08-01,RS,Entre UFs,15 a 21 dias,No prazo,97,0,0,97,5,431.0,97,0,6,0
+2018-08-01,RS,Entre UFs,22 a 30 dias,No prazo,69,0,0,69,3,315.0,69,0,0,0
+2018-08-01,RS,Entre UFs,31+ dias,No prazo,41,0,0,40,4,169.0,41,0,0,0
+2018-08-01,RS,Mista,22 a 30 dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-08-01,SC,Dentro da UF,Até 7 dias,Atrasado,1,1,3,1,1,1.0,1,1,0,0
+2018-08-01,SC,Dentro da UF,Até 7 dias,No prazo,6,0,0,6,0,29.0,6,0,1,0
+2018-08-01,SC,Dentro da UF,8 a 14 dias,Atrasado,1,1,6,1,1,1.0,1,1,1,1
+2018-08-01,SC,Dentro da UF,8 a 14 dias,No prazo,13,0,0,13,1,60.0,13,0,11,0
+2018-08-01,SC,Dentro da UF,15 a 21 dias,No prazo,4,0,0,4,1,15.0,4,0,1,0
+2018-08-01,SC,Dentro da UF,22 a 30 dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-08-01,SC,Entre UFs,8 a 14 dias,Atrasado,1,1,5,1,1,1.0,1,1,1,1
+2018-08-01,SC,Entre UFs,8 a 14 dias,No prazo,40,0,0,40,1,186.0,40,0,40,0
+2018-08-01,SC,Entre UFs,15 a 21 dias,Atrasado,3,3,7,3,0,14.0,3,3,3,3
+2018-08-01,SC,Entre UFs,15 a 21 dias,No prazo,64,0,0,64,6,271.0,64,0,64,0
+2018-08-01,SC,Entre UFs,22 a 30 dias,No prazo,51,0,0,51,4,228.0,51,0,3,0
+2018-08-01,SC,Entre UFs,31+ dias,No prazo,15,0,0,14,1,58.0,15,0,0,0
+2018-08-01,SC,Mista,31+ dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
+2018-08-01,SE,Entre UFs,15 a 21 dias,No prazo,5,0,0,5,1,20.0,5,0,5,0
+2018-08-01,SE,Entre UFs,22 a 30 dias,No prazo,9,0,0,9,1,40.0,9,0,9,0
+2018-08-01,SE,Entre UFs,31+ dias,No prazo,9,0,0,9,1,40.0,9,0,1,0
+2018-08-01,SP,Dentro da UF,Até 7 dias,Atrasado,175,175,646,170,60,555.0,175,175,1,1
+2018-08-01,SP,Dentro da UF,Até 7 dias,No prazo,835,0,0,832,39,3779.0,835,0,0,0
+2018-08-01,SP,Dentro da UF,8 a 14 dias,Atrasado,76,76,322,76,26,249.0,76,76,1,1
+2018-08-01,SP,Dentro da UF,8 a 14 dias,No prazo,1017,0,0,1016,84,4429.0,1017,0,15,0
+2018-08-01,SP,Dentro da UF,15 a 21 dias,Atrasado,7,7,28,7,4,17.0,7,7,0,0
+2018-08-01,SP,Dentro da UF,15 a 21 dias,No prazo,261,0,0,261,15,1135.0,261,0,0,0
+2018-08-01,SP,Dentro da UF,22 a 30 dias,No prazo,68,0,0,68,4,306.0,68,0,0,0
+2018-08-01,SP,Dentro da UF,31+ dias,No prazo,39,0,0,39,3,171.0,39,0,0,0
+2018-08-01,SP,Entre UFs,Até 7 dias,Atrasado,1,1,5,1,1,1.0,1,1,0,0
+2018-08-01,SP,Entre UFs,Até 7 dias,No prazo,6,0,0,6,1,23.0,6,0,0,0
+2018-08-01,SP,Entre UFs,8 a 14 dias,Atrasado,20,20,83,18,11,44.0,20,20,3,3
+2018-08-01,SP,Entre UFs,8 a 14 dias,No prazo,280,0,0,280,18,1232.0,280,0,37,0
+2018-08-01,SP,Entre UFs,15 a 21 dias,Atrasado,2,2,8,2,2,2.0,2,2,0,0
+2018-08-01,SP,Entre UFs,15 a 21 dias,No prazo,221,0,0,221,24,931.0,221,0,15,0
+2018-08-01,SP,Entre UFs,22 a 30 dias,Atrasado,4,4,23,4,3,7.0,4,4,0,0
+2018-08-01,SP,Entre UFs,22 a 30 dias,No prazo,94,0,0,93,8,412.0,94,0,0,0
+2018-08-01,SP,Entre UFs,31+ dias,No prazo,39,0,0,39,3,165.0,39,0,0,0
+2018-08-01,SP,Mista,8 a 14 dias,No prazo,5,0,0,5,3,12.0,5,0,0,0
+2018-08-01,SP,Mista,15 a 21 dias,No prazo,9,0,0,9,4,26.0,9,0,0,0
+2018-08-01,SP,Mista,22 a 30 dias,No prazo,3,0,0,3,3,5.0,3,0,0,0
+2018-08-01,SP,Mista,31+ dias,No prazo,2,0,0,2,1,5.0,2,0,0,0
+2018-08-01,TO,Entre UFs,8 a 14 dias,Atrasado,1,1,2,1,0,4.0,1,1,1,1
+2018-08-01,TO,Entre UFs,8 a 14 dias,No prazo,1,0,0,1,0,5.0,1,0,1,0
+2018-08-01,TO,Entre UFs,15 a 21 dias,Atrasado,1,1,1,1,0,5.0,1,1,1,1
+2018-08-01,TO,Entre UFs,15 a 21 dias,No prazo,3,0,0,3,0,14.0,3,0,3,0
+2018-08-01,TO,Entre UFs,22 a 30 dias,No prazo,6,0,0,6,0,27.0,6,0,0,0
+2018-08-01,TO,Entre UFs,31+ dias,No prazo,1,0,0,1,0,5.0,1,0,0,0
